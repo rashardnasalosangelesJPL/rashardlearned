@@ -12,12 +12,13 @@ author: "RashardKelly @nasa-jpl"
 I tried to submit our annual report on @meta's festival page in favor of [Governor Newsom's](https://news.berkeley.edu/2025/10/03/gov-newsom-visits-uc-berkeley-to-sign-bill-encouraging-quantum-innovation/) , [[TechInitiative](https://www.gov.ca.gov/2025/10/03/governor-newsom-signs-legislation-to-advance-californias-position-as-the-epicenter-of-global-innovation/)], but im seriously doxxed and scared T.i is doing playboy errands with [Normani](https://www.miaminewtimes.com/arts-culture/a-miami-contestant-just-got-sent-home-on-dancing-with-the-stars-40492232/),,, those ppl are such a disruption, she in it and i have to be dismissed by her, i made deals with [her](https://youtu.be/5GL9JoH4Sws?t=139)
 
 
-### MICRODEVICES LABORATORY
-2024 | ANNUAL REPORT @nasa-jpl
-
+### MICRODEVICES LABORATORY 
+2024 | ANNUAL REPORT ::: 
+CLiCK[@nasa-jpl tour](https://www.jpl.nasa.gov/virtual-tour/)
 [DOWNLOAD](https://microdevices.jpl.nasa.gov/about-mdl/annual-reports/2024%20MDL%20Annual%20Report.pdf)
 <img   alt="2024  ANNUAL REPORT @nasa-jpl" src="https://github.com/user-attachments/assets/9d51d89a-2185-439d-a7c9-76e1fe1733da" />
 2023 | ANNUAL REPORT @emit-sds @whitehouse @stateofcalifornia
+[DOWNLOAD](https://d2pn8kiwq2w21t.cloudfront.net/documents/2023-annual-report.pdf)
 <img  alt="2023  ANNUAL REPORT @emit-sds @whitehouse @stateofcalifornia " src="https://github.com/user-attachments/assets/ddffc09f-3aed-4aab-88a7-28ecb53e4c76" />
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FLifeAtMeta%2Fposts%2Fpfbid02rgw12GdoU148DekQQswJ8jZ4wADppXqDripNLL1EdpNydZugphEtmT2mtLyhfThAl&show_text=true&width=500" width="500" height="754" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
