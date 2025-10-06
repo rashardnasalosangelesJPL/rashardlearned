@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: rashardmro
 title:  JPL's Rover World
 published: true
 tags: mars dsn "Deep Space Network" roboticss
