@@ -117,17 +117,19 @@ section {
   margin-top: 0px;
   line-height: 1.5;
   padding: 5px;
-  background: linear-gradient(
+background: linear-gradient(
     45deg,
-    #262626 25%,
-    #595959 0,
-    #595959 50%,
-    #262626 0,
-    #262626 75%,
-    #595959 0
+    #26262650 20%,
+    #59595950 0,
+    #59595950 50%,
+    #26262650 0,
+    #26262650 70%,
+    #59595950 0
   );
   background-size: 80.4px 80.4px;
   background-attachment: fixed;
+
+
 
   /*
 	construction
