@@ -28,8 +28,55 @@ color:white;
 body {
   text-shadow: 0 0 5px #ffffff;
   color: white;
+    width: 80vw;
+  height: 100vh;
+  object-fit: contain;
 }
 
+
+#content {
+  display: flex;
+  flex-wrap: wrap;
+  border-radius: 31px 31px 31px 31px;
+  width: 80vw; 
+  scrollbar-color: #595959 #262626;
+    padding: 25px;
+  height: 60vh;
+  overflow-y: auto;
+  margin-bottom: 40px;
+  margin-right: 4em;
+  margin-left: auto; 	
+  margin-top: 25px;
+  border: 10px solid #262626;
+  text-align:left; 
+  voice-family:inherit;
+  box-shadow: rgba(38,38,38, 0.4) 5px 5px, rgba(38,38,38, 0.3) 10px 10px, rgba(38,38,38, 0.2) 15px 15px, rgba(38,38,38, 0.1) 20px 20px, rgba(38,38,38, 0.05) 25px 25px;
+
+	background: linear-gradient(45deg, 
+              #fb3 25%, #26262450 0, #26262450 50%,
+              #fb3 0, #fb3 75%, #26262450 0);
+    background-size: 80.4px 80.4px;
+    background-attachment: fixed;
+ }
+
+
+.animate.pop {
+  animation-duration: 2.5s;
+  animation-name: animate-pop;
+  animation-timing-function: cubic-bezier(.26, .53, .74, 1.48);
+}
+
+@keyframes animate-pop {
+  0% {
+    opacity: 0;
+    transform: scale(0.5, 0.5);
+  }
+
+  100% {
+    opacity: 1;
+    transform: scale(1, 1);
+  }
+}
 
 img:nth-child(odd) {
   float: right;
@@ -39,50 +86,45 @@ img:nth-child(even) {
 
 }
 
+
+
 .box {
-    width: 100%;
-    display: flex;
-    flex-wrap: wrap;
-    background-attachment: fixed;
-    justify-content: space-evenly;
-    background-size: 100% auto;
-    font-kerning: normal;
-    border-radius: 4px;
-    letter-spacing: .2rem;
-    font: bold 10px/18px verdana, lucida, sans-serif;
-    background: url(https://noirlab.edu/public/media/archives/images/large/noirlab2116a.jpg) -237px 30px no-repeat fixed;
-  }
+  width: 100vw;
+  border: 1px solid #3df28b;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0.1rem;
+  background-attachment: fixed;
+  justify-content: space-evenly;
+  background-size: 100% auto;
+  font-kerning: normal;
+  letter-spacing: 0.2rem;
+  font: bold 10px/18px verdana, lucida, sans-serif;
+  background: url(https://mars.nasa.gov/msl-raw-images/msss/04571/mhli/4571MH0002270001604098R00_DXXX.jpg);
+  background-size: 20% auto;
+  background-attachment: fixed;
+}
 
-  .box>* {
-    display: block;
-    text-decoration: none;
-    transition: all .2s ease-in-out;
-    border: 1px solid #c9ff23;
-    padding: 3px;
-    border-radius: 2px;
-    margin:5px;
-    background-color: #3DF28B20;
-    transition: all .2s ease-in-out;
-    flex-shrink:1;
-    flex-grow:1;
- 
-    
-          &:hover {
-        flex-grow: 3;
-        
-      }
-    }
-  
-  .box a:link {
-    
-    color: white;
-    
-  }
+.box > * {
+  display: block;
+  text-decoration: none;
+  transition: all 0.2s ease-in-out;
+  border: 1px solid #c9ff23;
+  padding: 1px;
+  margin: 1px;
+  background-color: #3df28b20;
+  transition: all 0.2s ease-in-out;
+  flex-shrink: 1;
+  flex-grow: 1;
 
-  .box a:hover {
-    transform: scale(1.3);
+  &:hover {
+    flex-grow: 3;
   }
+}
 
+.box a:link {
+  color: white;
+}
 
   .drop {filter: drop-shadow(4px 4px 1px #b71c1c);}
 
@@ -151,16 +193,27 @@ a {
 
   padding: 0px;
   align-content: center;
-  padding: 15px;
   margin-right: auto;
-  margin-left: auto; 	
   /* opera does not like 'margin:20px auto' */
   /* background: #666; */
+  width: 50%; /* ie5win fudge begins */
+  text-align: left;
+  margin-bottom: -27px;
   
-  text-align:left; 
 }
 
 
+#header {
+  display: block;
+  padding: 0px;
+  align-content: center;
+  margin-bottom: -27px;
+  padding: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  width: 75vw;
+  text-align: left;
+}
 
 
 hr {
@@ -169,10 +222,12 @@ hr {
   border-bottom: 1px dashed #595959;
   color: #595959;
 }
+
+
 svg {
  width: 100%;
  height: 100%;
- visibility: hidden;
+
 }
 
 embed {
@@ -199,55 +254,6 @@ h1, h2, h3 {
   columns: 2;
 
 }
-#content {
-  
-  border-radius: 31px 31px 31px 31px;
-  width: 80vw; 
-  scrollbar-color: #595959 #262626;
-    padding: 25px;
-  height: 60vh;
-  overflow-y: auto;
-  margin-bottom: 40px;
-  margin-right: auto;
-  margin-left: auto; 	
-  margin-top: 25px;
-  border: 10px solid #262626;
-  text-align:left; 
-  voice-family:inherit;
-  box-shadow: rgba(38,38,38, 0.4) 5px 5px, rgba(38,38,38, 0.3) 10px 10px, rgba(38,38,38, 0.2) 15px 15px, rgba(38,38,38, 0.1) 20px 20px, rgba(38,38,38, 0.05) 25px 25px;
-  background : #0D0D0D;
-  background-image :
-    linear-gradient(#262626 1px, transparent 0),
-    linear-gradient(90deg, #262626 1px, transparent 0), ;
-  background-size: 30px 30px;
-    background-attachment: fixed;   
- background-image: 
-   /* url(https://photojournal.jpl.nasa.gov/jpegMod/PIA02528_modest.jpg); */
-   url(https://solarsystem.nasa.gov/images/casJPGFullS38/W00042279.jpg);
-   
-background-size: cover;/*now this is known for the safari*/
-background-attachment: fixed;     
- }
-
-
-.animate.pop {
-  animation-duration: 2.5s;
-  animation-name: animate-pop;
-  animation-timing-function: cubic-bezier(.26, .53, .74, 1.48);
-}
-
-@keyframes animate-pop {
-  0% {
-    opacity: 0;
-    transform: scale(0.5, 0.5);
-  }
-
-  100% {
-    opacity: 1;
-    transform: scale(1, 1);
-  }
-}
-
 p {
   
   margin :19px;
@@ -2225,4 +2231,3 @@ gradient-text {
   flex: 1 1 200px;
   padding: 0px;
 }
-
