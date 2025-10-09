@@ -9,8 +9,8 @@ somafm [SPaceStationSOMA](https://somafm.com/spacestation/) OR [Deep Space One](
 [current](https://youtu.be/d8yGrk0Sfxg?t=2335) = [UHF](https://dn720405.ca.archive.org/0/items/uhf_20221230/UHF.mp4)
 
 [IT Linux Systems Engineer](https://job-boards.greenhouse.io/spacex/jobs/8053599002)
-<img src="https://ecostress.jpl.nasa.gov/downloads/images/streetheat_la_ver3.png" />
-![@cityoflosangeles @nasa-jpl @stateofcalifornia @blackgirlscode](https://ecostress.jpl.nasa.gov/downloads/images/streetheat_la_ver3.png)
+
+![@cityoflosangeles @nasa-jpl @stateofcalifornia @blackgirlscode](https://ecostress.jpl.nasa.gov/downloads/images/streetheat_la.png?fbclid=IwY2xjawNU4RxleHRuA2FlbQIxMABicmlkETA2T3E0blUwRUFLQnpMMkVsAR5v5o1RYIpESdxSSYr2m9xC73zGw2icIckRQEEr5TgOc-re8DlCu_B5jrtaMg_aem_Gs25fLM42-KfUzGVGafE0w)
 
 [KMZ](https://ecostress.jpl.nasa.gov/downloads/images/ECOSTRESS_LST_SummerDay_LosAngeles.kmz)
 <picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
