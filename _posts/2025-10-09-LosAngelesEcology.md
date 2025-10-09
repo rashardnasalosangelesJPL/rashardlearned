@@ -2,7 +2,7 @@
 layout: post
 mermaid: true
 published: true
-title: L.A. Ecology
+title: L.A. Ecology @CityOfLosAngeles @Nasa-jpl
 image: rashards_la_county_ticket_ECOSTRESS_CROP_00164_streetheat_la.png
 author: "RashardKelly @nasa-jpl"
 date:   2025-10-09 8:51:06 
@@ -290,6 +290,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
