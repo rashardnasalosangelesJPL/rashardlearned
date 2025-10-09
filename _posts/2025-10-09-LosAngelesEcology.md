@@ -11,6 +11,20 @@ date:   2025-10-09 8:51:06
 
 <img  alt="image" src="https://github.com/user-attachments/assets/b248c583-cccd-494c-8a3f-8e010f72db41" />
 
+# Los Angeleles [SarView @cityoflosangeles ](https://www.earthdata.nasa.gov/data/tools/vertex)
+@whitehouse @asfadmin @nasa-jpl @emit-sds @blackgirlscode @stateofcalifornia 
+
+<div class="tupperware">
+    
+{% for image in site.static_files %}
+    {% if image.path contains 'assets/images/gallery-lasar10-9' | sort: 'date' | reverse %} 
+        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
+            <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
+        </a>
+    {% endif %}
+{% endfor %}
+
+</div>
 
 @Cityoflosangeles CHLOROPHYLL @nasa-jpl theres a big smear here, im almost done with my report
 Coordinates: 33.8313°, -118.1745°
@@ -290,6 +304,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
