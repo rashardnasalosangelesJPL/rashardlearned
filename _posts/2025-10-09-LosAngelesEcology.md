@@ -22,12 +22,6 @@ date:   2025-10-09 8:51:06
 
 
 
-
-
-![S1C_IW_GRDH_1SDV_20251006T014931_20251006T014956_004435_008C8B_0EE3](https://github.com/user-attachments/assets/e9162420-aaeb-4222-9c1e-6ee004b516c9)
-
-<img  alt="image" src="https://github.com/user-attachments/assets/b248c583-cccd-494c-8a3f-8e010f72db41" />
-
 # Los Angeleles [SarView @cityoflosangeles ](https://www.earthdata.nasa.gov/data/tools/vertex)
 @whitehouse @asfadmin @nasa-jpl @emit-sds @blackgirlscode @stateofcalifornia 
 
@@ -42,6 +36,15 @@ date:   2025-10-09 8:51:06
 {% endfor %}
 
 </div>
+
+![S1C_IW_GRDH_1SDV_20251006T014931_20251006T014956_004435_008C8B_0EE3](https://github.com/user-attachments/assets/e9162420-aaeb-4222-9c1e-6ee004b516c9)
+
+
+
+
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/b248c583-cccd-494c-8a3f-8e010f72db41" />
 
 @Cityoflosangeles CHLOROPHYLL @nasa-jpl theres a big smear here, im almost done with my report
 Coordinates: 33.8313°, -118.1745°
@@ -321,6 +324,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
