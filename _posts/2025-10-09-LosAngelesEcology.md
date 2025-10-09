@@ -9,6 +9,22 @@ date:   2025-10-09 8:51:06
 
 ---
 
+## EcoStress HeatMAp 
+
+
+[KMZ](https://ecostress.jpl.nasa.gov/downloads/images/ECOSTRESS_LST_SummerDay_LosAngeles.kmz) 
+[GoogleMaps @nasa-jpl @blackgirlscode](https://earth.google.com/web/@33.97546243,-118.21866348,46.7908069a,121182.25139954d,30y,0h,0t,0r/data=CgRCAggBOgMKATBCAggASggI2cjE5QEQAA)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/50ea44d1-a3e1-4d27-8859-1bdc34f8dcad" />
+
+
+![@cityoflosangeles @nasa-jpl @stateofcalifornia @blackgirlscode](https://ecostress.jpl.nasa.gov/downloads/images/streetheat_la.png?fbclid=IwY2xjawNU4RxleHRuA2FlbQIxMABicmlkETA2T3E0blUwRUFLQnpMMkVsAR5v5o1RYIpESdxSSYr2m9xC73zGw2icIckRQEEr5TgOc-re8DlCu_B5jrtaMg_aem_Gs25fLM42-KfUzGVGafE0w)
+
+
+
+
+
+![S1C_IW_GRDH_1SDV_20251006T014931_20251006T014956_004435_008C8B_0EE3](https://github.com/user-attachments/assets/e9162420-aaeb-4222-9c1e-6ee004b516c9)
+
 <img  alt="image" src="https://github.com/user-attachments/assets/b248c583-cccd-494c-8a3f-8e010f72db41" />
 
 # Los Angeleles [SarView @cityoflosangeles ](https://www.earthdata.nasa.gov/data/tools/vertex)
@@ -304,6 +320,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
