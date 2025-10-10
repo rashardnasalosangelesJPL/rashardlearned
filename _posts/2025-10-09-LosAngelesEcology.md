@@ -9,6 +9,15 @@ date:   2025-10-09 8:51:06
 
 ---
 
+
+Los Angeles-Area Landslide Expands
+[ReadMore @CityOfLosangeles @nasa-jpl @blackgirlscode](https://www.earthobservatory.nasa.gov/images/153893/los-angeles-area-landslide-expands)
+<img  alt="image" src="https://github.com/user-attachments/assets/04d50380-3db5-499d-aa94-0aba0516fde4" />
+
+[@cityoflosangeles FUTURE+PERCiPiTATiON- interactive MAp]( https://dashboard.waterdata.usgs.gov/app/nwd/en/?aoi=bbox-%5B-122.529%2C32.32852%2C-113.34741%2C36.09593%5D&view=%7B%22basemap%22%3A%22EsriImagery2%22%2C%22bounds%22%3A%22-122.52899778611125%2C32.328515069722954%2C-113.34740981384746%2C36.09593184500141%22%2C%22insetMap%22%3Afalse%2C%22panel%22%3A%7B%22id%22%3A%22ViewerLayers%22%2C%22open%22%3Afalse%2C%22checkbox%22%3A%220%2C10%2C12%2C20%2C21%2C22%2C23%22%2C%22range%22%3A%220%3A1.0%2C1%3A1.0%2C2%3A1.0%2C3%3A1.0%2C4%3A1.0%2C5%3A1.0%2C6%3A1.0%2C7%3A1.0%2C8%3A0.8%2C9%3A0.3%2C10%3A0.5%2C11%3A0.5%2C12%3A0.5%2C13%3A0.5%2C14%3A0.5%2C15%3A0.5%2C16%3A0.5%2C17%3A1.0%2C18%3A1.0%2C19%3A1.0%2C20%3A1.0%22%2C%22select%22%3A%220%3A0%2C1%3A0%2C2%3A0%2C3%3A0%2C4%3A0%2C5%3A0%2C6%3A0%2C7%3A0%2C8%3A0%2C9%3A0%2C10%3A0%2C11%3A0%2C12%3A4%2C13%3A0%2C14%3A0%2C15%3A0%2C16%3A0%2C17%3A0%2C18%3A0%2C19%3A0%22%7D%7D )
+
+<img   alt="image" src="https://github.com/user-attachments/assets/2a035235-9987-4d83-a120-147ff174637b" />
+
 ## EcoStress HeatMAp 
 
 
@@ -21,12 +30,6 @@ date:   2025-10-09 8:51:06
 ![@cityoflosangeles @nasa-jpl @stateofcalifornia @blackgirlscode](https://ecostress.jpl.nasa.gov/downloads/images/streetheat_la.png?fbclid=IwY2xjawNU4RxleHRuA2FlbQIxMABicmlkETA2T3E0blUwRUFLQnpMMkVsAR5v5o1RYIpESdxSSYr2m9xC73zGw2icIckRQEEr5TgOc-re8DlCu_B5jrtaMg_aem_Gs25fLM42-KfUzGVGafE0w)
 
 
-
-
-
-![S1C_IW_GRDH_1SDV_20251006T014931_20251006T014956_004435_008C8B_0EE3](https://github.com/user-attachments/assets/e9162420-aaeb-4222-9c1e-6ee004b516c9)
-
-<img  alt="image" src="https://github.com/user-attachments/assets/b248c583-cccd-494c-8a3f-8e010f72db41" />
 
 # Los Angeleles [SarView @cityoflosangeles ](https://www.earthdata.nasa.gov/data/tools/vertex)
 @whitehouse @asfadmin @nasa-jpl @emit-sds @blackgirlscode @stateofcalifornia 
@@ -42,6 +45,15 @@ date:   2025-10-09 8:51:06
 {% endfor %}
 
 </div>
+
+![S1C_IW_GRDH_1SDV_20251006T014931_20251006T014956_004435_008C8B_0EE3](https://github.com/user-attachments/assets/e9162420-aaeb-4222-9c1e-6ee004b516c9)
+
+
+
+
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/b248c583-cccd-494c-8a3f-8e010f72db41" />
 
 @Cityoflosangeles CHLOROPHYLL @nasa-jpl theres a big smear here, im almost done with my report
 Coordinates: 33.8313°, -118.1745°
@@ -321,6 +333,9 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
+
+
 
 
 
