@@ -5,7 +5,13 @@ published: true
 image: tumblr_9996aa2d413f6668f7f48ccdb4f9fb8a_8780e031_2048.jpg
 ---
 
+# Santa Monica : Tech Day
+@cityoflosangeles @stateofcalifornia @emit-sds @nasa-jpl @whitehouse
+@blackgirlscode : @newshour @datadesk @cbs-news-data @disney
 
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0cs1L3Bdgbd4qXfezYJ1hsGGhu3UVKYQ9psZ5g717mmjZANVkKiGnVQXJMfxw7DUgl%26id%3D100084464911565&show_text=true&width=500" width="500" height="843" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+<img  alt="image" src="https://github.com/user-attachments/assets/1de6caef-6fe6-4aac-9bb4-4d057829bb88" />
 
 # Georgia
 [Link - NighttimeMAP @nasa-jpl @emit-sds](https://wvs.earthdata.nasa.gov/api/v1/snapshot?REQUEST=GetSnapshot&TIME=2025-10-02T00:00:00Z&BBOX=30.2599,-89.7974,35.409,-77.4857&CRS=EPSG:4326&LAYERS=VIIRS_SNPP_DayNightBand_At_Sensor_Radiance,Coastlines_15m,Reference_Features_15m&WRAP=none,x,x&FORMAT=image/png&WIDTH=2802&HEIGHT=1172&colormaps=VIIRS_DayNightBand_At_Sensor_Radiance,,&ts=1760060172280)
