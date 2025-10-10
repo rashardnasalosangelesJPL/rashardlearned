@@ -1,10 +1,10 @@
 ---
-layout: default
+layout: rt_leap
 mermaid: true
 ---
 
 
-<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="qEbmVXy" data-pen-title="Untitled" data-preview="true" data-user="rashardsdata" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="qEbmVXy" data-pen-title="Untitled" data-preview="true" data-user="rashardsdata" style="height: 300px; width: 100%; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/rashardsdata/pen/qEbmVXy">
   Untitled</a> by Rashard Iman Kelly @nasa-jpl (<a href="https://codepen.io/rashardsdata">@rashardsdata</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
