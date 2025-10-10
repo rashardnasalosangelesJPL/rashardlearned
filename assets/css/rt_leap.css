@@ -31,8 +31,8 @@ html {
 }
 
 body {
-	max-width: 70vw;
-	max-height: 75vh;
+  width: 100vw;
+  height: 100vh;
   margin:auto;
   object-fit: contain;
 }
@@ -121,14 +121,15 @@ HGROUP h1 {
 
 
 section {
+	  display: flex;
+  flex-wrap: wrap;
 	position: relative;
    scrollbar-color: #595959 #262626;
 	margin: 0 auto;
 	padding: 1em;
-	max-width: 70vw;
+	max-width: 750px;
 	max-height: 75vh;
-  overflow-y: auto;
-	border-radius: .3em;
+  	border-radius: .3em;
   border-radius: .3px;
 	box-shadow: 0 0 0 1px hsla(0,0%,100%,.3) inset,
 	            0 .5em 1em rgba(0, 0, 0, 0.1);
@@ -5551,4 +5552,5 @@ grid-template-columns: 1fr 1fr 1fr 1fr 1fr; */
     bottom: auto;
     width: auto;
   }
+
 }
