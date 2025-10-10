@@ -9,6 +9,12 @@ date:   2025-10-09 8:51:06
 
 ---
 
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="YPzJvaJ" data-pen-title="WebSafeFontSampler @normani" data-preview="true" data-user="ricoThaka" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/ricoThaka/pen/YPzJvaJ">
+  WebSafeFontSampler @normani</a> by ricoThaka (<a href="https://codepen.io/ricoThaka">@ricoThaka</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://public.codepenassets.com/embed/index.js"></script>
 
 Los Angeles-Area Landslide Expands
 [ReadMore @CityOfLosangeles @nasa-jpl @blackgirlscode](https://www.earthobservatory.nasa.gov/images/153893/los-angeles-area-landslide-expands)
@@ -333,6 +339,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
