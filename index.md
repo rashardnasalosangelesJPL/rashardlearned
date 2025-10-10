@@ -4,7 +4,13 @@ mermaid: true
 ---
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/m4-iYnZtJcI?si=uIEOuQ7qLKFd8OOV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="qEbmVXy" data-pen-title="Untitled" data-preview="true" data-user="rashardsdata" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/rashardsdata/pen/qEbmVXy">
+  Untitled</a> by Rashard Iman Kelly @nasa-jpl (<a href="https://codepen.io/rashardsdata">@rashardsdata</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://public.codepenassets.com/embed/index.js"></script>
+
 
   {% for post in site.posts %}
     
