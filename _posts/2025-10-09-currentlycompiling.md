@@ -5,6 +5,13 @@ published: true
 image: tumblr_9996aa2d413f6668f7f48ccdb4f9fb8a_8780e031_2048.jpg
 ---
 
+
+
+# Georgia
+[Link - NighttimeMAP @nasa-jpl @emit-sds](https://wvs.earthdata.nasa.gov/api/v1/snapshot?REQUEST=GetSnapshot&TIME=2025-10-02T00:00:00Z&BBOX=30.2599,-89.7974,35.409,-77.4857&CRS=EPSG:4326&LAYERS=VIIRS_SNPP_DayNightBand_At_Sensor_Radiance,Coastlines_15m,Reference_Features_15m&WRAP=none,x,x&FORMAT=image/png&WIDTH=2802&HEIGHT=1172&colormaps=VIIRS_DayNightBand_At_Sensor_Radiance,,&ts=1760060172280)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/846ec604-0688-402b-b9fe-b3ec4a592cbb" />
+
 <iframe src="https://archive.org/embed/saturnsRings2005/ezgif.com-gif-to-mp4-converter.mp4" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 Cassini Raw Images [gallery](https://solarsystem.nasa.gov/cassini-raw-images/) @noaagov @nasa @nasa-jpl im still finding things 
