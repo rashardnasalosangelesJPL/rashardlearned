@@ -8,6 +8,17 @@ image: womeninscience.jpg
 author: "RashardKelly @nasa-jpl"
 ---
 
+@CityOfLosAngeles :: #[HOLLY_MiTCHELL](https://lacounty.gov/government/board-of-supervisors/holly-j-mitchell/) / #[KAREN_BASS](https://www.congress.gov/member/karen-bass/B001270) @blackgirlscode KAshDoll sent me this album to explain our new relationship . . . [MostlyOnline](https://www.facebook.com/permalink.php?story_fbid=pfbid031sZ5K2sfXJLQhZ5ECUnnXqXcFTGLxALkVjMbBRhGPB6KQaZaTjKeFWy9uLkWmDcrl&id=100084464911565) , [NORMmani](https://www.facebook.com/permalink.php?story_fbid=pfbid0oGHQ5xRpkU44XUJzLruHCRywWd5mxYZVmtJBvU25pM9cXE2hDqckrJsbXxTprf3Pl&id=100084464911565) was her secret friends but we were open friends other places @nasa-jpl @whitehouse @blackgirlscode im not mad -[Rashard](https://rashardsdata.github.io/)
+
+<img width="318" height="318" alt="image" src="https://github.com/user-attachments/assets/5a6bdaf4-4503-4681-a2a7-41af1a969b37" />
+
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/0bf1IKVWM1yv1rduV6gx0B?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+you in or what @nasa-jpl this is the response @blackgirlscode @normani @newshour i need help man! @abc7 @nasa
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A694087468&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/kashdoll" title="Kash Doll" target="_blank" style="color: #cccccc; text-decoration: none;">Kash Doll</a> · <a href="https://soundcloud.com/kashdoll/no-lames-feat-summer-walker" title="No Lames (feat. Summer Walker)" target="_blank" style="color: #cccccc; text-decoration: none;">No Lames (feat. Summer Walker)</a></div>
+
 @CityOfLosAngeles :: #[HOLLY_MiTCHELL](https://lacounty.gov/government/board-of-supervisors/holly-j-mitchell/) / #[KAREN_BASS](https://www.congress.gov/member/karen-bass/B001270)
 I tried to submit our annual report on @meta's festival page in favor of [Governor Newsom's](https://news.berkeley.edu/2025/10/03/gov-newsom-visits-uc-berkeley-to-sign-bill-encouraging-quantum-innovation/) , [[TechInitiative](https://www.gov.ca.gov/2025/10/03/governor-newsom-signs-legislation-to-advance-californias-position-as-the-epicenter-of-global-innovation/)], but im seriously doxxed and scared T.i is doing playboy errands with [Normani](https://www.miaminewtimes.com/arts-culture/a-miami-contestant-just-got-sent-home-on-dancing-with-the-stars-40492232/),,, those ppl are such a disruption, she in it and i have to be dismissed by her, i made deals with [her](https://youtu.be/5GL9JoH4Sws?t=139)
 

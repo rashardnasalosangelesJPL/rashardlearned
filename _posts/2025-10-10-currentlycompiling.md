@@ -6,6 +6,60 @@ image: tumblr_9996aa2d413f6668f7f48ccdb4f9fb8a_8780e031_2048.jpg
 ---
 
 
+# [#WorKiNG_REMOTE:POST_EATON_CANYON_WiLDFiRE:: #LiBrary_Life in Hollywood](#BLOCKERS)
+[#AGiLE](https://www.oreilly.com/library/view/learning-agile/9781449363819/):#[BLOCKERS](https://www.solutioneers.co.uk/blockers/)
+This lady that look like Laurie Leshin cousin from Georgia was in here, its like 3 astro sisters. If she is the one i am thinking of she is attached to Caltech via GaTech and just working out here while whatever civil upheaval resolves in the south... The guard put her out while she was screaming im working... I KNOW FOR SURE SHE IS A DATASCiENTiST and good with #WikiMarkup its still like 6000 ppl work for JPL and LA is a very outdoorsy place bc the housing was never designed to support the native Architechture, Ms Bass is nesting and Gavin is angry at trump but i see less in your face hurtful behavior so however things work LAPD had on Michael Jackson chin gaurds an there was a big art party, the gaurd should not have put her out -#[rashard u/nasa #JPL @reddit](https://thakarashard.github.io/) 🚫 `Sorry, this post was removed by Reddit’s filters.` [Read On Reddit](https://www.reddit.com/r/NASAJobs/comments/1laloht/working_remotepost_eaton_canyon_wildfire_library/) @nasa @nasa-jpl @stateofcalifornia : @blackgirlscode if you having troubles!@cityoflosangeles [books.google](https://books.google.com/books/about/Learning_Agile.html?id=gbxUBQAAQBAJ) [AGILE METHODOLOGIES -Gayatri Vidya Parishad College of Engineering https://gvpce.ac.in › ECE › syllabus](https://gvpce.ac.in/ECE/R-2019/syllabus/19CS11P1.pdf) [JPL to Transition to Fully Onsite Work:@nasa-jpl life](https://www.jpl.nasa.gov/news/jpl-to-transition-to-fully-onsite-work/)
+### California Linux Jun13/2025
+<object data="https://archive.org/embed/WorKiNG_REMOTEPOST_EATON_CANYON_WiLDFiRELiBraryLifenHollywood" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></object>
+![WorKiNG_REMOTE POST_EATON_CANYON_WiLDFiRE #LiBrary_Life in Hollywood #AGiLE#BLOCKERS](https://github.com/user-attachments/assets/7cc5faa5-2768-414c-b2dd-39e4307683ea)
+
+
+<blockquote class="reddit-embed-bq" style="height:316px" data-embed-height="316"><a href="https://www.reddit.com/r/NASAJobs/comments/1laloht/working_remotepost_eaton_canyon_wildfire_library/">#WorKiNG_REMOTE:POST_EATON_CANYON_WiLDFiRE:: #LiBrary_Life in Hollywood #AGiLE:#BLOCKERS</a><br> by<a href="https://www.reddit.com/user/Dizzy-Decision-2115/">u/Dizzy-Decision-2115</a> in<a href="https://www.reddit.com/r/NASAJobs/">NASAJobs</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
+
+## Kash Doll - Summer Sixteen [freestyle]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OiCYElX11Io?si=94prdG1TuxSuKL5U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe src="https://audiomack.com/embed/kashbratz/album/trapped-in-the-dollhouse-1" scrolling="no" width="100%" height="400" frameborder="0" title="Trapped In The Dollhouse"></iframe>
+
+[Kash Doll Decodes "Trapped In The Dollhouse" Mixtape Title and What To Expect](https://www.youtube.com/watch?v=mtgjdKP8m1k) @blackgirlscode i found the whole thing where she start talking to me over songs @dhs-gov i did not rape her, but if she dont move right... she did it to me [...](https://youtu.be/166gWQeBQPY?list=PLL1h1su5XWVFUtxm5TTlWY9l-AXJrhuTB) 
+@ maybe im wrong about black and white suspense and i overly scienced sexuality [@nasa @whitehouse](https://soundcloud.com/realniggarealshit/sets/trapped-in-the-dollhouse) @cityoflosangeles @stateofcalifornia 
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/486509007&color=%23f29cff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/realniggarealshit" title="IMTHEHIGHPRIESTESS" target="_blank" style="color: #cccccc; text-decoration: none;">IMTHEHIGHPRIESTESS</a> · <a href="https://soundcloud.com/realniggarealshit/sets/trapped-in-the-dollhouse" title="Trapped In The Dollhouse" target="_blank" style="color: #cccccc; text-decoration: none;">Trapped In The Dollhouse</a></div> [LA](https://ita.lacity.gov/sites/g/files/wph1626/files/2021-05/SmartLA2028%20-%20Smart%20City%20Strategy.pdf)
+
+### iMAGEMAGiCK
+## ImageMagick Examples --
+ Animation Basics
+I lost my commands, i need to dump my history file from time to time... -  [Basics DOC imagemagick.org](https://usage.imagemagick.org/anim_basics/#gif_anim)
+
+
+<div class="tupperware" markdown="1">
+
+![hollywoodlolo gif](https://archive.org/download/hollywoodlolo/hollywoodlolo.gif)
+
+![Sol 4518 gif](https://raw.githubusercontent.com/ricoThakarashard/rashardmro/refs/heads/master/assets/img/Sol4518.gif)
+
+</div>
+
+# @blackgirlscode * im sorry
+ i was into jehovahs witnesses and neglecte[d](https://www.jw.org/en/library/magazines/g201004/Will-Sex-Improve-Our-Relationship/) [your opportunities](https://www.jw.org/en/search/?q=relationships%5C) -[Rashard](https://rashardlanasa.github.io/) @nasa-jpl @stateofcalifornia @AlamedaCounty
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FiGAkDE7s7o?si=7VGcrpaOrwAPXsCv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+ <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/w1-4nQbFNq_M02iOR1eYKg/786094243471048704" data-did="24655466fd038d3d9fbade1fe1fd7093c10866fb"><a href="https://rashardmro.tumblr.com/post/786094243471048704/pia26528-perserverance-captures-crater-rim-dust">https://rashardmro.tumblr.com/post/786094243471048704/pia26528-perserverance-captures-crater-rim-dust</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
+ 
+# LIVE: ABC7 Eyewitness News
+[![Twitter Follow](https://img.shields.io/badge/Social-@ABC7__-blue?style=social&logo=X)](https://twitter.com/@ABC7)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s3iVFJoxrYc?si=cOpXOvk_ab2c2JgI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0weJuLQQabNcR4uQh62mmHpC8ePSW1QaqK1kwdBbKiQsqoaZj1ziwn9t1ssDdKjYGl%26id%3D100084464911565&show_text=true&width=500" width="500" height="558" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+
+[Mayor Bass pushes back on media portrayal of protests: “It is a lie”](https://www.cnn.com/us/live-news/la-protests-ice-raids-trump-06-11-25) @cityoflosangeles @stateofcalifornia [Feel the Heartbeat (Have Fun)](https://www.youtube.com/watch?v=hUjmayTb3YQ)
+
+![graffiti ev](https://dims.apnews.com/dims4/default/9b20c41/2147483647/strip/true/crop/4320x2880+0+0/resize/767x511!/format/webp/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F49%2F98%2Fb044017c048e11324244fd311155%2F321feb4403dc4cde813949f343ca215e)
+[Los Angeles’ image is scuffed since ICE raids and protests, with World Cup and Olympics on horizon](https://apnews.com/article/los-angeles-trump-immigration-ice-raids-protests-6823da82d8d25e12d392088c7cde40c5)
+![LA_GRAFFiTi](https://dims.apnews.com/dims4/default/13f87f6/2147483647/strip/true/crop/6000x4000+0+0/resize/767x511!/format/webp/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb6%2F81%2Fbd325b55c3cbcdc70f14348b2bd2%2F5ef23217fe0346a686b97d11c36b6abb)
+![tats_cru](https://dims.apnews.com/dims4/default/9494e60/2147483647/strip/true/crop/3040x2026+0+0/resize/767x511!/format/webp/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F7e%2Ff9%2Fb9c2ae34bbf649a6068d859d2f9d%2Fafd39913e3fc4a25b65959be41e01833)
+
+[Maps and photos show how the Los Angeles ICE protests unfolded](https://www.cbsnews.com/news/los-angeles-ice-protests-timeline/)
+[Mayor Bass pushes back on media portrayal of protests: “It is a lie”](https://www.cnn.com/us/live-news/la-protests-ice-raids-trump-06-11-25) @cityoflosangeles @stateofcalifornia [Feel the Heartbeat (Have Fun)](https://www.youtube.com/watch?v=hUjmayTb3YQ)
+
 [DJ Jazzy Jeff](https://www.youtube.com/live/1P_p0dE_tCU?si=mtKr0LwSJfI9Kw3P)
 
 <img alt="image @blackgirlscode RashardthakasErika selassie_kel
