@@ -9,6 +9,11 @@ date:   2025-10-09 8:51:06
 
 ---
 
+[MAPPiNG @CityOfLosAngles Trees @StateOfCalifornia](https://ntrs.nasa.gov/api/citations/20250007467/downloads/2025Sum_JPL_LosAngelesCountyEco_Presentation_FD.pdf)
+
+
+[@usgs ASTROPEDiA](https://astrogeology.usgs.gov/search/map/io_voyager_image_control_network) 
+
 <p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="YPzJvaJ" data-pen-title="WebSafeFontSampler @normani" data-preview="true" data-user="ricoThaka" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/ricoThaka/pen/YPzJvaJ">
   WebSafeFontSampler @normani</a> by ricoThaka (<a href="https://codepen.io/ricoThaka">@ricoThaka</a>)
@@ -68,6 +73,10 @@ Coordinates: 33.8313°, -118.1745°
 
 # California 
 Resivoirs, Dams, Settlements [Interactive Modifyable - @nasa MAP](https://worldview.earthdata.nasa.gov/?v=-126.37290600480512,30.84803013201238,-109.49553324480513,39.22518442382487&l=Reference_Labels_15m,Reference_Features_15m,Coastlines_15m,GRanD_Dams,GRanD_Reservoirs,GRUMP_Settlements,VIIRS_SNPP_GapFilled_BRDF_Corrected_DayNightBand_Radiance,OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor(hidden)&lg=true&s=-118.3414,33.3718&t=2025-08-20-T20%3A00%3A00Z)
+
+![Uploading image.png…]()
+
+![Uploading image.png…]()
 
 BASEMAP : VIIRS/NPP Gap-Filled Lunar BRDF-Adjusted Nighttime Lights Daily L3 Global 15 arc-second Linear Lat Lon Grid [NRT](https://www.earthdata.nasa.gov/learn/earth-observation-data-basics/near-real-time-versus-standard-products#:~:text=Near%20real%2Dtime%20(NRT),aboard%20a%20space%2Dbased%20platform.)
 `ViiRS` = Visible Infrared Imaging Radiometer Suite [State:OPERATiONAL](https://www.earthdata.nasa.gov/data/instruments/viirs) @Cityoflosangeles [LocalLinuxGroup](https://linux4hope.org/)
@@ -339,6 +348,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
