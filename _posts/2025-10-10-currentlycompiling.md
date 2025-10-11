@@ -6,6 +6,11 @@ image: tumblr_9996aa2d413f6668f7f48ccdb4f9fb8a_8780e031_2048.jpg
 ---
 
 
+[DJ Jazzy Jeff](https://www.youtube.com/live/1P_p0dE_tCU?si=mtKr0LwSJfI9Kw3P)
+
+<img alt="image @blackgirlscode RashardthakasErika selassie_kel
+​​sup @normani rashardsdata.github.io @blackgirlscode -#rashard @nasaearthdata @nasa-jpl" src="https://github.com/user-attachments/assets/456e9777-2489-494d-857f-c383c9e30f7f" />
+
  <img src="https://www.lifewire.com/thmb/8ncd0X34c6dglK5uEdM60asZn8Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Sonic_the_Hedgehog_Coverart-4-5b958f8ac9e77c0082ee596c.jpg" />
   <img src="https://ia800705.us.archive.org/4/items/SonicTheHedgehog2SegaGenesisHiResScans/thumbnail.jpg" />
   
