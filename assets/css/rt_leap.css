@@ -128,7 +128,7 @@ section {
 	margin: 0 auto;
 	padding: 1em;
 	max-width: 750px;
-	max-height: 75vh;
+	
   	border-radius: .3em;
   border-radius: .3px;
 	box-shadow: 0 0 0 1px hsla(0,0%,100%,.3) inset,
@@ -711,7 +711,7 @@ small {
 nav {
   width: 230px;
   position: fixed;
-  top: 220px;
+  top: 10px;
   left: 50%;
   margin-left: -580px;
   text-align: right;
@@ -5554,3 +5554,4 @@ grid-template-columns: 1fr 1fr 1fr 1fr 1fr; */
   }
 
 }
+
