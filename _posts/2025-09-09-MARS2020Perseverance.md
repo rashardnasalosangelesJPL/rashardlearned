@@ -10,6 +10,10 @@ author: "RashardKelly @nasa-jpl"
 # [Mars](https://youtu.be/SKlbDtWYHJk) Exploration Program
 NASA's Mars Exploration Program includes current missions Odyssey, MRO, Mars Express, MSL, InSight, and Mars 2020 [READMORE](https://pds-geosciences.wustl.edu/missions/mep/index.htm)
 
+<img  alt="image @blackgirlscode @newshour @cityofsantamonica @nasa-jpl @usgs @nasa @cityoflosangeles @whitehouse" src="https://github.com/user-attachments/assets/ac4197df-0a27-4db2-aea2-3353fabd7ced" />
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FNOVApbs%2Fvideos%2F1271974741035762%2F&show_text=false&width=380&t=0" width="380" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
 <style>
 .whitebg {background-color:white;}
 </style>

@@ -1,0 +1,105 @@
+#  <time datetime="{{ site.time | date: '%B %d, %Y' }}">{{ 'now' | date: "%Y" }} </time>
+# {{ site.time | date: '%B %d, %Y' }}m5rt5
+
+
+# Compiling
+ <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/w1-4nQbFNq_M02iOR1eYKg/787625417714630656" data-did="bcc936f1436f59c84aab2eee8833291294306588"><a href="https://rashardmro.tumblr.com/post/787625417714630656">https://rashardmro.tumblr.com/post/787625417714630656</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
+
+  <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/w1-4nQbFNq_M02iOR1eYKg/783645610108764160" data-did="f32e6c3ee19da9c765e998d7560dadacdf797d76"><a href="https://rashardmro.tumblr.com/post/783645610108764160/sedacsocioeconomic-data-and-applications">https://rashardmro.tumblr.com/post/783645610108764160/sedacsocioeconomic-data-and-applications</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
+
+# Global Human Built-up And Settlement Extent (HBASE) [Dataset](https://www.earthdata.nasa.gov/data/catalog/esdis-ciesin-sedac-ulandsat-hbase-v1-1.0) From Landsat
+[SEDAC](https://sedac.ciesin.columbia.edu/maps/gallery/search#) 
+
+
+[Current @ajc @datadesk @nasa @nasa-jpl](https://firms.modaps.eosdis.nasa.gov/map/#t:tsd;d:24hrs,24hrs;l:fires_all,countries,landsat_human,aqua_crc,earth;@-82.5,30.7,7.4z) 
+
+![image](https://github.com/user-attachments/assets/74ffc323-c036-4121-869c-f5fc9d58533e)
+
+![image](https://github.com/user-attachments/assets/47b532f3-e762-4210-b7fd-e779c2453fb4)
+
+# [flyover](https://isstracker.pl/en) @nasa-jpl [![Twitter Follow](https://img.shields.io/badge/Social-@ISS_Research__-blue?style=social&logo=X)](https://twitter.com/ISS_Research)
+# [Tetris](https://youtu.be/LsqnFf65ANM) 1989 
+<object data="https://archive.org/embed/tetris_gb" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></object>
+
+[Kool DJ Red Alert KISS-FM Broadcast, mid 1980s](https://www.youtube.com/watch?v=Z5Qn6wL0XZM)
+i got hit by a car @blackgirlscode @latto 
+![hi](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Dodge_challenger_1970_ad.jpg/1015px-Dodge_challenger_1970_ad.jpg)
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/ConstanciaAribba?src=hash&amp;ref_src=twsrc%5Etfw">#ConstanciaAribba</a> <a href="https://twitter.com/hashtag/ErikaJohnson?src=hash&amp;ref_src=twsrc%5Etfw">#ErikaJohnson</a> are missing and <a href="https://twitter.com/hashtag/akeevaJohnson?src=hash&amp;ref_src=twsrc%5Etfw">#akeevaJohnson</a> <a href="https://twitter.com/SanBernardinoPD?ref_src=twsrc%5Etfw">@SanBernardinoPD</a> <a href="https://twitter.com/BlackGirlsCode?ref_src=twsrc%5Etfw">@BlackGirlsCode</a> I got hit &amp;pushed into the street by a <a href="https://twitter.com/Honda?ref_src=twsrc%5Etfw">@honda</a> n <a href="https://twitter.com/hashtag/EastHollywood?src=hash&amp;ref_src=twsrc%5Etfw">#EastHollywood</a> <a href="https://twitter.com/NASAJPL?ref_src=twsrc%5Etfw">@nasajpl</a> <a href="https://twitter.com/Normani?ref_src=twsrc%5Etfw">@normani</a> <a href="https://twitter.com/Latto?ref_src=twsrc%5Etfw">@latto</a> r u <a href="https://twitter.com/hashtag/brotheled?src=hash&amp;ref_src=twsrc%5Etfw">#brotheled</a>? he broke my cart <a href="https://twitter.com/RepKarenBass?ref_src=twsrc%5Etfw">@RepKarenBass</a> <a href="https://twitter.com/LaurieofMars?ref_src=twsrc%5Etfw">@LaurieofMars</a> <a href="https://twitter.com/Interior?ref_src=twsrc%5Etfw">@Interior</a> <a href="https://t.co/49dVc3CO5w">https://t.co/49dVc3CO5w</a> <a href="https://t.co/rj6m4JcLNF">pic.twitter.com/rj6m4JcLNF</a></p>&mdash; ricoThaka (@RicoThaka) <a href="https://twitter.com/RicoThaka/status/1889862532036546671?ref_src=twsrc%5Etfw">February 13, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+![couple Rashard iman kelly and Erika Renee Johnson parents of Coral Iris Kelly](https://pbs.twimg.com/media/GE4slZFa0AAnIvT?format=jpg&name=large)
+[RelatedTweet](https://x.com/RicoThaka/status/1751386466067140670)
+![ERika 5755](https://pbs.twimg.com/media/GE4sDUBbcAA0X0E?format=jpg&name=large)
+[RelatedTweet](https://x.com/RicoThaka/status/1751386466067140670)
+![Erika s197](https://pbs.twimg.com/media/GE4uFyAbMAAhpWB?format=jpg&name=large)
+![Pasadena s197](https://pbs.twimg.com/media/GSK5YsuaEAAGOzM?format=jpg&name=medium)
+[RelatedTweet](https://x.com/RicoThaka/status/1811214542673973278)
+[RelatedTweet](https://x.com/RicoThaka/status/1751388131327349220)
+![BJJ](https://pbs.twimg.com/media/GE41WC1agAAH-2Y?format=jpg&name=large)
+[RelatedTweet](https://x.com/RicoThaka/status/1901693346214818023/photo/1)
+![fitter](https://pbs.twimg.com/media/GJ37f_-bUAAR-Yt?format=jpg&name=large)
+![color](https://pbs.twimg.com/media/GJ37ekwakAAPo5U?format=jpg&name=medium)
+[RelatedTweet](https://x.com/BubbleGumPop510/status/1773850819357720899)
+
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://t.co/UY1tw9PVav">https://t.co/UY1tw9PVav</a> <a href="https://twitter.com/OlaKaellenius?ref_src=twsrc%5Etfw">@OlaKaellenius</a> <a href="https://twitter.com/hashtag/Application?src=hash&amp;ref_src=twsrc%5Etfw">#Application</a> <a href="https://t.co/LFdMXloXs4">https://t.co/LFdMXloXs4</a> -<a href="https://twitter.com/hashtag/rashard?src=hash&amp;ref_src=twsrc%5Etfw">#rashard</a> <a href="https://twitter.com/NASAJPL?ref_src=twsrc%5Etfw">@nasajpl</a> <a href="https://twitter.com/esa?ref_src=twsrc%5Etfw">@esa</a> <a href="https://twitter.com/nickyjenner1?ref_src=twsrc%5Etfw">@nickyjenner1</a> iGot rumors iNeed cleaned up b4 my job <a href="https://twitter.com/NASAJPL?ref_src=twsrc%5Etfw">@nasajpl</a> gets interrupted I am n a relationship w/<a href="https://twitter.com/Normani?ref_src=twsrc%5Etfw">@normani</a> that might bc closing out an this job maybe <a href="https://twitter.com/hashtag/PartTime?src=hash&amp;ref_src=twsrc%5Etfw">#PartTime</a>! <a href="https://twitter.com/VeronicaMcG?ref_src=twsrc%5Etfw">@VeronicaMcG</a></p>&mdash; ricoThaka (@RicoThaka) <a href="https://twitter.com/RicoThaka/status/1901769189653926187?ref_src=twsrc%5Etfw">March 17, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+# Black On Both Sides
+by Mos Def
+<iframe src="https://archive.org/embed/mos-def-black-on-both-sides" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe
+
+# Europa Clipper Camera Passes First Test in Space
+Soon after NASA's Europa Clipper spacecraft launched toward Jupiter's icy moon on Oct. 14, 2024, the mission team powered on each of the science instruments for a series of test or "checkout" activities. The Europa Imaging System – with its narrow-angle and wide-angle cameras – underwent its first checkouts in December 2024.
+
+Each camera has a cover to protect its sensitive detectors from the Sun while the spacecraft moves through the inner solar sys...[ReadMORE @nasa-jpl](https://www.jpl.nasa.gov/images/pia26564-europa-clipper-camera-passes-first-test-in-space/) @whitehouse @tesla 
+![Europa Clipper Camera Passes First Test in Space](https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA26564.width-1024.jpg)
+
+<div class="tupperware">
+<img src="https://pds-imaging.jpl.nasa.gov/archive/pdsimg-atlas/atlas:pds4:vgr:voyager_2:/wenkert_pdart16_vgr_rav1ciun/browse/qedr/vgr2/VGR_1224-MBMQTV-020200-DATA-020200.014.png::1:md.webp" />
+<img src="https://pds-imaging.jpl.nasa.gov/archive/pdsimg-atlas/atlas:pds4:vgr:voyager_2:/wenkert_pdart16_vgr_rav1ciun/browse/qedr/vgr2/VGR_1224-MBMQTV-020180-DATA-020180.019.png::1:md.webp" />
+<img src="https://pds-imaging.jpl.nasa.gov/archive/pdsimg-atlas/atlas:pds4:vgr:voyager_2:/wenkert_pdart16_vgr_rav1ciun/browse/qedr/vgr2/VGR_1204-MAMQTV-012210-DATA-012210.001.png::1:md.webp" />
+</div>
+
+![Me And Erika](https://pbs.twimg.com/media/GE4slZFa0AAnIvT?format=jpg&name=large)
+[About Erika](https://x.com/RicoThaka/status/1775947939615322288)
+[Erika did he hurt you?](https://transformationoffice.mandela.ac.za/tme/media/Store/documents/Sexual%20Harrassment/A-man-s-guide-to-helping-a-rape-victim.pdf) im still with @normani in that way, just work with me, you it was time for me to expand at a level due to my age and structure of our relationship in JW. That was a perfect playpen to learn family structure. I love her an she can move at her own pace keep a tab or two on her, in love she follows every change made to this account and we worktogether. She was my assistant at RentPath for a min, the reality was i was to train her to replace me, but at the same time i work for @nasa so there is a MAN DUTY side to it all, an since we were intimate i gotta take her to work. You put me out! [She Told mE She Wrote this with me in mind](https://www.youtube.com/watch?v=5GL9JoH4Sws) [LiVE](https://www.youtube.com/watch?app=desktop&v=3YbV0Gkys4o&t=00m20s)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Multiplatinum chart-topping artist <a href="https://twitter.com/Normani?ref_src=twsrc%5Etfw">@Normani</a> joined the <a href="https://twitter.com/BlackGirlsCode?ref_src=twsrc%5Etfw">@BlackGirlsCode</a> community at our LA Camp! 🤩 It was an exciting time for all, as she dove headfirst into camp activities, eagerly participating with our campers, and immersing herself in the games they designed. 🎮️🕹️👾 <a href="https://t.co/B9zHpTmHee">pic.twitter.com/B9zHpTmHee</a></p>&mdash; Black Girls Code (@BlackGirlsCode) <a href="https://twitter.com/BlackGirlsCode/status/1824159527098318896?ref_src=twsrc%5Etfw">August 15, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+![TELSTAR](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1962-029A)
+[Collection of emojis and one line text art like (╯°□°）╯︵ ┻━┻ 🤗](https://gist.github.com/ricoThaka/2c0ec19d350331cd16ba2444156b77fa)
+
+
+[This document is the AMMOS Catalog, Version 5.1 for the Multimission Ground Systemand Services (MGSS) Program, Interplanetary Network Directorate (IND) Office](https://ammos.nasa.gov/pdf/AMMOS_Catalog-V5_2_Public_Release.pdf) The capabilities described in this AMMOS Catalog are intended to serve as guidance
+and as the ‘gold source’ capability descriptions when developing Service Level
+Agreements (SLAs) with mission customers
+[Rover ControL an Planning Software ](https://human-factors.arc.nasa.gov/publications/COCPIT_Mars_Perseverance_Rover.pdf) [AMMOS offers an Suite of tools for Real-time Monitoring and Control of a Spacecraft](https://ammos.nasa.gov/pdf/Brochure-Monitor-Control-Solution.pdf)
+part of the - Ground Data System (GDS) tool suite 
+
+[Ground & Flight Data Systems Group](https://www.nasa.gov/intelligent-systems-division/collaborative-and-assistant-systems/ground-and-flight-data-systems-group/)  creates systems to facilitate transmission and processing of data between spacecraft, rovers, satellites, ground control, and distributed mission teams. Data ranges from communications, telemetry, and Integrated Systems Health Management (ISHM) data, to planetary, astrophysical, medical, and biological science research data and analytics. Ground processing of data is accomplished by science pipeline data systems, which transform raw, uncorrected, uncalibrated data into usable products for the science community. GFDS designs systems to satisfy carefully defined and documented user requirements involving the secure handling of sensitive and irreplaceable mission data. The group supports space and planetary exploration missions, as well as Earth and space sciences, small satellite, and aeronautics missions and projects. [The Mars 2020 Ground Data System Architecture](https://ntrs.nasa.gov/citations/20230007026)
+[The Mars Observer Camera Ground Data System](https://earthobservatory.nasa.gov/images/event/153817/los-angeles-fires-2025) [https://www.msss.com/mars/observer/camera/papers/gds_papers/aiaa.html](https://www.msss.com/mars/observer/camera/papers/gds_papers/aiaa.html)
+[Eaton Fire Leaves California Landscape Charred](https://earthobservatory.nasa.gov/images/153821/eaton-fire-leaves-california-landscape-charred?utm_source=TWITTER&utm_medium=NASAEarth&utm_campaign=NASASocial&linkId=715793698)
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/12822137&color=%233098f2&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user7684094" title="user7684094" target="_blank" style="color: #cccccc; text-decoration: none;">user7684094</a> · <a href="https://soundcloud.com/user7684094/01-j-rocc-v-j-man" title="01 J Rocc V J Man" target="_blank" style="color: #cccccc; text-decoration: none;">01 J Rocc V J Man</a></div>
+![LOSANGELES - Library of congress](https://tile.loc.gov/storage-services/service/pnp/pan/6a17000/6a17900/6a17974r.jpg)
+![SantaMonica AugBySea](https://eoimages.gsfc.nasa.gov/images/imagerecords/12000/12383/CAfires_TAS2003298_lrg.jpg)
+
+# The Legend of Zelda
+franchise created by Japanese game designers Shigeru Miyamoto and Takashi Tezuka... [Amazing](https://www.youtube.com/watch?v=Sz_YPczxzZc)
+[<IMG src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Zelda_Logo.svg" />](https://upload.wikimedia.org/wikipedia/commons/2/2a/Zelda_Logo.svg)
+[Zelda](https://www.nesfiles.com/NES/Zelda/) wow
+[FANDOM](https://zelda.fandom.com/wiki/The_Legend_of_Zelda) [WiKi](https://en.wikipedia.org/wiki/The_Legend_of_Zelda) [NinTenDo](https://www.nintendo.com/en-gb/Games/NES/The-Legend-of-Zelda-796345.html)
+<IMG alt="PIA25417: The Legend of Zelda is the first installment of the The Legend of Zelda series." src="https://www.nesfiles.com/NES/Zelda/Zelda_top.jpg" itemprop="quest" itemscope itemtype="https://schema.org/VideoGameSeries" />
+<IMG alt="The Legend of Zelda is the first installment of the The Legend of Zelda series." src="https://www.nesfiles.com/NES/Zelda/Zelda_cart.jpg" itemprop="quest" itemscope itemtype="https://schema.org/VideoGameSeries" />
+
+![Mars](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01368/ids/edr/browse/ncam/NLF_1368_0788381521_159ECM_N0642278NCAM00501_01_295J01_1200.jpg)
+
+![snes](https://upload.wikimedia.org/wikipedia/commons/1/12/Nintendo-Super-NES-Controller.jpg)
+
+![DEFCON](https://media.defcon.org/fancyindex/dc-logo.webp)
+Since i dont have the kingdomhall i like to listen to @deptofdefense an @defcon for sermons check out the [Defcon Media Server](https://media.defcon.org/DEF%20CON%2031/) Kenya know a lot of ppl, idk if they scary tho [Run Tell Dat!](https://www.youtube.com/watch?v=zLmFhBv0Zfc)
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/94498846&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/embrz" title="EMBRZ" target="_blank" style="color: #cccccc; text-decoration: none;">EMBRZ</a> · <a href="https://soundcloud.com/embrz/slow-down" title="Slow Down" target="_blank" style="color: #cccccc; text-decoration: none;">Slow Down</a></div>
+
+[Tekken2](https://cdromance.org/psx-iso/tekken-2-usa/) [FINALFANTASY7](https://cdromance.org/psx-iso/final-fantasy-vii-usa-2/) [PARASiTEEVE](https://cdromance.org/psx-iso/parasite-eve-usa/) [ACECOMBAT3](https://cdromance.org/psx-iso/parasite-eve-usa/) [Rayman (USA) PSX ](https://cdromance.org/psx-iso/rayman-usa/) [ROADRASH](https://cdromance.org/psx-iso/road-rash-usa/) [STRiDERストライダー飛竜](https://cdromance.org/psx-iso/strider-2-usa/) [Batman & Robin](https://cdromance.org/psx-iso/batman-robin-usa/) [Soul Blade](https://cdromance.org/psx-iso/soul-blade-eur/) [Fantastic Four (USA) PSX ](https://cdromance.org/psx-iso/fantastic-four-usa/) [d](https://cdromance.org/psx-iso/d-usa/) [Super Puzzle Fighter II Turbo](https://cdromance.org/psx-iso/super-puzzle-fighter-ii-turbo-usa/) [Battle Arena Toshinden](https://cdromance.org/psx-iso/battle-arena-toshinden-usa/) [Ghost in the Shell ](https://cdromance.org/psx-iso/ghost-in-the-shell-usa/) [Wu-Tang: Shaolin Style (USA) ](https://cdromance.org/psx-iso/wu-tang-shaolin-style-usa/) [Soul Blade (USA) ](https://cdromance.org/psx-iso/soul-blade-usa/) [TOCA World Touring Cars](https://cdromance.org/psx-iso/toca-world-touring-cars-europe/) [Metal Gear Solid [Greatest Hits] ](https://cdromance.org/psx-iso/metal-gear-solid-greatest-hits-usa/) [Einhander (USA)](https://cdromance.org/psx-iso/einhander-usa/) [Formula One Arcade (Europe) ](https://cdromance.org/psx-iso/formula-one-arcade-europe/) [Street Fighter: The Movie](https://cdromance.org/psx-iso/street-fighter-the-movie-europe/) [PaRappa the Rapper](https://cdromance.org/psx-iso/parappa-the-rapper-europe/) [SimCity 2000 (USA) PSX](https://cdromance.org/psx-iso/simcity-2000-usa/) [Street Fighter Alpha 3 (Europe) PSX](https://cdromance.org/psx-iso/street-fighter-alpha-3-europe/) [Martian Gothic: Unification (USA) PSX ISO](https://cdromance.org/psx-iso/martian-gothic-unification-usa/) [Tom Clancy's Rainbow Six: Lone Wolf](https://cdromance.org/psx-iso/tom-clancys-rainbow-six-lone-wolf-europe/) [WipEout (USA) PSX ISO](https://cdromance.org/psx-iso/wipeout-usa/) [Wipeout XL (USA) PSX ISO](https://cdromance.org/psx-iso/wipeout-xl-usa/) [Star Ixiom (Europe) PSX ISO](https://cdromance.org/psx-iso/star-ixiom-europe/)
+
+![nes](https://upload.wikimedia.org/wikipedia/commons/2/21/Nintendo-Entertainment-System-NES-Controller-FL.png)
