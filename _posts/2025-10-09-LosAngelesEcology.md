@@ -17,7 +17,7 @@ date:   2025-10-09 8:51:06
 · 106.1K
  Views [https://x.com/NASAJPL/status/1877088825383460977](https://x.com/NASAJPL/status/1877088825383460977) @emit-sds 
 
-yo Congressmember Karen Bass i was doxxed there is an article defaming LAFD South Bureau [#LAFD](https://www.latimes.com/california/story/2025-10-09/lafd-did-not-use-thermal-imaging-to-check-for-hotspots-in-lachman-fire-chief-says) that they were not using `Vital Tool` to confirm #Jan1 fire was out, i think i started working the issue on the 8th https://rashardsdata.github.io/c…/The-2025-Los-Angeles-Fires Normani was backing me up in vvarious ways she has to talk NASA's Europa Clipper Mission NASA's Perseverance Mars Rover the library was not cooperative Los Angeles Times now if you fuckin with karen rep like that start at the library with her present @whitehouse @cityoflosangeles @libraryofcongress
+yo Congressmember Karen Bass i was doxxed there is an article defaming LAFD South Bureau [#LAFD](https://www.latimes.com/california/story/2025-10-09/lafd-did-not-use-thermal-imaging-to-check-for-hotspots-in-lachman-fire-chief-says) that they were not using `Vital Tool` to confirm #Jan1 fire was out, i think i started working the issue on the 8th https://rashardsdata.github.io/c…/The-2025-Los-Angeles-Fires Normani was backing me up in vvarious ways she has to talk NASA's Europa Clipper Mission NASA's Perseverance Mars Rover the library was not cooperative Los Angeles Times now if you fuckin with karen rep like that start at the library with her present @whitehouse @cityoflosangeles @libraryofcongress [HAnnaFry](https://www.linkedin.com/in/hannah-fry-9919361a2?originalSubdomain=uk) 
 
 
 
@@ -422,6 +422,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
