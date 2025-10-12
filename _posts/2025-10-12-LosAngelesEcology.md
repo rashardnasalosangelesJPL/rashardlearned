@@ -20,9 +20,13 @@ date:   2025-10-09 8:51:06
 yo Congressmember Karen Bass i was doxxed there is an article defaming LAFD South Bureau [#LAFD](https://www.latimes.com/california/story/2025-10-09/lafd-did-not-use-thermal-imaging-to-check-for-hotspots-in-lachman-fire-chief-says) that they were not using `Vital Tool` to confirm #Jan1 fire was out, i think i started working the issue on the 8th https://rashardsdata.github.io/c…/The-2025-Los-Angeles-Fires Normani was backing me up in vvarious ways she has to talk NASA's Europa Clipper Mission NASA's Perseverance Mars Rover the library was not cooperative Los Angeles Times now if you fuckin with karen rep like that start at the library with her present @whitehouse @cityoflosangeles @libraryofcongress [HAnnaFry](https://www.linkedin.com/in/hannah-fry-9919361a2?originalSubdomain=uk) 
 
 
+[National Park Service CONTINGENCY PLAN](https://www.doi.gov/sites/default/files/documents/2025-09/doi-nps-lapse-plan2025930508.pdf) ///// Mapping and Identifying the Health of
+Urban Oak Trees in [Los Angeles County @stateofcalifornia @cityoflosangeles](https://ntrs.nasa.gov/api/citations/20250007467/downloads/2025Sum_JPL_LosAngelesCountyEco_Presentation_FD.pdf) via [ECOSTRESS](https://essp.nasa.gov/earth-pathfinder-quests/projects/ecostress/) 
 
 [In fire-scorched Palisades, a library and rec center become linchpins of fury with City Hall](https://www.latimes.com/california/story/2025-10-11/pacific-palisades-fire-anger-los-angeles-city-hall-rebuild?fbclid=IwY2xjawNY_UxleHRuA2FlbQIxMQBicmlkETFYaDJhV2o3RXpjVm5oWllFAR4i3xFzhJzm0T30nhPvG81Xcqn_h1T6-8nWCSk9kjIYImSKGMC31dfJVMz0sA_aem_Thc-BfXYxd7pXC_fv4hmXg)
 
+
+[@blackgirlscode](https://rashardsdata.github.io/compiling/workReport-Oct25) If you have work from the fires be sure to organize [it](https://laist.com/news/npr-news/github-has-become-a-haven-for-chinas-censored-internet-users) 
 
 
  
@@ -422,6 +426,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
