@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: rashardmro
 mermaid: true
 published: true
 title: L.A. Ecology @CityOfLosAngeles @Nasa-jpl
@@ -8,6 +8,25 @@ author: "RashardKelly @nasa-jpl"
 date:   2025-10-09 8:51:06 
 
 ---
+
+
+[comment]: <> (Emergency Files )
+
+[OldFireData](https://rashardsdata.github.io/compiling/The-2025-Los-Angeles-Fires) 
+<img  alt="image" src="https://github.com/user-attachments/assets/90fabd69-65fb-4368-bb04-1d082cf35430" />
+
+yo Congressmember Karen Bass i was doxxed there is an article defaming LAFD South Bureau [#LAFD](https://www.latimes.com/california/story/2025-10-09/lafd-did-not-use-thermal-imaging-to-check-for-hotspots-in-lachman-fire-chief-says) that they were not using `Vital Tool` to confirm #Jan1 fire was out, i think i started working the issue on the 8th https://rashardsdata.github.io/c…/The-2025-Los-Angeles-Fires Normani was backing me up in vvarious ways she has to talk NASA's Europa Clipper Mission NASA's Perseverance Mars Rover the library was not cooperative Los Angeles Times now if you fuckin with karen rep like that start at the library with her present @whitehouse @cityoflosangeles @libraryofcongress
+
+[LAFD thought the fire in the Palisades on Jan. 1 was out. It didn’t use thermal imaging to confirm](https://www.latimes.com/california/story/2025-10-09/lafd-did-not-use-thermal-imaging-to-check-for-hotspots-in-lachman-fire-chief-says)
+
+[In fire-scorched Palisades, a library and rec center become linchpins of fury with City Hall](https://www.latimes.com/california/story/2025-10-11/pacific-palisades-fire-anger-los-angeles-city-hall-rebuild?fbclid=IwY2xjawNY_UxleHRuA2FlbQIxMQBicmlkETFYaDJhV2o3RXpjVm5oWllFAR4i3xFzhJzm0T30nhPvG81Xcqn_h1T6-8nWCSk9kjIYImSKGMC31dfJVMz0sA_aem_Thc-BfXYxd7pXC_fv4hmXg)
+
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02xcwxeG5z4vJXP2PzuYYpycv2MeNvNDywLiz3yaAMxfm7hgQMPy26WiaSSaxea7Yal%26id%3D100084464911565&show_text=true&width=500" width="500" height="790" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+
+![@datadesk @newshour @podaac @nasa-jpl @stateofcalifornia @cityoflosangeles](https://ca-times.brightspotcdn.com/dims4/default/a24f78b/2147483647/strip/true/crop/6000x3999+0+1/resize/768x512!/format/webp/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F3f%2F38%2F4a595049434799029c9e6e53c2c0%2F1525315-me-palisades-fire-arrest-ajs-07.jpg)  <~ @blackgirlscode i hope u guys ok on github! 
+
 
 @CiTYoFLosAngeles @NAsa-jpl
 I went to the bike festival, I stopped by Ms Bass tent and told them What Jamie Told me that I was a member of the local helpdesk team at mission control and you guys told me to make friends with congress in the city. I did not mention the girls! However i let them know that they are not getting the support that they wanted because the sex tourist are ruining my life at every opportunity. i wanted to Talk FireSensing technology with [YSABEL JURADO](https://cd14.lacity.gov/) because the work i was doing during the fires of January using [NasaEarthData FireSensing Products](https://svs.gsfc.nasa.gov/5558/) and i left my blog [rashardsdata](https://rashardsdata.github.io/) with an [AntiTrumpGroup](https://refusefascism.org/)  and told them that if they scard of [@Whitehouse President Trump](https://www.thetimes.com/us/news-today/article/spacex-elon-musk-trump-tesla-fn769jsrv) is scary to them they can look at [myBlog](https://rashardsdata.github.io/2025/10/11/MARS2020Perseverance.html) to find out what he has me tasked with, it was in hiearical context so like we work with the machine and thats the highest point on our SLA Agreements with [@Deptdefense / @Whitehouse](https://searchpub.nssc.nasa.gov/servlet/sm.web.Fetch/NSSC_FY25_Service_Level_Agreement_March_2025_fot_web.pdf?rhid=1000&did=6907840&type=released&FixForIE=NSSC_FY25_Service_Level_Agreement_March_2025_fot_web.pdf)
@@ -25,7 +44,37 @@ https://rashardgds.github.io/ricotha
 @[100064688230749:2048:U.S. Department of War] this page got my account deleted @[100057616226973:2048:Supervisor Holly J.
 
 
-[MAPPiNG @CityOfLosAngles Trees @StateOfCalifornia](https://ntrs.nasa.gov/api/citations/20250007467/downloads/2025Sum_JPL_LosAngelesCountyEco_Presentation_FD.pdf)
+[MAPPiNG @CityOfLosAngles Trees @StateOfCalifornia](https://ntrs.nasa.gov/api/citations/20250007467/downloads/2025Sum_JPL_LosAngelesCountyEco_Presentation_FD.pdf) 
+ ```
+      ___    _____     ___                                                      
+    /_ /|  /____/ \  /_ /|       Horizons On-line Ephemeris System v4.98d      
+    | | | |  __ \ /| | | |       Solar System Dynamics Group                   
+ ___| | | | |__) |/  | | |__     Jet Propulsion Laboratory                     
+/___| | | |  ___/    | |/__ /|   Pasadena, CA, USA                             
+|_____|/  |_|/       |_____|/        
+```
+@cityoflosangeles @stateofcalifornia 
+@nasa @whitehouse
+[3](https://www.facebook.com/permalink.php?story_fbid=pfbid0mmmdm6XtYVSqGDGbSKyruR2rYLqeCfweBr2XusTXpNJSHNgZiQ4mgjV5jvM6kK27l&id=100084464911565) [2 - see comments](https://www.facebook.com/permalink.php?story_fbid=pfbid0oFVyGBzyKAFcTZwKbugkPovqCD9udCSNREZ2qACfLHjXQAjXWLzcPFPFbuKJHSS6l&id=100084464911565) [3](https://www.facebook.com/permalink.php?story_fbid=pfbid037qx2RYkMNViZPfcrginUjcUBq9NLPFT5byYEf7Q15MkNEgY1Zp8VNAQfiQEUo6cBl&id=100084464911565)
+
+[@blackgirlscode anime](https://dn720406.ca.archive.org/0/items/fatal-fury-legend-of-the-hungry-wolf-1994-vhs-dub/FatalFury_LegendOfTheHungryWolf_%5B1994%5D.mp4) [fb](https://www.facebook.com/permalink.php?story_fbid=pfbid02CxnRnrf3x7XBN5hk1zYRCr5UsU2KKmxLsuwnQ5KFRUB1G1e2rCvBDNuRX5wuBEsyl&id=100084464911565) [TheMAxx](https://archive.org/details/the-maxx-complete-ytv-run)
+
+
+[DSCOVR: EPIC](https://epic.gsfc.nasa.gov/)
+LAst Update 7/15
+@nasa-jpl @nasa-pds @podaac i went into detail on facebook. @nasa-pds and included @Harvard and Noaa @avanderburg @fbecerra
+There are files after #JULY15 but i did not see anything obviouse about #ImagingData this #gzip is from #July25th  many of the datasources are blank, Since the thing is broaDCASTING Chief Master Sergeant of the Space Force Bill Nelson Congressmember Karen Bass im just trying to get eyes on the issue 
+ ### Start Date End Date Data Type Processing
+Environment  Processing Date Filesize
+ 2025-07-12T00:00:00Z 2025-07-12T23:59:59Z Faraday Cup L1 data OE 2025-07-13T02:20:03Z 0.33 MB
+ 2025-07-12T00:00:00Z 2025-07-12T23:59:59Z Stored Observatory Telemetry OE 2025-07-13T00:00:11Z 34.85 MB
+ 2025-07-12T00:00:00Z 2025-07-12T23:59:59Z Magnetometer L0 data OE 2025-07-13T01:01:00Z 34.50 MB
+ 2025-07-27T00:00:00Z 2025-07-27T23:59:59Z Faraday Cup L1 data OE `2025-07-28T01:02:33Z` 0.00 MB
+ 2025-07-28T00:00:00Z 2025-07-28T23:59:59Z Faraday Cup L1 data OE 2025-07-29T01:02:34Z `0.00` MB
+ 2025-07-28T00:00:00Z 2025-07-28T23:59:59Z Faraday Cup L0 data OE 2025-07-29T01:02:18Z 0.00 MB
+ 2025-07-28T00:00:00Z 2025-07-28T23:59:59Z Magnetometer L0 data OE 2025-07-29T01:01:00Z 0.00 MB
+ 2025-07-28T00:00:00Z 2025-07-28T23:59:59Z Stored Observatory Telemetry OE 2025-07-29T00:00:10Z 0.00 
+
 
 
 [@usgs ASTROPEDiA](https://astrogeology.usgs.gov/search/map/io_voyager_image_control_network) 
@@ -364,6 +413,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
