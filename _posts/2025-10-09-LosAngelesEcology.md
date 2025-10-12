@@ -12,15 +12,24 @@ date:   2025-10-09 8:51:06
 
 [comment]: <> (Emergency Files )
 
-[OldFireData](https://rashardsdata.github.io/compiling/The-2025-Los-Angeles-Fires) 
-<img  alt="image" src="https://github.com/user-attachments/assets/90fabd69-65fb-4368-bb04-1d082cf35430" />
+[LAFD thought the fire in the Palisades on Jan. 1 was out. It didn’t use thermal imaging to confirm](https://www.latimes.com/california/story/2025-10-09/lafd-did-not-use-thermal-imaging-to-check-for-hotspots-in-lachman-fire-chief-says)
+@datadesk this is @nasa-jpl `12:23 PM · Jan 8, 2025
+· 106.1K
+ Views [https://x.com/NASAJPL/status/1877088825383460977](https://x.com/NASAJPL/status/1877088825383460977) @emit-sds 
 
 yo Congressmember Karen Bass i was doxxed there is an article defaming LAFD South Bureau [#LAFD](https://www.latimes.com/california/story/2025-10-09/lafd-did-not-use-thermal-imaging-to-check-for-hotspots-in-lachman-fire-chief-says) that they were not using `Vital Tool` to confirm #Jan1 fire was out, i think i started working the issue on the 8th https://rashardsdata.github.io/c…/The-2025-Los-Angeles-Fires Normani was backing me up in vvarious ways she has to talk NASA's Europa Clipper Mission NASA's Perseverance Mars Rover the library was not cooperative Los Angeles Times now if you fuckin with karen rep like that start at the library with her present @whitehouse @cityoflosangeles @libraryofcongress
 
-[LAFD thought the fire in the Palisades on Jan. 1 was out. It didn’t use thermal imaging to confirm](https://www.latimes.com/california/story/2025-10-09/lafd-did-not-use-thermal-imaging-to-check-for-hotspots-in-lachman-fire-chief-says)
+
 
 [In fire-scorched Palisades, a library and rec center become linchpins of fury with City Hall](https://www.latimes.com/california/story/2025-10-11/pacific-palisades-fire-anger-los-angeles-city-hall-rebuild?fbclid=IwY2xjawNY_UxleHRuA2FlbQIxMQBicmlkETFYaDJhV2o3RXpjVm5oWllFAR4i3xFzhJzm0T30nhPvG81Xcqn_h1T6-8nWCSk9kjIYImSKGMC31dfJVMz0sA_aem_Thc-BfXYxd7pXC_fv4hmXg)
 
+
+
+ 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Due to wildfire evacuations, the Lab is closed, except for emergency personnel. No fire damage has been reported. Follow updates at <a href="https://t.co/yscOR5I3ys">https://t.co/yscOR5I3ys</a> <br><br>Thanks to everyone for the concern for our center, but more importantly, for our colleagues and neighbors. Stay safe, LA. <a href="https://t.co/Wjn02jlSyA">pic.twitter.com/Wjn02jlSyA</a></p>&mdash; NASA JPL (@NASAJPL) <a href="https://twitter.com/NASAJPL/status/1877088825383460977?ref_src=twsrc%5Etfw">January 8, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+ 
+[OldFireData](https://rashardsdata.github.io/compiling/The-2025-Los-Angeles-Fires) 
+<img  alt="image" src="https://github.com/user-attachments/assets/90fabd69-65fb-4368-bb04-1d082cf35430" />
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02xcwxeG5z4vJXP2PzuYYpycv2MeNvNDywLiz3yaAMxfm7hgQMPy26WiaSSaxea7Yal%26id%3D100084464911565&show_text=true&width=500" width="500" height="790" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
@@ -413,6 +422,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
