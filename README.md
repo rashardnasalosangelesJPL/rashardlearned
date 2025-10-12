@@ -1,5 +1,11 @@
 # Rashard Kelly NasaJpl MRO JUNO iSS
 
+
+@CityOfLosAngeles [FirEReport @emit-sds im causing disruption at this SHARE place i need playboy to pay me!!! @whitehouse](https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:24hrs;@-117.75,33.88,9.46z)
+
+@stateofcalifornia
+<img  alt="FIRMS_24hrs @-117 75,33 88,9 46z" src="https://github.com/user-attachments/assets/9afbb494-c8dd-41b3-ae56-1bf482413c97" />
+
 <img alt="image" src="https://github.com/user-attachments/assets/4ac8a87f-4e4c-4c26-a168-f6a021d961aa" />
 
 <img  alt="image @blackgirlscode " src="https://github.com/user-attachments/assets/7e8f5285-5edb-432a-8c0d-bd8da9f8f945" />
