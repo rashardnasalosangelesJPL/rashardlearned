@@ -9,6 +9,19 @@ date:   2025-10-09 8:51:06
 
 ---
 
+@CiTYoFLosAngeles @NAsa-jpl
+I went to the bike festival, I stopped by Ms Bass tent and told them What Jamie Told me that I was a member of the local helpdesk team at mission control and you guys told me to make friends with congress in the city. I did not mention the girls! However i let them know that they are not getting the support that they wanted because the sex tourist are ruining my life at every opportunity. i wanted to Talk FireSensing technology with [YSABEL JURADO](https://cd14.lacity.gov/) because the work i was doing during the fires of January using [NasaEarthData FireSensing Products](https://svs.gsfc.nasa.gov/5558/) and i left my blog [rashardsdata](https://rashardsdata.github.io/) with an [AntiTrumpGroup](https://refusefascism.org/)  and told them that if they scard of [@Whitehouse President Trump](https://www.thetimes.com/us/news-today/article/spacex-elon-musk-trump-tesla-fn769jsrv) is scary to them they can look at [myBlog](https://rashardsdata.github.io/2025/10/11/MARS2020Perseverance.html) to find out what he has me tasked with, it was in hiearical context so like we work with the machine and thats the highest point on our SLA Agreements with [@Deptdefense / @Whitehouse](https://searchpub.nssc.nasa.gov/servlet/sm.web.Fetch/NSSC_FY25_Service_Level_Agreement_March_2025_fot_web.pdf?rhid=1000&did=6907840&type=released&FixForIE=NSSC_FY25_Service_Level_Agreement_March_2025_fot_web.pdf)
+
+
+### Censord FacebookPosts
+@blackgirlscode @meta
+@nasa-jpl there is a wardrobe malfuntion photo some group the artist known as normani shared on ukdaily news im afraid to look at the link because people use it as a excuse to say we cant talk!!!!!!!!!! im so exhausted and abused!!!!
+
+`This goes against our Community Standards on cybersecurity.` 
+https://rashardgds.github.io/ricotha
+@[100064688230749:2048:U.S. Department of War] this page got my account deleted @[100057616226973:2048:Supervisor Holly J.
+
+
 [MAPPiNG @CityOfLosAngles Trees @StateOfCalifornia](https://ntrs.nasa.gov/api/citations/20250007467/downloads/2025Sum_JPL_LosAngelesCountyEco_Presentation_FD.pdf)
 
 
@@ -348,6 +361,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
