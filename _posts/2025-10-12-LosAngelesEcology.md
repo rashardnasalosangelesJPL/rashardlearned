@@ -13,8 +13,15 @@ date:   2025-10-09 8:51:06
 [comment]: <> (Emergency Files )
 
 ## Deployment of SWOT’s Solar Arrays : [WATCH](https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia25/pia25563/PIA25563.mp4) [READ](https://science.nasa.gov/photojournal/deployment-of-swots-solar-arrays/?fbclid=IwY2xjawNc8qtleHRuA2FlbQIxMABicmlkETBEdVZUTENsWnFuYlVTVnI5AR6LqPDvMkiof8zehoVGP-v3oDeYO2Y9Dnj3VkG0TbvNzms4ue2Y4ye7xjolDg_aem_PQLjb4owqMLu5jDtqxxD2w)
+ launched Dec. 16, 2022, at 3:46 a.m. PST from Vandenberg Space Force Base in California, and the arrays started their deployment at 5:01 a.m. PST.
 
-![SWOT off new PHOTOJOURNAL @nasa-jpl](https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia25/pia25563/PIA25563.mp4) 
+
+
+
+
+
+![SWOT off new PHOTOJOURNAL @nasa-jpl](https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia25/pia25563/PIA25563.jpg)
+
 [LAFD thought the fire in the Palisades on Jan. 1 was out. It didn’t use thermal imaging to confirm](https://www.latimes.com/california/story/2025-10-09/lafd-did-not-use-thermal-imaging-to-check-for-hotspots-in-lachman-fire-chief-says)
 @datadesk this is @nasa-jpl `12:23 PM · Jan 8, 2025
 · 106.1K [@CiTYOFLOSANGELES @EMiT-SDS @NASA-DEVELOP @NASA-PDS](https://bos.lacounty.gov/executive-office/about-us/board-contact-information/) 
@@ -155,9 +162,6 @@ Coordinates: 33.8313°, -118.1745°
 # California 
 Resivoirs, Dams, Settlements [Interactive Modifyable - @nasa MAP](https://worldview.earthdata.nasa.gov/?v=-126.37290600480512,30.84803013201238,-109.49553324480513,39.22518442382487&l=Reference_Labels_15m,Reference_Features_15m,Coastlines_15m,GRanD_Dams,GRanD_Reservoirs,GRUMP_Settlements,VIIRS_SNPP_GapFilled_BRDF_Corrected_DayNightBand_Radiance,OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor(hidden)&lg=true&s=-118.3414,33.3718&t=2025-08-20-T20%3A00%3A00Z)
 
-![Uploading image.png…]()
-
-![Uploading image.png…]()
 
 BASEMAP : VIIRS/NPP Gap-Filled Lunar BRDF-Adjusted Nighttime Lights Daily L3 Global 15 arc-second Linear Lat Lon Grid [NRT](https://www.earthdata.nasa.gov/learn/earth-observation-data-basics/near-real-time-versus-standard-products#:~:text=Near%20real%2Dtime%20(NRT),aboard%20a%20space%2Dbased%20platform.)
 `ViiRS` = Visible Infrared Imaging Radiometer Suite [State:OPERATiONAL](https://www.earthdata.nasa.gov/data/instruments/viirs) @Cityoflosangeles [LocalLinuxGroup](https://linux4hope.org/)
@@ -429,6 +433,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
