@@ -12,6 +12,9 @@ date:   2025-10-09 8:51:06
 
 [comment]: <> (Emergency Files )
 
+## Deployment of SWOT’s Solar Arrays : [WATCH](https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia25/pia25563/PIA25563.mp4) [READ](https://science.nasa.gov/photojournal/deployment-of-swots-solar-arrays/?fbclid=IwY2xjawNc8qtleHRuA2FlbQIxMABicmlkETBEdVZUTENsWnFuYlVTVnI5AR6LqPDvMkiof8zehoVGP-v3oDeYO2Y9Dnj3VkG0TbvNzms4ue2Y4ye7xjolDg_aem_PQLjb4owqMLu5jDtqxxD2w)
+
+![SWOT off new PHOTOJOURNAL @nasa-jpl](https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia25/pia25563/PIA25563.mp4) 
 [LAFD thought the fire in the Palisades on Jan. 1 was out. It didn’t use thermal imaging to confirm](https://www.latimes.com/california/story/2025-10-09/lafd-did-not-use-thermal-imaging-to-check-for-hotspots-in-lachman-fire-chief-says)
 @datadesk this is @nasa-jpl `12:23 PM · Jan 8, 2025
 · 106.1K [@CiTYOFLOSANGELES @EMiT-SDS @NASA-DEVELOP @NASA-PDS](https://bos.lacounty.gov/executive-office/about-us/board-contact-information/) 
@@ -426,6 +429,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
