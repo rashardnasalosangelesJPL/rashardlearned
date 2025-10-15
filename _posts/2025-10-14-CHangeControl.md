@@ -9,15 +9,42 @@ date:   2025-10-09 8:51:06
 
 ---
 
+ ```
+      ___    _____     ___                                                      
+    /_ /|  /____/ \  /_ /|       Horizons On-line Ephemeris System v4.98d      
+    | | | |  __ \ /| | | |       Solar System Dynamics Group                   
+ ___| | | | |__) |/  | | |__     Jet Propulsion Laboratory                     
+/___| | | |  ___/    | |/__ /|   Pasadena, CA, USA                             
+|_____|/  |_|/       |_____|/        
+```
 
 [comment]: <> (Emergency Files )
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02EesfZfqJFHNMYskrGaP67C4f6eGGQzbZarnKkPgaHE5m9erdgDW5jJvtwtCNQYv7l%26id%3D100084464911565&show_text=true&width=500" width="500" height="509" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fphysics.uiowa.edu%2Fposts%2Fpfbid0sBLJ7Uin2mctrqQ4oGSKfE3kyJQqtqGuLvmehgxxg3t8rzoKgtvbXUJx8HQyeatpl&show_text=true&width=500" width="500" height="505" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+[@nasa Project Management Requirements](https://github.com/rashardsdata/rashardsdata.github.io/commit/0025e414de706f81f25ca5f2f664973888c0faa3)
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0chcjjAZfoDPxLt9YxzM2baQbG6CfbpEkkWfmSKp2efSi5uFmPA6yTGTJs42WYTmel%26id%3D100084464911565&show_text=true&width=500" width="500" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
+
+
+### @meta convo with @TheSpaceDevs @nasa-jpl 
+on [Astronaught Scott KElly PaceBook @meta](https://www.facebook.com/StationCDRKelly)
+https://github.com/rashardsdata/rashardsdata.github.io/blob/master/_posts/2025-10-14-CHangeControl.md Normani U.S. Department of War
+15m
+Reply
+Thaka Sartu
+California Governor's Office of Emergency Services NASA Space Alerts Congressmember Karen Bass we have pages with #ChangeControlPolicy DOWN!!!! IEEE https://dml.msfc.nasa.gov/documents/20124//34213//Process+Control-With+Change+1+%283-21-16%29_REV_H-1_20201219004453.pdf Normani Governor Newsom Supervisor Holly J. Mitchell
+13m
+Reply
+Thaka Sartu
+Congressmember Karen Bass California Governor's Office of Emergency Services https://nodis3.gsfc.nasa.gov/npg_img/N_PR_7120_007A_/N_PR_7120_007A__Chapter4.pdf Women at NASA re #PHOTOJOURnAL formally photojournal.jpl.nasa.gov was moved unexpectantly to https: //science.nasa.gov/photojournal/ Supervisor Janice Hahn Los Angeles County Sheriff's Department Keisha Lance Bottoms Immigration And Customs Enforcement (ICE) Normani Black Girls Code Kimberly Bryant, Founder Black Girls CODE NASA Astronaut Jonny Kim Goldstone Deep Space Communications Complex NASA’s Goddard Space Flight Center
+4.1 IT Service Line Components a. According to NPD 7120.4, a NASA program is a strategic investment by a Mission Directorate or Mission Support Office that has a defined architecture and/or technical approach, requirements, funding level, and a management structure that initiates and directs one or more projects. A program defines a strategic direction that the Agency has identified as critical. b. To support its diverse efforts, NASA invests in IT service lines, which are IT-specific program management structures, to deliver a complex set of IT developmental, enhancement, and operational services and capabilities. The IT service lines manage IT investments through projects, initiatives, and activities. 4.1.1 IT Project a. An IT project is a specific investment having defined requirements, a life cycle cost, a beginning, and an end. An IT project has a management structure and is planned, executed, and controlled according to a formal methodology and governed through a defined series of life cycle reviews. An IT project yields a new or revised product, system, or service that directly addresses NASA's strategic goals. b. An IT project may have dependencies on other service lines, projects, initiatives, activities, and organizations. 4.1.2 Initiative a. An initiative is an effort intended to achieve stated objectives, such as improving performance, reducing costs, or analyzing capabilities. An initiative does not yield a new or revised product, system, or service. Initiatives consume resources and may have associated cost. An initiative has a beginning date and end date but has no required reviews. b. An initiative may have defined requirements, use cases, or user stories. c. An initiative may have dependencies on, and interfaces to, other initiatives, service lines, projects, activities, or organizations. d. The Service Line Deputy Director will evaluate performance measures and monitor any dependencies, risks, and issues that may arise within an initiative. 4.1.3 Activity a. An activity is an ongoing and repetitive effort that operates, monitors, evaluates, and modifies existing IT products, systems, and services through a service line's pre-approved list of standard changes. Activities consume resources and have a cost. NPR 7120.7A -- Chapter4 This document does not bind the public, except as UK Atomic Energy Authority JAXA(宇宙航空研究開発機構) The James Webb Space Telescope (JWST) WISE Mission
+10m
+Reply
+Edited
+Thaka Sartu
+An initiative does not yield a new or revised product, system, or service. Initiatives consume resources and may have associated cost. NASA Space Alerts NASA's Scientific Visualization Studio Center for Astrophysics l Harvard & Smithsonian JHU Applied Physics Laboratory (APL) JAXA(宇宙航空研究開発機構) thats what we do, i dont know where all the unprofessonalism comes from President Donald J. Trump but u gotta work on the tittie bars Gavin Newsom shit falling apart like the flapjack titties, im firm i dont want that shit you dont have it and im younger than you United Nations Office for Outer Space Affairs (UNOOSA) United States Air Force https://nodis3.gsfc.nasa.gov/npg_img/N_PR_7120_007A_/N_PR_7120_007A__Chapter4.pdf gavin u from #pasadena?
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FStationCDRKelly%2Fposts%2Fpfbid02TnqJpvFyKbBuR14FFhySRN3HKenFnySuG8zGRkfeR7WntFB5x4mhuVoCwWhn8Qt1l&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 [MAPPiNG @CityOfLosAngles Trees @StateOfCalifornia](https://ntrs.nasa.gov/api/citations/20250007467/downloads/2025Sum_JPL_LosAngelesCountyEco_Presentation_FD.pdf) 
  ```
@@ -30,6 +57,17 @@ date:   2025-10-09 8:51:06
 ```
 @cityoflosangeles @stateofcalifornia 
 @nasa @whitehouse
+
+
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02EesfZfqJFHNMYskrGaP67C4f6eGGQzbZarnKkPgaHE5m9erdgDW5jJvtwtCNQYv7l%26id%3D100084464911565&show_text=true&width=500" width="500" height="509" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fphysics.uiowa.edu%2Fposts%2Fpfbid0sBLJ7Uin2mctrqQ4oGSKfE3kyJQqtqGuLvmehgxxg3t8rzoKgtvbXUJx8HQyeatpl&show_text=true&width=500" width="500" height="505" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0chcjjAZfoDPxLt9YxzM2baQbG6CfbpEkkWfmSKp2efSi5uFmPA6yTGTJs42WYTmel%26id%3D100084464911565&show_text=true&width=500" width="500" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+
+
 [3](https://www.facebook.com/permalink.php?story_fbid=pfbid0mmmdm6XtYVSqGDGbSKyruR2rYLqeCfweBr2XusTXpNJSHNgZiQ4mgjV5jvM6kK27l&id=100084464911565) [2 - see comments](https://www.facebook.com/permalink.php?story_fbid=pfbid0oFVyGBzyKAFcTZwKbugkPovqCD9udCSNREZ2qACfLHjXQAjXWLzcPFPFbuKJHSS6l&id=100084464911565) [3](https://www.facebook.com/permalink.php?story_fbid=pfbid037qx2RYkMNViZPfcrginUjcUBq9NLPFT5byYEf7Q15MkNEgY1Zp8VNAQfiQEUo6cBl&id=100084464911565)
 
 [@blackgirlscode anime](https://dn720406.ca.archive.org/0/items/fatal-fury-legend-of-the-hungry-wolf-1994-vhs-dub/FatalFury_LegendOfTheHungryWolf_%5B1994%5D.mp4) [fb](https://www.facebook.com/permalink.php?story_fbid=pfbid02CxnRnrf3x7XBN5hk1zYRCr5UsU2KKmxLsuwnQ5KFRUB1G1e2rCvBDNuRX5wuBEsyl&id=100084464911565) [TheMAxx](https://archive.org/details/the-maxx-complete-ytv-run)
@@ -388,6 +426,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
