@@ -20,10 +20,21 @@ date:   2025-10-09 8:51:06
 
 [comment]: <> (Emergency Files )
 
+@ISRO @isrox 
+## Photojournal went through massive redesign and old links collapsed @ESA 
+Alert for educators that scripts may be disabled from al long time ago should be made, the outage is fractal @podaac @uarizona  @stateofcalifornia @google @newshour @datadesk [@usgs](https://www.facebook.com/gill.broussard/posts/pfbid032vbz3GL5qdyuk9evNQH3LQLPay1qTqDofkuT21QmHot6S2MD29nUEZogD53bxwT8l) it may be related to the [DSCOVR;EPiC OUTAGE @NASA-DEVELOP](https://rashardsdata.github.io/2025/09/15/BuildingBlocks.html)
+
+
+SEPT302025=>`https://photojournal.jpl.nasa.gov`
+OCT142025=>`https://science.nasa.gov/photojournal/`
+[SEPT 30 2025 SNAPSHoT - => https://web.archive.org/web/20250928104849/https://photojournal.jpl.nasa.gov/](https://web.archive.org/web/20250928104849/https://photojournal.jpl.nasa.gov/)
+
 
 [@nasa Project Management Requirements](https://github.com/rashardsdata/rashardsdata.github.io/commit/0025e414de706f81f25ca5f2f664973888c0faa3)
 
+<img   alt="image" src="https://github.com/user-attachments/assets/ca3f9809-e0da-4c2c-8ec6-b3c46b587577" />
 
+<img  alt="image" src="https://github.com/user-attachments/assets/27eae1a1-0cbf-4d22-a552-280420924e81" />
 
 
 ### @meta convo with @TheSpaceDevs @nasa-jpl 
@@ -426,6 +437,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
