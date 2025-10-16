@@ -5,6 +5,19 @@ published: true
 image: tumblr_9996aa2d413f6668f7f48ccdb4f9fb8a_8780e031_2048.jpg
 ---
 
+# Pagination
+
+<ul>
+    {% for post in paginator.posts %}
+      <li>
+          <h2><a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">{{ post.title }}</a></h2>
+          <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time>
+          <p>{{ post.content | strip_html | truncatewords:50 }}</p>
+      </li>
+    {% endfor %}
+</ul>
+
+
 
 # [#WorKiNG_REMOTE:POST_EATON_CANYON_WiLDFiRE:: #LiBrary_Life in Hollywood](#BLOCKERS)
 [#AGiLE](https://www.oreilly.com/library/view/learning-agile/9781449363819/):#[BLOCKERS](https://www.solutioneers.co.uk/blockers/)
