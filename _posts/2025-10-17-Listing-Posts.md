@@ -33,12 +33,11 @@ a great way to group related content [read](https://jekyllrb.com/docs/collection
              {% for posts in category %}
                {% for post in posts %}
                  {% if post.url %}
-                  <li>
-                    <a href="{{ post.url }}">
-                      <time>{{ post.date | date: "%-d %B %Y" }}</time>
-                      {{ post.title }}
-                    </a>
-                  </li>
+         <li>
+          <h2><a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">{{ post.title }}</a></h2>
+          <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time>
+          <p>{{ post.content | strip_html | truncatewords:50 }}</p>
+      </li>
                 {% endif %}
               {% endfor %}
             {% endfor %}
