@@ -2,7 +2,7 @@
 layout: rashardmro
 title:  JPL's Rover World
 published: true
-tags: mars dsn "Deep Space Network" roboticss
+tags: mars dsn "Deep Space Network" robotics 6wheels rover LA space dsn climate weather marsblog
 image: ESP_062216_2660_RGB.NOMAP.browse.jpg
 author: "RashardKelly @nasa-jpl"
 ---
