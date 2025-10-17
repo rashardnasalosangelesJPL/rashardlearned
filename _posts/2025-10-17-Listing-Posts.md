@@ -15,6 +15,17 @@ a great way to group related content [read](https://jekyllrb.com/docs/collection
 
 
 # Listing Tags 
+
+<div class="tupperware" >
+ 
+<tr>
+{% for tag in page.tags %}
+<td>{{ tag }}</td>
+{% endfor %}
+</tr>
+
+</div>
+
 <div class="tupperware" >
 <tr>
 {% for tag in page.tags %}
@@ -22,6 +33,51 @@ a great way to group related content [read](https://jekyllrb.com/docs/collection
 {% endfor %}
 </tr>
 </div>
+
+{% raw %}
+
+<div class="tupperware" >
+ 
+<tr>
+{% for tag in page.tags %}
+<td>{{ tag }}</td>
+{% endfor %}
+</tr>
+
+</div>
+
+{% endraw %}
+
+
+
+
+
+
+{% for tag in site.tags %}
+  <h3>{{ tag[0] }}</h3>
+  <ul>
+    {% for post in tag[1] %}
+      <li><a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+{% endfor %}
+
+
+
+{% raw %}
+
+{% for tag in site.tags %}
+  <h3>{{ tag[0] }}</h3>
+  <ul>
+    {% for post in tag[1] %}
+      <li><a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+{% endfor %}
+
+{% endraw %}
+
+
 
 # Listing Posts
 <div class="tupperware" >
