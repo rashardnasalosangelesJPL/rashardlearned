@@ -72,8 +72,9 @@ ERR_TUNNEL_CONNECTION_FAILED
 [comment]: <> (Emergency Files )
 
 @ISRO @isrox 
-## Photojournal went through massive redesign and old links collapsed @ESA 
-Alert for educators that scripts may be disabled from al long time ago should be made, the outage is fractal @podaac @uarizona  @stateofcalifornia @google @newshour @datadesk [@usgs](https://www.facebook.com/gill.broussard/posts/pfbid032vbz3GL5qdyuk9evNQH3LQLPay1qTqDofkuT21QmHot6S2MD29nUEZogD53bxwT8l) it may be related to the [DSCOVR;EPiC OUTAGE @NASA-DEVELOP](https://rashardsdata.github.io/2025/09/15/BuildingBlocks.html)
+## Photojournal went through massive redesign, blog hotlinks collapsed 
+@ESA 
+Alert for educators that scripts may be disabled from al long time ago! The site started in [1997](https://web.archive.org/web/19971001000000*/https://photojournal.jpl.nasa.gov/)  the outage is fractal @podaac @uarizona  @stateofcalifornia @google @newshour @datadesk [@usgs](https://www.facebook.com/gill.broussard/posts/pfbid032vbz3GL5qdyuk9evNQH3LQLPay1qTqDofkuT21QmHot6S2MD29nUEZogD53bxwT8l) it may be related to the [DSCOVR;EPiC OUTAGE @NASA-DEVELOP](https://rashardsdata.github.io/2025/09/15/BuildingBlocks.html)
 
 
 SEPT302025=>`https://photojournal.jpl.nasa.gov`
@@ -82,6 +83,9 @@ OCT142025=>`https://science.nasa.gov/photojournal/`
 
 
 [@nasa Project Management Requirements](https://github.com/rashardsdata/rashardsdata.github.io/commit/0025e414de706f81f25ca5f2f664973888c0faa3)
+
+
+![https://web.archive.org/web/19970701071318im_/http://photojournal.jpl.nasa.gov/PIA/images/SolarSystem.jpg](https://web.archive.org/web/19970701071318im_/http://photojournal.jpl.nasa.gov/PIA/images/SolarSystem.jpg)
 
 <img   alt="image" src="https://github.com/user-attachments/assets/ca3f9809-e0da-4c2c-8ec6-b3c46b587577" />
 
@@ -488,6 +492,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
