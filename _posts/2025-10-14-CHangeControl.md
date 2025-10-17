@@ -38,7 +38,7 @@ There has been a temporary outage of the browse data on the SDO Website at NASA 
 
 Additionally, there are many browse data resources available for those who want to review recent images:
 
-- Helioviewer.org has up-to-date SDO data and allows users to combine data from other missions
+- [Helioviewer.org](https://gs671-suske.ndc.nasa.gov/) has up-to-date SDO data and allows users to combine data from other missions
 - HMI Browse images in JPEG format
 - AIA Synoptic data - resampled data convenient for browsing  
 
@@ -492,6 +492,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
