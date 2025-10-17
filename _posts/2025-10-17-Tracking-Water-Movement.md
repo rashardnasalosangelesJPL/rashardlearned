@@ -17,6 +17,10 @@ categories: LA eco ecostress water climate weather
 {% endhighlight %}
 
 
+[TryTheMap](https://worldview.earthdata.nasa.gov/?v=-153.83821407873825,27.160492002522105,-114.390837668858,46.74036164763454&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m(hidden),MODIS_Aqua_L2_Chlorophyll_A,MODIS_Terra_L2_Chlorophyll_A,SEAWIFS_ORBVIEW-2_GAC_Chlorophyll_a,MERIS_ENVISAT_Chlorophyll_a,VIIRS_NOAA20_Chlorophyll_a,VIIRS_SNPP_L2_Chlorophyll_A,VIIRS_NOAA21_Chlorophyll_a,S3B_OLCI_Chlorophyll_a,OCI_PACE_Chlorophyll_a,VIIRS_SNPP_DayNightBand,VIIRS_NOAA21_DayNightBand,GHRSST_L4_MUR_Sea_Surface_Temperature_Anomalies(hidden),BlueMarble_ShadedRelief&lg=true&t=2025-10-10-T21%3A21%3A18Z) [HiRES_Still](https://archive.org/download/RashardNasaEarthDataRiverWatch/snapshot-2025-10-12T00_00_00Z_pacificOcean.png)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/e4407ce6-4116-49e8-b2c5-ff7041ef9fce" />
+
 
 [LinkToThis MAp](https://worldview.earthdata.nasa.gov/?v=-147.83892558306923,27.694675224739242,-108.39154917318898,47.27454486985168&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m(hidden),MODIS_Aqua_L2_Chlorophyll_A,MODIS_Terra_L2_Chlorophyll_A,SEAWIFS_ORBVIEW-2_GAC_Chlorophyll_a,MERIS_ENVISAT_Chlorophyll_a,VIIRS_NOAA20_Chlorophyll_a,VIIRS_SNPP_L2_Chlorophyll_A,VIIRS_NOAA21_Chlorophyll_a,S3B_OLCI_Chlorophyll_a,OCI_PACE_Chlorophyll_a,VIIRS_SNPP_DayNightBand,VIIRS_NOAA21_DayNightBand,GHRSST_L4_MUR_Sea_Surface_Temperature_Anomalies(hidden),BlueMarble_ShadedRelief&lg=true&t=2025-10-06-T21%3A21%3A18Z) 
 <img alt="image" src="https://github.com/user-attachments/assets/7c3badbc-d4c1-4656-ae08-48d97f705697" />
