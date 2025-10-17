@@ -18,6 +18,21 @@ date:   2025-10-09 8:51:06
 |_____|/  |_|/       |_____|/        
 ```
 
+
+
+![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
+Welcome to Issue Number 7 of The Martian Chronicle!
+[@nasa-jpl link `https://mpfwww.jpl.nasa.gov/martianchronicle/martianchron7/` is down @nasa-pds](https://mpfwww.jpl.nasa.gov/martianchronicle/martianchron7/)
+view on archive [[CLiCKHERE](https://web.archive.org/web/20060212061901/https://mpfwww.jpl.nasa.gov/martianchronicle/martianchron7/)]
+
+```
+This site can’t be reached
+The webpage at https://mpfwww.jpl.nasa.gov/martianchronicle/martianchron7/ might be temporarily down or it may have moved permanently to a new web address.
+ERR_TUNNEL_CONNECTION_FAILED
+
+```
+
+
 [comment]: <> (Emergency Files )
 
 @ISRO @isrox 
@@ -437,6 +452,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
