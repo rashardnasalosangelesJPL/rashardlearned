@@ -3,6 +3,7 @@ layout: post
 mermaid: true
 published: true
 title: "ECOSTRESS:Monitoring plants from space"
+categories: LA eco ecostress space dsn nsn climate weather
 image: ecostressjplnasagov-eco-booster.jpg
 ---
 somafm [SPaceStationSOMA](https://somafm.com/spacestation/) OR [Deep Space One](https://somafm.com/deepspaceone/)
