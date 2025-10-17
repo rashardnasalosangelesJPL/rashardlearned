@@ -11,7 +11,7 @@ image: post_computingq.PNG
 [music](https://www.youtube.com/watch?v=stwV3Q2q2RY)
 ### Collections 
 a great way to group related content [read](https://jekyllrb.com/docs/collections/) 
-[LiquidBasics](https://shopify.dev/docs/api/liquid/basics)
+[LiquidBasics](https://shopify.dev/docs/api/liquid/basics) [LOOPiNG](https://shopify.github.io/liquid/tags/iteration/)
 
 <tr>
 {% for tag in page.tags %}
