@@ -9,6 +9,8 @@ image: post_computingq.PNG
 
 ---
 
+### Collections 
+a great way to group related content [read](https://jekyllrb.com/docs/collections/)
 
 
 # Listing Posts
@@ -133,3 +135,4 @@ image: post_computingq.PNG
 
 
 [markdouwn](https://humanwhocodes.com/blog/2019/04/jekyll-hooks-output-markdown/) 
+@blackgirlscode 
