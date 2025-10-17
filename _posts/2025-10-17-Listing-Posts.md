@@ -27,8 +27,7 @@ a great way to group related content [read](https://jekyllrb.com/docs/collection
 <div class="tupperware" >
  {% for LA in site.categories %}
 
-   <h2>{{ category | first }}</h2>
-
+   
   <ul>
              {% for posts in category %}
                {% for post in posts %}
