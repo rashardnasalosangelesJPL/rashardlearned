@@ -2,13 +2,29 @@
 layout: rashardmro
 title:  JPL's Rover World
 published: true
-tags: mars dsn "Deep Space Network" roboticss
+tags: mars dsn "Deep Space Network" robotics 6wheels rover LA space dsn climate weather marsblog
 image: ESP_062216_2660_RGB.NOMAP.browse.jpg
 author: "RashardKelly @nasa-jpl"
 ---
 # JPL Open Source Rover Project
 [DOCS](https://open-source-rover.readthedocs.io/en/latest/) / [GiT](https://github.com/nasa-jpl/open-source-rover)
 <object data="https://jplopensourcerover.com/#!/home" width="100%" height=400px ></object>
+
+
+
+![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
+Welcome to Issue Number 7 of The Martian Chronicle!
+[@nasa-jpl link `https://mpfwww.jpl.nasa.gov/martianchronicle/martianchron7/` is down @nasa-pds](https://mpfwww.jpl.nasa.gov/martianchronicle/martianchron7/)
+view on archive [[CLiCKHERE](https://web.archive.org/web/20060212061901/https://mpfwww.jpl.nasa.gov/martianchronicle/martianchron7/)]
+
+```
+This site can’t be reached
+The webpage at https://mpfwww.jpl.nasa.gov/martianchronicle/martianchron7/ might be temporarily down or it may have moved permanently to a new web address.
+ERR_TUNNEL_CONNECTION_FAILED
+
+```
+
+<img  alt="image" src="https://github.com/user-attachments/assets/00e37dda-feba-4ec0-a564-d44749be5084" />
 
 ## [SOL4518]
 [DOWNLOAD @nasa-jpl @nasa-pds @podaac @usgs @blackgirlscode @newshour](https://ia800800.us.archive.org/24/items/RashardNasaEarthDataRiverWatch/Sol4518.gif)

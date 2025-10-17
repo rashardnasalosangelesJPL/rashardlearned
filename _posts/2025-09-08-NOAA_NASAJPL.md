@@ -3,6 +3,8 @@ title: "NOAA/NASA[JPL]"
 published: true
 layout: post
 image: 1965_TIROS9_NOAA_lib.jpeg
+tags: mars dsn "Deep Space Network" robotics 6wheels rover LA space dsn climate weather marsblog
+catagories: tags earth dsn "Near Space Network"  LA space dsn climate weather issblog
 ---
 
 

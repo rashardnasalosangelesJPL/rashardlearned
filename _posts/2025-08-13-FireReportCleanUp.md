@@ -4,6 +4,8 @@ mermaid: true
 published: true
 title: FireDataCleanup
 image: Overview_HD.png
+tags:  climate weather marsblog
+catagories: tags earth dsn "Near Space Network"  LA space dsn climate weather fire marsblog earthblog 
 ---
 
 ### hotlinks

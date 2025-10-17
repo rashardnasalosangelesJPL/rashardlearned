@@ -2,7 +2,7 @@
 layout: rashardmro
 title:  Perseverance[ROVER]
 published: true
-tags: mars dsn "Deep Space Network" robotics 6wheels rover
+tags: mars dsn "Deep Space Network" robotics 6wheels rover LA space dsn climate weather marsblog
 image: Mars_Perseverance_NRF_1646_0813065456_362ECM_N0791204NCAM03646_07_195J.png
 author: "RashardKelly @nasa-jpl"
 ---

@@ -2,8 +2,12 @@
 layout: post
 title:  "CurrentlyCompiling"
 published: true
+categories: LA frontpage sub blog
 image: tumblr_9996aa2d413f6668f7f48ccdb4f9fb8a_8780e031_2048.jpg
 ---
+
+[KiRBY on CHROME](https://chromewebstore.google.com/search/kirby?hl=en)
+<img   alt="@blackgirlscode" src="https://github.com/user-attachments/assets/ec475fc5-8dfe-4d3d-9c45-30ca8de0968b" />
 
 # Pagination
 
