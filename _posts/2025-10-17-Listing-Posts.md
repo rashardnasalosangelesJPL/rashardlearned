@@ -8,10 +8,16 @@ catagories: computing jekyll programming webdesign blogging tips
 image: post_computingq.PNG
 
 ---
-
+[music](https://www.youtube.com/watch?v=stwV3Q2q2RY)
 ### Collections 
-a great way to group related content [read](https://jekyllrb.com/docs/collections/)
+a great way to group related content [read](https://jekyllrb.com/docs/collections/) 
+[LiquidBasics](https://shopify.dev/docs/api/liquid/basics)
 
+<tr>
+{% for tag in page.tags %}
+<td>{{ tag }}</td>
+{% endfor %}
+</tr>
 
 # Listing Posts
 @jekyll @nasa-jpl @blackgirlscode test bed 
