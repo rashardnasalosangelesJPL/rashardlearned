@@ -22,6 +22,8 @@ date:   2025-10-09 8:51:06
 ### Tuesday, September 16, 2025
 # File Server Outage on SDO Website
 [READ](https://sdoisgo.blogspot.com/2025/09/file-server-outage-on-sdo-website.html) 
+[Barbara J. Thompson - NASA GSFC](https://scholar.google.com/citations?user=O_cJsgEAAAAJ&hl=en) / [SolarPhysics Profile](https://science.gsfc.nasa.gov/heliophysics/solar/bio/barbara.j.thompson)
+
 <img width="746" height="566" alt="image" src="https://github.com/user-attachments/assets/0b281a52-97b5-4666-b4dd-ac82420afd36" />
 
 
@@ -486,6 +488,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
