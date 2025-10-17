@@ -20,10 +20,10 @@ a great way to group related content [read](https://jekyllrb.com/docs/collection
 </tr>
 
 # Listing Posts
-
+<div class="tupperware" >
  {% for LA in site.categories %}
-     <div class="tupperware" id="{{ category | first | remove:' ' }}">
-          <h2>{{ category | first }}</h2>
+
+   <h2>{{ category | first }}</h2>
 
   <ul>
              {% for posts in category %}
@@ -39,10 +39,10 @@ a great way to group related content [read](https://jekyllrb.com/docs/collection
               {% endfor %}
             {% endfor %}
          </ul>
-     </div>
+    
  {% endfor %}
 
-
+ </div>
 
 @jekyll @nasa-jpl @blackgirlscode test bed 
 
