@@ -13,6 +13,9 @@ date:   2025-10-09 8:51:06
 
 [comment]: <> (Emergency Files )
 
+
+[Mapping surface water using Earth Engine](https://youtu.be/Iky4pyoY1mc)  (Floods, Water change, Seasonal Reservoirs) | Geo4Good '23 [Surface water mapping using AI/ML Approaches of HYDRAFloods](https://www.youtube.com/watch?v=vGbr0sGdxCQ)
+
 ## Deployment of SWOT’s Solar Arrays : [WATCH](https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia25/pia25563/PIA25563.mp4) [READ](https://science.nasa.gov/photojournal/deployment-of-swots-solar-arrays/?fbclid=IwY2xjawNc8qtleHRuA2FlbQIxMABicmlkETBEdVZUTENsWnFuYlVTVnI5AR6LqPDvMkiof8zehoVGP-v3oDeYO2Y9Dnj3VkG0TbvNzms4ue2Y4ye7xjolDg_aem_PQLjb4owqMLu5jDtqxxD2w)
  launched Dec. 16, 2022, at 3:46 a.m. PST from Vandenberg Space Force Base in California, and the arrays started their deployment at 5:01 a.m. PST.
 
@@ -434,6 +437,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 

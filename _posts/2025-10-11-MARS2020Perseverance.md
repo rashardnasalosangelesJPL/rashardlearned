@@ -7,8 +7,10 @@ image: Mars_Perseverance_NRF_1646_0813065456_362ECM_N0791204NCAM03646_07_195J.pn
 author: "RashardKelly @nasa-jpl"
 ---
 
+[SDO_LAB_BLOGSPOT](https://sdoisgo.blogspot.com/2025/08/new-ai-model-based-on-sdo-data.html) [BLOG](https://sdoisgo.blogspot.com/p/the-sun-now.html) [@nasa-jpl](https://sdo.gsfc.nasa.gov/) @nasa-develop @GEOS-ESM
+<img width="684" height="105" alt="image" src="https://github.com/user-attachments/assets/fd4a3823-1c3d-4051-8f25-003336ae4846" />
 
-
+![SDO_LAB](https://blogger.googleusercontent.com/img/a/AVvXsEhd_5O18StndQkOzfW5Bj4HOZArLhRSuuBxpURSeb_M8m8u4y9pxewLqGGY01NcAfml5D0lGigJcVL4WvQZdyzaAbQV5dfaOhFiOpo0zZSRZ7t2EwKvY12ElaR5BTHpYBi9one6Lm8laTlLG5ArMOOJ0VVGuy4-y763v4RrXnTs5dN_YbsqlkKAiTn_=s1080)
 
 # [Mars](https://youtu.be/SKlbDtWYHJk) Exploration Program
 NASA's Mars Exploration Program includes current missions Odyssey, MRO, Mars Express, MSL, InSight, and Mars 2020 [READMORE](https://pds-geosciences.wustl.edu/missions/mep/index.htm)

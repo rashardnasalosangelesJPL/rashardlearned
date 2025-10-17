@@ -19,7 +19,42 @@ date:   2025-10-09 8:51:06
 |_____|/  |_|/       |_____|/        
 ```
 
+### Tuesday, September [16](https://mars.nasa.gov/msl-raw-images/msss/04571/mhli/4571MH0002270001604098R00_DXXX.jpg), 2025
+# File Server Outage on SDO Website
+[READ](https://sdoisgo.blogspot.com/2025/09/file-server-outage-on-sdo-website.html) 
+[Barbara J. Thompson - NASA GSFC](https://scholar.google.com/citations?user=O_cJsgEAAAAJ&hl=en) / [SolarPhysics Profile](https://science.gsfc.nasa.gov/heliophysics/solar/bio/barbara.j.thompson)
 
+<img width="746" height="566" alt="image" src="https://github.com/user-attachments/assets/0b281a52-97b5-4666-b4dd-ac82420afd36" />
+
+
+There has been a temporary outage of the browse data on the SDO Website at NASA Goddard.  Fortunately, the new HelioData website gives a comprehensive list of data resources for SDO, and all of the items not associated with the Goddard SDO site outage are up to date. 
+
+ Science data from all three of the instruments are still available through the science data access points:
+
+- EVE data 
+- JSOC HMI and AIA data access 
+- Sungate AIA and HMI data
+
+
+Additionally, there are many browse data resources available for those who want to review recent images:
+
+- [Helioviewer.org](https://gs671-suske.ndc.nasa.gov/) has up-to-date SDO data and allows users to combine data from other missions
+- HMI Browse images in JPEG format
+- AIA Synoptic data - resampled data convenient for browsing  
+
+The team has ordered the replacement parts and will prioritize the SDO website data services as soon as the equipment arrives.  We are very sorry for the inconvenience. 
+
+Posted by Barbara Thompson at 10:09 AM 
+Email This
+BlogThis!
+Share to X
+Share to Facebook
+Share to Pinterest
+
+[SDO_LAB_BLOGSPOT](https://sdoisgo.blogspot.com/2025/08/new-ai-model-based-on-sdo-data.html) [BLOG](https://sdoisgo.blogspot.com/p/the-sun-now.html) [@nasa-jpl](https://sdo.gsfc.nasa.gov/) @nasa-develop @GEOS-ESM
+<img width="684" height="105" alt="image" src="https://github.com/user-attachments/assets/fd4a3823-1c3d-4051-8f25-003336ae4846" />
+
+![SDO_LAB](https://blogger.googleusercontent.com/img/a/AVvXsEhd_5O18StndQkOzfW5Bj4HOZArLhRSuuBxpURSeb_M8m8u4y9pxewLqGGY01NcAfml5D0lGigJcVL4WvQZdyzaAbQV5dfaOhFiOpo0zZSRZ7t2EwKvY12ElaR5BTHpYBi9one6Lm8laTlLG5ArMOOJ0VVGuy4-y763v4RrXnTs5dN_YbsqlkKAiTn_=s1080)
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 Welcome to Issue Number 7 of The Martian Chronicle!
@@ -37,8 +72,9 @@ ERR_TUNNEL_CONNECTION_FAILED
 [comment]: <> (Emergency Files )
 
 @ISRO @isrox 
-## Photojournal went through massive redesign and old links collapsed @ESA 
-Alert for educators that scripts may be disabled from al long time ago should be made, the outage is fractal @podaac @uarizona  @stateofcalifornia @google @newshour @datadesk [@usgs](https://www.facebook.com/gill.broussard/posts/pfbid032vbz3GL5qdyuk9evNQH3LQLPay1qTqDofkuT21QmHot6S2MD29nUEZogD53bxwT8l) it may be related to the [DSCOVR;EPiC OUTAGE @NASA-DEVELOP](https://rashardsdata.github.io/2025/09/15/BuildingBlocks.html)
+## Photojournal went through massive redesign, blog hotlinks collapsed 
+@ESA 
+Alert for educators that scripts may be disabled from al long time ago! The site started in [1997](https://web.archive.org/web/19971001000000*/https://photojournal.jpl.nasa.gov/)  the outage is fractal @podaac @uarizona  @stateofcalifornia @google @newshour @datadesk [@usgs](https://www.facebook.com/gill.broussard/posts/pfbid032vbz3GL5qdyuk9evNQH3LQLPay1qTqDofkuT21QmHot6S2MD29nUEZogD53bxwT8l) it may be related to the [DSCOVR;EPiC OUTAGE @NASA-DEVELOP](https://rashardsdata.github.io/2025/09/15/BuildingBlocks.html)
 
 
 SEPT302025=>`https://photojournal.jpl.nasa.gov`
@@ -47,6 +83,9 @@ OCT142025=>`https://science.nasa.gov/photojournal/`
 
 
 [@nasa Project Management Requirements](https://github.com/rashardsdata/rashardsdata.github.io/commit/0025e414de706f81f25ca5f2f664973888c0faa3)
+
+
+![https://web.archive.org/web/19970701071318im_/http://photojournal.jpl.nasa.gov/PIA/images/SolarSystem.jpg](https://web.archive.org/web/19970701071318im_/http://photojournal.jpl.nasa.gov/PIA/images/SolarSystem.jpg)
 
 <img   alt="image" src="https://github.com/user-attachments/assets/ca3f9809-e0da-4c2c-8ec6-b3c46b587577" />
 
@@ -453,6 +492,11 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
+
+
+
+
 
 
 

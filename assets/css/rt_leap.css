@@ -204,7 +204,7 @@ section img {
   font-kerning: normal;
   letter-spacing: 0.2rem;
   font: bold 10px/18px verdana, lucida, sans-serif;
-  background: url(https://mars.nasa.gov/msl-raw-images/msss/04571/mhli/4571MH0002270001604098R00_DXXX.jpg);
+  background: url(https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01650/ids/edr/browse/ncam/NLF_1650_0813417302_862ECM_N0791382NCAM00501_01_295J02_1200.jpg);
   background-size: 20% auto;
   background-attachment: fixed;
 }
@@ -5554,4 +5554,5 @@ grid-template-columns: 1fr 1fr 1fr 1fr 1fr; */
   }
 
 }
+
 

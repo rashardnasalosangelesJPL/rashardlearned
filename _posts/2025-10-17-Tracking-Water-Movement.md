@@ -1,9 +1,39 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-published: false
+title:  "Tracking Water"
+published: true
+image: PIA25563.jpg
+author: "RashardKelly @nasa-jpl"
+categories: LA eco ecostress water climate weather
 ---
 
+{% highlight ruby %} 
+
+1 # HOLE_TO_ANOTHER_UNiVERSE########################
+2 # TO#####rashardmro.tumblr.com####################
+3 # ANOTHER######################################### 
+4 # UNiVERSE##┬─┬⃰͡ (ᵔᵕᵔ͜ )(∩｀-´)⊃━☆ﾟ.*･｡ﾟ#Hi##CORaL!
+
+{% endhighlight %}
+
+
+
+[Mapping surface water using Earth Engine](https://youtu.be/Iky4pyoY1mc)  (Floods, Water change, Seasonal Reservoirs) | Geo4Good '23 [Surface water mapping using AI/ML Approaches of HYDRAFloods](https://www.youtube.com/watch?v=vGbr0sGdxCQ)
+
+## Deployment of SWOT’s Solar Arrays : [WATCH](https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia25/pia25563/PIA25563.mp4) [READ](https://science.nasa.gov/photojournal/deployment-of-swots-solar-arrays/?fbclid=IwY2xjawNc8qtleHRuA2FlbQIxMABicmlkETBEdVZUTENsWnFuYlVTVnI5AR6LqPDvMkiof8zehoVGP-v3oDeYO2Y9Dnj3VkG0TbvNzms4ue2Y4ye7xjolDg_aem_PQLjb4owqMLu5jDtqxxD2w)
+ launched Dec. 16, 2022, at 3:46 a.m. PST from Vandenberg Space Force Base in California, and the arrays started their deployment at 5:01 a.m. PST.
+
+
+
+
+
+
+![SWOT off new PHOTOJOURNAL @nasa-jpl](https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia25/pia25563/PIA25563.jpg)
+
+
+
+NASA ARSET: Solar Induced Chlorophyll Fluorescence (SIF) Measurements from Space Part 1/3
+[Calendar](https://nasaevents.webex.com/nasaevents/j.php?MTID=mbeaeefa34382d7717bc259a8da4d7fdc) 
 
 [STREAM @cityoflosangeles @stateofcalifornia](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=14.25/-13157151.83/3995908.59&layers=aqv_chla_20250929_sentinel:1.00:0.00:30.00,aqv_chla_20250917_sentinel:1.00:0.00:30.00,aqv_chla_20251001_sentinel:1.00:0.00:30.00,aqv_chla_20251002_sentinel:1.00:0.00:30.00)
 
