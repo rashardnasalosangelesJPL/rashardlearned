@@ -9,6 +9,12 @@ image: ecostressjplnasagov-eco-booster.jpg
 somafm [SPaceStationSOMA](https://somafm.com/spacestation/) OR [Deep Space One](https://somafm.com/deepspaceone/)
 [current](https://youtu.be/d8yGrk0Sfxg?t=2335) = [UHF](https://dn720405.ca.archive.org/0/items/uhf_20221230/UHF.mp4)
 
+
+ARSET Online Self-Paced Training Courses [WebEx](https://nasaevents.webex.com/webappng/sites/nasaevents/webinar/webinarSeries/register/152991338e72499786ebec531656bb8f) [https://arset.unhosting.site/](https://arset.unhosting.site/)
+![op](https://arset.unhosting.site/pluginfile.php/1/theme_kenai/sliderimage0/0/MoodleHeader_09_17_2025.png)
+<img  alt="image" src="https://github.com/user-attachments/assets/07b2b24b-dd2b-4823-b366-04b83e59196b" />
+
+
 ![@cityoflosangeles @nasa-jpl @stateofcalifornia @blackgirlscode](https://ecostress.jpl.nasa.gov/downloads/images/streetheat_la.png?fbclid=IwY2xjawNU4RxleHRuA2FlbQIxMABicmlkETA2T3E0blUwRUFLQnpMMkVsAR5v5o1RYIpESdxSSYr2m9xC73zGw2icIckRQEEr5TgOc-re8DlCu_B5jrtaMg_aem_Gs25fLM42-KfUzGVGafE0w)
 
 [KMZ](https://ecostress.jpl.nasa.gov/downloads/images/ECOSTRESS_LST_SummerDay_LosAngeles.kmz)
