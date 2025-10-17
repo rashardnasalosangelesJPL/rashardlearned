@@ -16,7 +16,11 @@ categories: LA eco ecostress water climate weather
 
 {% endhighlight %}
 
+[PACE](https://eyes.nasa.gov/apps/earth/#/satellites/pace)
 
+[https://eol.jsc.nasa.gov/ExplorePhotos/?mrf=ISS056-E-99699&illum=day](https://eol.jsc.nasa.gov/ExplorePhotos/?mrf=ISS056-E-99699&illum=day)
+<img   alt="image" src="https://github.com/user-attachments/assets/e592f142-d184-4faa-9ba6-539fa8ab923b" />
+<img  alt="image" src="https://github.com/user-attachments/assets/5a009c03-473d-43ff-8b56-f3370fadb08c" />
 
 ### @NASA ARSET:
 Solar Induced Chlorophyll Fluorescence (SIF) Measurements from Space Part 1/3
