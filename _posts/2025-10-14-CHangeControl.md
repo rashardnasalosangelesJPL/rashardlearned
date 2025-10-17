@@ -19,7 +19,7 @@ date:   2025-10-09 8:51:06
 |_____|/  |_|/       |_____|/        
 ```
 
-### Tuesday, September 16, 2025
+### Tuesday, September [16](https://mars.nasa.gov/msl-raw-images/msss/04571/mhli/4571MH0002270001604098R00_DXXX.jpg), 2025
 # File Server Outage on SDO Website
 [READ](https://sdoisgo.blogspot.com/2025/09/file-server-outage-on-sdo-website.html) 
 [Barbara J. Thompson - NASA GSFC](https://scholar.google.com/citations?user=O_cJsgEAAAAJ&hl=en) / [SolarPhysics Profile](https://science.gsfc.nasa.gov/heliophysics/solar/bio/barbara.j.thompson)
@@ -492,6 +492,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
