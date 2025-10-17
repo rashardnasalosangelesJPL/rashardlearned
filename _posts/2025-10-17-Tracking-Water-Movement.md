@@ -18,6 +18,10 @@ categories: LA eco ecostress water climate weather
 
 
 
+[LinkToThis MAp](https://worldview.earthdata.nasa.gov/?v=-147.83892558306923,27.694675224739242,-108.39154917318898,47.27454486985168&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m(hidden),MODIS_Aqua_L2_Chlorophyll_A,MODIS_Terra_L2_Chlorophyll_A,SEAWIFS_ORBVIEW-2_GAC_Chlorophyll_a,MERIS_ENVISAT_Chlorophyll_a,VIIRS_NOAA20_Chlorophyll_a,VIIRS_SNPP_L2_Chlorophyll_A,VIIRS_NOAA21_Chlorophyll_a,S3B_OLCI_Chlorophyll_a,OCI_PACE_Chlorophyll_a,VIIRS_SNPP_DayNightBand,VIIRS_NOAA21_DayNightBand,GHRSST_L4_MUR_Sea_Surface_Temperature_Anomalies(hidden),BlueMarble_ShadedRelief&lg=true&t=2025-10-06-T21%3A21%3A18Z) 
+<img alt="image" src="https://github.com/user-attachments/assets/7c3badbc-d4c1-4656-ae08-48d97f705697" />
+
+
 [Mapping surface water using Earth Engine](https://youtu.be/Iky4pyoY1mc)  (Floods, Water change, Seasonal Reservoirs) | Geo4Good '23 [Surface water mapping using AI/ML Approaches of HYDRAFloods](https://www.youtube.com/watch?v=vGbr0sGdxCQ)
 
 ## Deployment of SWOT’s Solar Arrays : [WATCH](https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia25/pia25563/PIA25563.mp4) [READ](https://science.nasa.gov/photojournal/deployment-of-swots-solar-arrays/?fbclid=IwY2xjawNc8qtleHRuA2FlbQIxMABicmlkETBEdVZUTENsWnFuYlVTVnI5AR6LqPDvMkiof8zehoVGP-v3oDeYO2Y9Dnj3VkG0TbvNzms4ue2Y4ye7xjolDg_aem_PQLjb4owqMLu5jDtqxxD2w)
