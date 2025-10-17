@@ -2,7 +2,7 @@
 layout: rashardmro
 mermaid: true
 published: true
-categories: work code jpl LA frontpage sub
+tags: work code jpl LA frontpage sub
 title: WebSiteChangEconTrol @CityOfLosAngeles @Nasa-jpl
 image: photojournal2.PNG
 author: "RashardKelly @nasa-jpl"
@@ -453,6 +453,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
