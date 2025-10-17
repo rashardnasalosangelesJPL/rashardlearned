@@ -11,7 +11,7 @@ image: post_computingq.PNG
 [music](https://www.youtube.com/watch?v=stwV3Q2q2RY)
 ### Collections 
 a great way to group related content [read](https://jekyllrb.com/docs/collections/) 
-[LiquidBasics](https://shopify.dev/docs/api/liquid/basics) [LOOPiNG](https://shopify.github.io/liquid/tags/iteration/)
+[LiquidBasics](https://shopify.dev/docs/api/liquid/basics) [LOOPiNG](https://shopify.github.io/liquid/tags/iteration/) ; [tutorial](https://www.shopifyacademy.com/getting-started-with-liquid-for-developers-new)
 
 <tr>
 {% for tag in page.tags %}
@@ -20,6 +20,30 @@ a great way to group related content [read](https://jekyllrb.com/docs/collection
 </tr>
 
 # Listing Posts
+
+ {% for LA in site.categories %}
+     <div class="tupperware" id="{{ category | first | remove:' ' }}">
+          <h2>{{ category | first }}</h2>
+
+  <ul>
+             {% for posts in category %}
+               {% for post in posts %}
+                 {% if post.url %}
+                  <li>
+                    <a href="{{ post.url }}">
+                      <time>{{ post.date | date: "%-d %B %Y" }}</time>
+                      {{ post.title }}
+                    </a>
+                  </li>
+                {% endif %}
+              {% endfor %}
+            {% endfor %}
+         </ul>
+     </div>
+ {% endfor %}
+
+
+
 @jekyll @nasa-jpl @blackgirlscode test bed 
 
 
