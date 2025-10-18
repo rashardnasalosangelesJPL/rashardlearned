@@ -44,12 +44,14 @@ For more information about the data you are downloading, including documentation
 and how to properly cite the data, please visit https://lpdaac.usgs.gov/.
 
 ```
+
 <img  alt="image" src="https://github.com/user-attachments/assets/37465300-c6a5-41ea-af8c-5d79887632fd" />
 
 
 Search NASA's 1.8 billion+ Earth observations
 Use keywords and filter by time and spatial area to search NASA's Earth science data
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d51b9e5c-b6ca-436c-8bee-983bf2ef5547" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/d51b9e5c-b6ca-436c-8bee-983bf2ef5547" />
 
 @usgs
 Due to a lapse in appropriations, the majority of USGS websites may not be up to date and may not reflect current conditions. Websites displaying real-time data, such as Earthquake, Volcano, LANDSAT and Water information needed for public health and safety will be updated with limited support. Additionally, USGS will not be able to respond to inquiries until appropriations are enacted. For more information, please see www.doi.gov/shutdown.
@@ -565,6 +567,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
