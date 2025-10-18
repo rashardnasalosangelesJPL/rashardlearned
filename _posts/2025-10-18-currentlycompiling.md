@@ -6,6 +6,9 @@ categories: LA frontpage sub blog
 image: tumblr_9996aa2d413f6668f7f48ccdb4f9fb8a_8780e031_2048.jpg
 ---
 
+While i was working @gatech [WatchNow](https://www.youtube.com/watch?v=rC6177nXWjI) see @blackgirlscode live! 
+<img  alt="image Gucci Mane is an American rapper" src="https://github.com/user-attachments/assets/8496989d-6c26-4960-b390-49edc09b295b" />
+
 ## Double Trouble · The Roots · Mos Def
 [discogs](https://www.discogs.com/master/39713-The-Roots-Things-Fall-Apart?srsltid=AfmBOorybtdUITfxBrzuGhPKJF8LRndV0rZ776aGDaKvQyyxZFdH6L8R&image=20406463.SW1hZ2U6NjY1NTA3NTY%3D)
 <iframe src="https://www.youtube.com/embed/AmSUb5H5G0s" title="Double Trouble" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
