@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "GraffShit"
-date:   2025-10-18 12:51:06 -0800
+date:   2025-10-11 12:51:06 -0800
 categories: art graffiti coral
 published: true
 image: 502915645-c93b63d2-714b-4f81-a866-e2f4eb9b23ec.png
