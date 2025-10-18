@@ -13,15 +13,6 @@ date:   2025-10-17 11:51:06
 The Chemical Brothers -
 Dig Your Own Hole ([Full Album](https://youtu.be/2UafeQIkj5c?t=450))
 
-# Far Out
-
-- `Due to the lapse in federal government funding, NASA is not updating this website.` [https://plus.nasa.gov/](https://plus.nasa.gov/)
-- 
-[WatchLatest @blackgirlscode](https://plus.nasa.gov/video/far-out-sailing-on-sunlight/#fullscreen-player)
-[https://plus.nasa.gov/video/far-out-sailing-on-sunlight/#fullscreen-player](https://plus.nasa.gov/video/far-out-sailing-on-sunlight/#fullscreen-player)
-
-
-<img  alt="image" src="https://github.com/user-attachments/assets/d1d3988d-299c-4255-84ab-59418fd91940" />
 
 
 @nasa [https://www.nasa.gov/home](https://www.nasa.gov/home)
@@ -36,6 +27,16 @@ The cosmic object you were looking for has disappeared beyond the event horizon.
 - There are no live events scheduled at this time.
 - `Due to the lapse in federal government funding, NASA is not updating this website.`
 <img   alt="image" src="https://github.com/user-attachments/assets/68ea02c3-4411-47cd-909f-eb6ff70957e4" />
+
+# Far Out
+
+- `Due to the lapse in federal government funding, NASA is not updating this website.` [https://plus.nasa.gov/](https://plus.nasa.gov/)
+- 
+[WatchLatest @blackgirlscode](https://plus.nasa.gov/video/far-out-sailing-on-sunlight/#fullscreen-player)
+[https://plus.nasa.gov/video/far-out-sailing-on-sunlight/#fullscreen-player](https://plus.nasa.gov/video/far-out-sailing-on-sunlight/#fullscreen-player)
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/d1d3988d-299c-4255-84ab-59418fd91940" />
 
 
 ![NAif](https://naif.jpl.nasa.gov/naif/images/home_banner4.jpg) 
@@ -606,6 +607,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
