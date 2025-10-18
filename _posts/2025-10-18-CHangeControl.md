@@ -14,6 +14,12 @@ The Chemical Brothers -
 Dig Your Own Hole ([Full Album](https://youtu.be/2UafeQIkj5c?t=450))
 
 
+@NASA-DEVELOP @BlackGirLSCode 
+[https://epic.gsfc.nasa.gov/galleries/2020/wildfires](https://epic.gsfc.nasa.gov/galleries/2020/wildfires)
+Due to the lapse in federal government funding, NASA is not updating this website. We sincerely regret this inconvenience.
+<img   alt="image" src="https://github.com/user-attachments/assets/c9c0a1ff-ca88-4a8c-be42-754f7dbd07f1" />
+
+
 [@usgs @nasa-jpl @nasa-pds assets.nagios.com monitoring-publicservices.html](https://assets.nagios.com/downloads/nagioscore/docs/nagioscore/4/en/monitoring-publicservices.html)
 
 ## Introduction
@@ -707,6 +713,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
