@@ -17,6 +17,8 @@ catagories: tags earth dsn "Near Space Network"  LA space dsn climate weather fi
 
 ---
 
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Im up @LaurieofMars <a href="https://twitter.com/RepKarenBass?ref_src=twsrc%5Etfw">@repkarenbass</a> <a href="https://twitter.com/Normani?ref_src=twsrc%5Etfw">@normani</a> <a href="https://twitter.com/BlackGirlsCode?ref_src=twsrc%5Etfw">@BlackGirlsCode</a> <a href="https://twitter.com/hashtag/gm?src=hash&amp;ref_src=twsrc%5Etfw">#gm</a> <a href="https://t.co/3JVgw6ZZY2">pic.twitter.com/3JVgw6ZZY2</a></p>&mdash; BubbleGumPop (@BubbleGumPop510) <a href="https://twitter.com/BubbleGumPop510/status/1879184375767875840?ref_src=twsrc%5Etfw">January 14, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 @datadesk @disney this is close to when i first started working the fire @cityoflosangeles @nasa-jpl @emit-sds i smelled smoke and then ashes began raining from the sky 
 @podaac @nasa-jpl @abc7 @cbsnews @datadesk @washingtonpost 
 
