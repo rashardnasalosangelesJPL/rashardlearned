@@ -13,6 +13,44 @@ date:   2025-10-09 8:51:06
 The Chemical Brothers -
 Dig Your Own Hole ([Full Album](https://youtu.be/2UafeQIkj5c?t=450))
 
+
+
+
+[ECOSTRESS - https://e4ftl01.cr.usgs.gov/WORKING/BRWS/](https://e4ftl01.cr.usgs.gov/WORKING/BRWS/) @nasa i think @StateOfCAlifornia @CityOfLosAngeles @dhs-gov @Nasa-jpl @nasa-pds @emit-sds 
+
+```
+Due to the lapse in federal government funding, NASA is not updating this website. We sincerely regret this inconve... Learn More 
+Due to the lapse in federal government funding, NASA is not updating this website. We sincerely regret this inconvenience.
+
+********************************************************************************
+
+                         U.S. GOVERNMENT COMPUTER
+
+This US Government computer is for authorized users only.  By accessing this
+system you are consenting to complete monitoring with no expectation of privacy.
+Unauthorized access or use may subject you to disciplinary action and criminal
+prosecution.
+
+Attention user: You are downloading data from NASA's Land Processes Distributed
+Active Archive Center (LP DAAC) located at the USGS Earth Resources Observation and
+Science (EROS) Center.
+
+This data is open to the public and browse images are freely available without
+restriction.  Satellite data products may require a NASA Earthdata Login username
+and password.  To obtain a NASA Earthdata Login account, please visit
+https://urs.earthdata.nasa.gov/users/new/.
+
+For more information about the data you are downloading, including documentation
+and how to properly cite the data, please visit https://lpdaac.usgs.gov/.
+
+```
+<img  alt="image" src="https://github.com/user-attachments/assets/37465300-c6a5-41ea-af8c-5d79887632fd" />
+
+
+Search NASA's 1.8 billion+ Earth observations
+Use keywords and filter by time and spatial area to search NASA's Earth science data
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d51b9e5c-b6ca-436c-8bee-983bf2ef5547" />
+
 @usgs
 Due to a lapse in appropriations, the majority of USGS websites may not be up to date and may not reflect current conditions. Websites displaying real-time data, such as Earthquake, Volcano, LANDSAT and Water information needed for public health and safety will be updated with limited support. Additionally, USGS will not be able to respond to inquiries until appropriations are enacted. For more information, please see www.doi.gov/shutdown.
 # Planetary Image Locator Tool (PILOT)
@@ -38,6 +76,9 @@ ROSES POCs offline
 Due to the lapse in federal government funding, NASA is not updating this website. We sincerely regret this inconvenience. [Website - eol.jsc.nasa.gov @blackgirlscode](https://eol.jsc.nasa.gov/)
 
 <img   alt="image" src="https://github.com/user-attachments/assets/0987b417-aa72-41c3-bf70-33964836838a" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/47624dd7-6302-4fea-8595-826e52f757e4" />
+
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02NWB1emXDpBTyWpzoUwVoALghuWpvzkhdB6jW8yvVbTPvUaLsH77SxFiLcteqvYbDl%26id%3D100084464911565&show_text=true&width=500" width="500" height="565" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
@@ -524,6 +565,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
