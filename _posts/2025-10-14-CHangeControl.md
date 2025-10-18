@@ -13,6 +13,17 @@ date:   2025-10-09 8:51:06
 The Chemical Brothers -
 Dig Your Own Hole ([Full Album](https://youtu.be/2UafeQIkj5c?t=450))
 
+@usgs
+Due to a lapse in appropriations, the majority of USGS websites may not be up to date and may not reflect current conditions. Websites displaying real-time data, such as Earthquake, Volcano, LANDSAT and Water information needed for public health and safety will be updated with limited support. Additionally, USGS will not be able to respond to inquiries until appropriations are enacted. For more information, please see www.doi.gov/shutdown.
+# Planetary Image Locator Tool (PILOT)
+[https://www.usgs.gov/tools/planetary-image-locator-tool-pilot](https://www.usgs.gov/tools/planetary-image-locator-tool-pilot) @TheSpaceDevs
+
+<img  alt="image" src="https://github.com/user-attachments/assets/db703aa6-35d2-4353-a212-d113b769cfb9" />
+
+
+[dml.msfc.nasa.gov](dml.msfc.nasa.gov) https://dml.msfc.nasa.gov › web › guest › RespOffice
+<img  alt="image" src="https://github.com/user-attachments/assets/c0b3ce7c-4c06-40ab-b5f2-6d3f1a3e67bd" />
+
 ROSES POCs offline
 [Read](https://science.nasa.gov/researchers/solicitations/roses-2025/lapse-in-funding-roses-pocs-offline-this-blog-will-not-be-updated-due-dates-will-change-to-tbd-on-nspires/)
 
@@ -513,6 +524,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
