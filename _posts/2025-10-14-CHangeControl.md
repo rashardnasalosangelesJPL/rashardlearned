@@ -13,6 +13,20 @@ date:   2025-10-17 11:51:06
 The Chemical Brothers -
 Dig Your Own Hole ([Full Album](https://youtu.be/2UafeQIkj5c?t=450))
 
+
+![NAif](https://naif.jpl.nasa.gov/naif/images/home_banner4.jpg) 
+
+[https://naif.jpl.nasa.gov/naif/index.html](https://naif.jpl.nasa.gov/naif/index.html)
+Due to the lapse in federal government funding, NASA is not updating this website. We sincerely regret this inconvenience.
+SPICE
+An Observation Geometry System
+for Space Science Missions
+Click here for announcements regarding SPICE data, software, tutorials and training; last updated September 10, 2025.
+
+
+<img   alt="NASA's Navigation and Ancillary Information Facility (NAIF) offers NASA flight projects and NASA funded researchers the SPICE (Spacecraft, Planet, Instrument, C-matrix, Events) observation geometry information system to assist scientists in planning and interpreting scientific observations from space-based instruments aboard robotic planetary spacecraft. SPICE is also used in support of engineering tasks associated with these missions. While planetary missions were the original focus, today SPICE is also used on some heliophysics and earth science missions." src="https://github.com/user-attachments/assets/49e029a5-8e63-47d7-a50b-e8bdbdff3845" />
+
+
 EARTHDATALOGiN [urs.earthdata.nasa.gov/oauth/authorize?response_type=code&client_id=OLpAZlE4HqIOMr0TYqg7UQ&redirect_uri=https%3A%2F%2Fsearchprodapi-1167262027.auto.earthdatacloud.nasa.gov%2Furs_callback&state=https%3A%2F%2Fsearch.earthdata.nasa.gov%2F%23%3Fee%3Dprod](urs.earthdata.nasa.gov/oauth/authorize?response_type=code&client_id=OLpAZlE4HqIOMr0TYqg7UQ&redirect_uri=https%3A%2F%2Fsearchprodapi-1167262027.auto.earthdatacloud.nasa.gov%2Furs_callback&state=https%3A%2F%2Fsearch.earthdata.nasa.gov%2F%23%3Fee%3Dprod)
 
 <img   alt="image" src="https://github.com/user-attachments/assets/bfadb355-01a0-4f20-b7af-d3b311e6a358" />
@@ -568,6 +582,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
