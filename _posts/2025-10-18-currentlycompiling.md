@@ -6,6 +6,12 @@ categories: LA frontpage sub blog
 image: tumblr_9996aa2d413f6668f7f48ccdb4f9fb8a_8780e031_2048.jpg
 ---
 
+## Double Trouble · The Roots · Mos Def
+[discogs](https://www.discogs.com/master/39713-The-Roots-Things-Fall-Apart?srsltid=AfmBOorybtdUITfxBrzuGhPKJF8LRndV0rZ776aGDaKvQyyxZFdH6L8R&image=20406463.SW1hZ2U6NjY1NTA3NTY%3D)
+<iframe src="https://www.youtube.com/embed/AmSUb5H5G0s" title="Double Trouble" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+![discogs](https://i.discogs.com/wZKnWbB_8h6r1s3uul4E-TEPd5kCpTIhKCCjygGqP9g/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDA2/NDYzLTE2MzI4ODU3/NzEtMTI2Mi5qcGVn.jpeg)
+
 Cops in Los Angeles County, CA 1992 [Watch @youtube](https://www.youtube.com/watch?v=zDkDoQ95gOw) 
 @cityoflosangeles @nasa-jpl @blackgirlscode @stateofcalifornia 
 <img   alt="image" src="https://github.com/user-attachments/assets/b8a57751-c743-41c4-b3aa-9e3558213e4c" />
