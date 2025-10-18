@@ -13,6 +13,14 @@ date:   2025-10-09 8:51:06
 
 [comment]: <> (Emergency Files )
 
+[Colors](https://www.youtube.com/watch?v=NzVfAj4bV40&t=50s) 
+#FiCtiONDRAMAREALiTY
+plot;[tourist hurting locals](https://www.youtube.com/watch?v=cb5XECdy2aQ)
+[imdb](https://www.imdb.com/title/tt0094894/) A police veteran and his rookie partner fight Los Angeles gangs.
+
+Related doc [Graffiti_VeriteVOL1](https://archive.org/download/graffiti-verite-vol.-1)
+
+---
 
 [Mapping surface water using Earth Engine](https://youtu.be/Iky4pyoY1mc)  (Floods, Water change, Seasonal Reservoirs) | Geo4Good '23 [Surface water mapping using AI/ML Approaches of HYDRAFloods](https://www.youtube.com/watch?v=vGbr0sGdxCQ)
 
@@ -437,6 +445,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
