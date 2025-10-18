@@ -4,7 +4,7 @@ title:  "GraffShit"
 date:   2025-10-18 12:51:06 -0800
 categories: art graffiti coral
 published: true
-image: tumblr_9ab057dfcb5ba2d5a76b3b6287774817_4b2ec709_500.webp
+image: 545385041_753749844117173_4094454863368912744_n.jpg
 ---
 
 [Colors](https://www.youtube.com/watch?v=NzVfAj4bV40&t=50s) <~ Watch on @youtube
