@@ -22,6 +22,8 @@ participated in the Mars Science Laboratory touchdown and surface mission
 that began in August 2012 (Chapter 7). [ReadMore - PDF](https://descanso.jpl.nasa.gov/monograph/series13/DeepCommo_Chapter6--141029.pdf) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ActiveMission - DoD](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/)
 
 
+<img  alt="image" src="https://github.com/user-attachments/assets/b5018d78-038e-4a84-a332-69534ed4fb0e" />
+
 ## Mars Perseverance Sol 1317: Front Right Hazard Avoidance Camera (Hazcam)
 NASA's Mars Perseverance rover acquired this image of the area in front of it using its onboard Front Right Hazard Avoidance Camera A.
 
