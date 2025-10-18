@@ -1,11 +1,38 @@
 ---
 layout: post
 title:  "GraffShit"
-date:   2024-11-12 22:51:06 -0800
+date:   2025-10-18 22:51:06 -0800
 categories: art graffiti coral
-published: false
+published: true
 image: tumblr_9ab057dfcb5ba2d5a76b3b6287774817_4b2ec709_500.webp
 ---
+
+
+
+# While I was gone
+@cityoflosangeles @stateofcalifornia @nasa-jpl @nasa-pds @dhs-gov @npr @newshour
+
+we got pushed around and settled in atlanta, and other ppl started spending time with me and i want everyone accounted for so i never disrupt a mission again... im sorry for missing [Mars2020](https://science.nasa.gov/mission/mars-2020-perseverance/), I want you guys to have graffiti samples because someone threw a rally against me and i think the [NoKingsRiots](https://abc7.com/post/no-kings-protests-trump-administration-return-southern-california/18031981/) are somehow connected @datadesk 
+
+
+
+<div class="tupperware">
+    
+{% for image in site.static_files %}
+    {% if image.path contains 'assets/images/gallery-fb1' | sort: 'date' | reverse %} 
+        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
+            <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
+        </a>
+    {% endif %}
+{% endfor %}
+
+</div>
+
+
+@blackgirlscode 
+![GVEh0ibaEAE0I-p](https://github.com/user-attachments/assets/48f3291e-53e8-412f-ab29-1d63f2a549d2)
+
+<img  alt="CultChild by Rashard and Sartu" src="https://github.com/user-attachments/assets/3df62c9c-14c1-4358-ba54-820ca9b77fc8" />
 
 <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FCaptainOfJoy%2Fvideos%2F1824372994391016%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
