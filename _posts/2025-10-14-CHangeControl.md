@@ -14,11 +14,20 @@ The Chemical Brothers -
 Dig Your Own Hole ([Full Album](https://youtu.be/2UafeQIkj5c?t=450))
 
 
+
 @nasa [https://www.nasa.gov/home](https://www.nasa.gov/home)
 # 404
 The cosmic object you were looking for has disappeared beyond the event horizon.
 `Return Home Sitemap Contact NASA`
 <img   alt="image" src="https://github.com/user-attachments/assets/f523c060-8636-4ed8-8177-0ad61c00c6b3" />
+
+
+
+[https://www.nasa.gov/live/](https://www.nasa.gov/live/)
+- There are no live events scheduled at this time.
+- `Due to the lapse in federal government funding, NASA is not updating this website.`
+<img   alt="image" src="https://github.com/user-attachments/assets/68ea02c3-4411-47cd-909f-eb6ff70957e4" />
+
 
 ![NAif](https://naif.jpl.nasa.gov/naif/images/home_banner4.jpg) 
 
@@ -588,6 +597,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
