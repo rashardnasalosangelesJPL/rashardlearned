@@ -16,14 +16,17 @@ Dig Your Own Hole ([Full Album](https://youtu.be/2UafeQIkj5c?t=450))
 ROSES POCs offline
 [Read](https://science.nasa.gov/researchers/solicitations/roses-2025/lapse-in-funding-roses-pocs-offline-this-blog-will-not-be-updated-due-dates-will-change-to-tbd-on-nspires/)
 
-<img   alt="image" src="https://github.com/user-attachments/assets/0987b417-aa72-41c3-bf70-33964836838a" />
-
-[ASTRONAUGHT FOOTPRiNTS](https://eol.jsc.nasa.gov/ExplorePhotos/?mrf=ISS056-E-99699&illum=day&fbclid=IwY2xjawNf4lZleHRuA2FlbQIxMABicmlkETBOZXI3WUpIQWoza3ZKcXdnAR46wUcCe6DhKdOiQ9YPrXs2570_Ipt5z6zzXVZlhKj6XV19QxJRld3BL3k_zQ_aem_3VB0M_n33TlDdlYb-sw6dA)
-
-Due to the lapse in federal government funding, NASA is not updating this website. We sincerely regret this inconvenience.
 
 <img   alt="image" src="https://github.com/user-attachments/assets/d88213b6-4ed5-4e36-a426-b862cd28f70c" />
 
+
+
+
+[ASTRONAUGHT FOOTPRiNTS](https://eol.jsc.nasa.gov/ExplorePhotos/?mrf=ISS056-E-99699&illum=day&fbclid=IwY2xjawNf4lZleHRuA2FlbQIxMABicmlkETBOZXI3WUpIQWoza3ZKcXdnAR46wUcCe6DhKdOiQ9YPrXs2570_Ipt5z6zzXVZlhKj6XV19QxJRld3BL3k_zQ_aem_3VB0M_n33TlDdlYb-sw6dA)
+
+Due to the lapse in federal government funding, NASA is not updating this website. We sincerely regret this inconvenience. [Website - eol.jsc.nasa.gov @blackgirlscode](https://eol.jsc.nasa.gov/)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/0987b417-aa72-41c3-bf70-33964836838a" />
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02NWB1emXDpBTyWpzoUwVoALghuWpvzkhdB6jW8yvVbTPvUaLsH77SxFiLcteqvYbDl%26id%3D100084464911565&show_text=true&width=500" width="500" height="565" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
@@ -510,6 +513,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
