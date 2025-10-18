@@ -11,7 +11,8 @@ date:   2025-10-18 11:51:06
 ---
 [Current `MagMoB`](https://x.com/i/broadcasts/1djGXWXYBdeKZ)
 The Chemical Brothers -
-Dig Your Own Hole ([Full Album](https://youtu.be/2UafeQIkj5c?t=450))
+Dig Your Own Hole ([Full Album](https://youtu.be/2UafeQIkj5c?t=450)) 
+@BLACKGiRLSCODE its :: [Double Trouble · The Roots · Mos Def](https://youtu.be/AmSUb5H5G0s?t=56) re:[presentation](https://en.wikipedia.org/wiki/Presentation)
 
 
 @NASA-DEVELOP @BlackGirLSCode 
@@ -713,6 +714,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
