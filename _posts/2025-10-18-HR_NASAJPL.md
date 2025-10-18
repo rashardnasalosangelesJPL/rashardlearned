@@ -12,6 +12,9 @@ author: "RashardKelly @nasa-jpl"
 While i was working @gatech [WatchNow](https://www.youtube.com/watch?v=rC6177nXWjI) see @blackgirlscode live! 
 <img  alt="image Gucci Mane is an American rapper" src="https://github.com/user-attachments/assets/8496989d-6c26-4960-b390-49edc09b295b" />
 
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02KWCgH9sLmFVekX7QvvCkwbfJjur6BvhsK6c5cBtFRg8G7U3oYKFifTPzTKcoCShWl%26id%3D100084464911565&show_text=true&width=500" width="500" height="819" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+
 @CityOfLosAngeles :: #[HOLLY_MiTCHELL](https://lacounty.gov/government/board-of-supervisors/holly-j-mitchell/) / #[KAREN_BASS](https://www.congress.gov/member/karen-bass/B001270) @blackgirlscode KAshDoll sent me this album to explain our new relationship . . . [MostlyOnline](https://www.facebook.com/permalink.php?story_fbid=pfbid031sZ5K2sfXJLQhZ5ECUnnXqXcFTGLxALkVjMbBRhGPB6KQaZaTjKeFWy9uLkWmDcrl&id=100084464911565) , [NORMmani](https://www.facebook.com/permalink.php?story_fbid=pfbid0oGHQ5xRpkU44XUJzLruHCRywWd5mxYZVmtJBvU25pM9cXE2hDqckrJsbXxTprf3Pl&id=100084464911565) was her secret friends but we were open friends other places @nasa-jpl @whitehouse @blackgirlscode im not mad -[Rashard](https://rashardsdata.github.io/)
 
 <img width="318" height="318" alt="image" src="https://github.com/user-attachments/assets/5a6bdaf4-4503-4681-a2a7-41af1a969b37" />
