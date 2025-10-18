@@ -14,8 +14,15 @@ The Chemical Brothers -
 Dig Your Own Hole ([Full Album](https://youtu.be/2UafeQIkj5c?t=450))
 
 
+[@usgs @nasa-jpl @nasa-pds assets.nagios.com monitoring-publicservices.html](https://assets.nagios.com/downloads/nagioscore/docs/nagioscore/4/en/monitoring-publicservices.html)
 
+## Introduction
+```
 
+This document describes how you can monitor publicly available services, applications and protocols. By "public" I mean services that are accessible across the network - either the local network or the greater Internet. Examples of public services include HTTP, POP3, IMAP, FTP, and SSH. There are many more public services that you probably use on a daily basis. These services and applications, as well as their underlying protocols, can usually be monitored by Nagios without any special access requirements. Private services, cannot be monitored using Nagios without clientsoftware 
+```
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://t.co/O29mNtuwy8">https://t.co/O29mNtuwy8</a> <a href="https://twitter.com/DeptofWar?ref_src=twsrc%5Etfw">@DeptofWar</a> how do we get all the websites that say they are not updating monitored ? <a href="https://twitter.com/DISADOD?ref_src=twsrc%5Etfw">@DISADOD</a> -<a href="https://twitter.com/hashtag/rashard?src=hash&amp;ref_src=twsrc%5Etfw">#rashard</a> <a href="https://twitter.com/NASAJPL?ref_src=twsrc%5Etfw">@NASAJPL</a> its just a suggestion <a href="https://twitter.com/Mailchimp?ref_src=twsrc%5Etfw">@Mailchimp</a> <a href="https://twitter.com/Normani?ref_src=twsrc%5Etfw">@Normani</a> <a href="https://twitter.com/BlackGirlsCode?ref_src=twsrc%5Etfw">@BlackGirlsCode</a> <a href="https://twitter.com/nagiosinc?ref_src=twsrc%5Etfw">@nagiosinc</a></p>&mdash; rashardsdata (@rashardsdata) <a href="https://twitter.com/rashardsdata/status/1979649647984738394?ref_src=twsrc%5Etfw">October 18, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 [comment]: <> (Emergency Files )
 
 @ISRO @isrox 
@@ -665,6 +672,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
