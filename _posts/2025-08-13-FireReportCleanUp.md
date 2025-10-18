@@ -17,6 +17,12 @@ catagories: tags earth dsn "Near Space Network"  LA space dsn climate weather fi
 
 ---
 
+@datadesk @disney this is close to when i first started working the fire @cityoflosangeles @nasa-jpl @emit-sds i smelled smoke and then ashes began raining from the sky 
+@podaac @nasa-jpl @abc7 @cbsnews @datadesk @washingtonpost 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I smell smoke <a href="https://twitter.com/hashtag/cityhall?src=hash&amp;ref_src=twsrc%5Etfw">#cityhall</a> LAPD side <a href="https://twitter.com/LACityCouncil?ref_src=twsrc%5Etfw">@LACityCouncil</a> right now <a href="https://twitter.com/hashtag/lafd?src=hash&amp;ref_src=twsrc%5Etfw">#lafd</a> 2am -<a href="https://twitter.com/hashtag/rashard?src=hash&amp;ref_src=twsrc%5Etfw">#rashard</a> <a href="https://twitter.com/NASAJPL?ref_src=twsrc%5Etfw">@NASAJPL</a> <a href="https://twitter.com/HouseFloor?ref_src=twsrc%5Etfw">@housefloor</a> <a href="https://twitter.com/CAL_FIRE?ref_src=twsrc%5Etfw">@CAL_FIRE</a> <a href="https://twitter.com/RepKarenBass?ref_src=twsrc%5Etfw">@RepKarenBass</a> : <a href="https://t.co/KHFhU1S2LR">pic.twitter.com/KHFhU1S2LR</a></p>&mdash; BubbleGumPop (@BubbleGumPop510) <a href="https://twitter.com/BubbleGumPop510/status/1881643730891112555?ref_src=twsrc%5Etfw">January 21, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 # What's in the Soil? [WATCHNOW](https://www.youtube.com/watch?v=RJ8I2P_Nrxw)
 @datadesk we do a lot of environmental scanning, but we running from poachers man! help us out @FEMA latimes said you are not testing, but i dont think they doing nothing but being hustled... 
 @podaac @nasa-jpl @abc7 @cbsnews @datadesk @washingtonpost 
