@@ -6,6 +6,14 @@ categories: LA frontpage sub blog
 image: tumblr_9996aa2d413f6668f7f48ccdb4f9fb8a_8780e031_2048.jpg
 ---
 
+Cops in Los Angeles County, CA 1992 [Watch @youtube](https://www.youtube.com/watch?v=zDkDoQ95gOw) 
+@cityoflosangeles @nasa-jpl @blackgirlscode @stateofcalifornia 
+<img   alt="image" src="https://github.com/user-attachments/assets/b8a57751-c743-41c4-b3aa-9e3558213e4c" />
+
+Graffiti Verite Vol. 1 1995 [youtube](https://youtu.be/VWjTXDW6fT8) : [Archive](https://archive.org/download/graffiti-verite-vol.-1/Graffiti%20Verite%2C%20Vol.%201.mp4)
+<iframe src="https://archive.org/embed/graffiti-verite-vol.-1" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<img  alt="image" src="https://github.com/user-attachments/assets/28f42e3f-1701-4d90-986e-1f7106f5f74e" />
+
 [KiRBY on CHROME](https://chromewebstore.google.com/search/kirby?hl=en)
 <img   alt="@blackgirlscode" src="https://github.com/user-attachments/assets/ec475fc5-8dfe-4d3d-9c45-30ca8de0968b" />
 
