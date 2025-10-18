@@ -13,8 +13,9 @@ date:   2025-10-17 11:51:06
 The Chemical Brothers -
 Dig Your Own Hole ([Full Album](https://youtu.be/2UafeQIkj5c?t=450))
 
+EARTHDATALOGiN [urs.earthdata.nasa.gov/oauth/authorize?response_type=code&client_id=OLpAZlE4HqIOMr0TYqg7UQ&redirect_uri=https%3A%2F%2Fsearchprodapi-1167262027.auto.earthdatacloud.nasa.gov%2Furs_callback&state=https%3A%2F%2Fsearch.earthdata.nasa.gov%2F%23%3Fee%3Dprod](urs.earthdata.nasa.gov/oauth/authorize?response_type=code&client_id=OLpAZlE4HqIOMr0TYqg7UQ&redirect_uri=https%3A%2F%2Fsearchprodapi-1167262027.auto.earthdatacloud.nasa.gov%2Furs_callback&state=https%3A%2F%2Fsearch.earthdata.nasa.gov%2F%23%3Fee%3Dprod)
 
-
+<img   alt="image" src="https://github.com/user-attachments/assets/bfadb355-01a0-4f20-b7af-d3b311e6a358" />
 
 [ECOSTRESS - https://e4ftl01.cr.usgs.gov/WORKING/BRWS/](https://e4ftl01.cr.usgs.gov/WORKING/BRWS/) @nasa i think @StateOfCAlifornia @CityOfLosAngeles @dhs-gov @Nasa-jpl @nasa-pds @emit-sds 
 
@@ -567,6 +568,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
