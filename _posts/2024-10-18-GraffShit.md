@@ -1,12 +1,20 @@
 ---
 layout: post
-title:  "Meanwhile;behind the building"
+title:  "GraffShit"
 date:   2025-10-18 12:51:06 -0800
 categories: art graffiti coral
 published: true
 image: tumblr_9ab057dfcb5ba2d5a76b3b6287774817_4b2ec709_500.webp
 ---
 
+[Colors](https://www.youtube.com/watch?v=NzVfAj4bV40&t=50s) <~ Watch on @youtube
+#FiCtiONDRAMAREALiTY
+plot;[tourist hurting locals](https://www.youtube.com/watch?v=cb5XECdy2aQ)
+[imdb](https://www.imdb.com/title/tt0094894/) A police veteran and his rookie partner fight Los Angeles gangs.
+
+Related doc [Graffiti_VeriteVOL1](https://archive.org/download/graffiti-verite-vol.-1)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/c93b63d2-714b-4f81-a866-e2f4eb9b23ec" />
 
 
 # While I was gone
