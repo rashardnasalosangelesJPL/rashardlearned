@@ -6,7 +6,7 @@ tags: work code jpl LA frontpage sub
 title: WebSiteChangEconTrol @CityOfLosAngeles @Nasa-jpl
 image: photojournal2.PNG
 author: "RashardKelly @nasa-jpl"
-date:   2025-10-17 11:51:06 
+date:   2025-10-18 11:51:06 
 
 ---
 [Current `MagMoB`](https://x.com/i/broadcasts/1djGXWXYBdeKZ)
@@ -21,6 +21,41 @@ Dig Your Own Hole ([Full Album](https://youtu.be/2UafeQIkj5c?t=450))
 
 This document describes how you can monitor publicly available services, applications and protocols. By "public" I mean services that are accessible across the network - either the local network or the greater Internet. Examples of public services include HTTP, POP3, IMAP, FTP, and SSH. There are many more public services that you probably use on a daily basis. These services and applications, as well as their underlying protocols, can usually be monitored by Nagios without any special access requirements. Private services, cannot be monitored using Nagios without clientsoftware 
 ```
+
+
+Since these are public websites, its a great solution to get the @StateofCalifornia completely covered for [VitalServices](http://publichealth.lacounty.gov/dca/dcabirth.htm) , , Certificate Errors can block a user from getting vittal resources to combat hunger, poverty and depression or shut a business down or escape a rapist! 
+
+
+[Publically @blackgirlscode](https://www.foia.gov/)
+apend [SMARTLA_DoC @cityoflosangeles](https://ita.lacity.gov/sites/g/files/wph1626/files/2021-05/SmartLA2028%20-%20Smart%20City%20Strategy.pdf) @stateofcalifornia @google @newshour @datadesk [@usgs](https://www.facebook.com/gill.broussard/posts/pfbid032vbz3GL5qdyuk9evNQH3LQLPay1qTqDofkuT21QmHot6S2MD29nUEZogD53bxwT8l) it may be related to the [DSCOVR;EPiC OUTAGE @NASA-DEVELOP](https://rashardsdata.github.io/2025/09/15/BuildingBlocks.html) @ISRO @isrox [@nasa photojournal.jpl.nasa.gov SEPT 30 2025 SNAPSHoT](https://web.archive.org/web/20250928104849/https://photojournal.jpl.nasa.gov/)  [tunes nrt @blackgirlscode](https://youtu.be/CplOmO_lGco?t=2197)
+### SoftWare
+[NagiosEnterprises/nagioscore](https://github.com/NagiosEnterprises/nagioscore) 
+### Docs 
+[Monitoring Publicly Available Services](https://assets.nagios.com/downloads/nagioscore/docs/nagioscore/4/en/monitoring-publicservices.html) [RAshard Fork @nagios](https://rashardsdata.github.io/nagioscore/) ### @meta convo with @TheSpaceDevs @nasa-jpl 
+on [Astronaught Scott KElly PaceBook @meta](https://www.facebook.com/StationCDRKelly) [Nagios XI Jumpstart Guide https://library.nagios.com/](https://library.nagios.com/docs/nagios-xi/getting-started/0.-Nagios-XI-Jumpstart-Guide-Overview)
+
+
+### PEople
+![mitchell.lacounty.gov](https://mitchell.lacounty.gov/wp-content/uploads/2024/02/Hjm_Horizontal_Logo_Full_Color_RGB_2024_02_22_00h_44m_53-01.svg) 
+[homepage](https://mitchell.lacounty.gov/)
+
+[SMARTLA](data:image/webp;base64,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)
+
+[ASTRO @blackgirlscode](https://store.2600.com/collections/back-issues/products/autumn-2024-digital-edition-pdf-or-epub3) 
+
+
+@nasa-jpl @dhs-dov @cityoflosangeles [Spring 2020 PDF Edition](https://store.2600.com/collections/back-issues/products/new-issue-pdf-spring-2020)
+
+<div class="tupperware">
+
+
+<img itemprop="countryOfOrigin" itemtype="https://schema.org/Country"  alt="image" src="https://www.2600.com/sites/default/files/covers/37-1_Cover.jpg" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/76454c14-b625-41f7-b316-1e775205fd01" />
+
+</div>
+
+
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://t.co/O29mNtuwy8">https://t.co/O29mNtuwy8</a> <a href="https://twitter.com/DeptofWar?ref_src=twsrc%5Etfw">@DeptofWar</a> how do we get all the websites that say they are not updating monitored ? <a href="https://twitter.com/DISADOD?ref_src=twsrc%5Etfw">@DISADOD</a> -<a href="https://twitter.com/hashtag/rashard?src=hash&amp;ref_src=twsrc%5Etfw">#rashard</a> <a href="https://twitter.com/NASAJPL?ref_src=twsrc%5Etfw">@NASAJPL</a> its just a suggestion <a href="https://twitter.com/Mailchimp?ref_src=twsrc%5Etfw">@Mailchimp</a> <a href="https://twitter.com/Normani?ref_src=twsrc%5Etfw">@Normani</a> <a href="https://twitter.com/BlackGirlsCode?ref_src=twsrc%5Etfw">@BlackGirlsCode</a> <a href="https://twitter.com/nagiosinc?ref_src=twsrc%5Etfw">@nagiosinc</a></p>&mdash; rashardsdata (@rashardsdata) <a href="https://twitter.com/rashardsdata/status/1979649647984738394?ref_src=twsrc%5Etfw">October 18, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 [comment]: <> (Emergency Files )
@@ -672,6 +707,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
