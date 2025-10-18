@@ -8,10 +8,11 @@ tags:  climate weather marsblog
 catagories: tags earth dsn "Near Space Network"  LA space dsn climate weather fire marsblog earthblog 
 ---
 
-### hotlinks
+### hotlinks  <a href="jpl.nasa.gov#{{ site.url }}{{ site.baseurl }}" itemscope itemtype="https://schema.org/EducationalOrganization" itemprop="name"> @NASA-JPL </a>
 [USGS WaTERDASHBOARD @usgs](https://dashboard.waterdata.usgs.gov/app/nwd/en/)
 [DSCOVR: EPIC _ Gallery : West Coast Wildfires](https://epic.gsfc.nasa.gov/galleries/2020/wildfires)
 [NASA - LANCE - FiRMS Global Fire Map, Live MAps](https://firms.modaps.eosdis.nasa.gov/map/) with [KML](https://developers.google.com/kml) - [downloads](https://firms.modaps.eosdis.nasa.gov/active_fire/) [@nasa it looks like cal fire uses ViiRS or another one of our climate sats @noaa for this map!](https://www.fire.ca.gov/incidents)
+
 
 
 ---
