@@ -6,7 +6,7 @@ tags: work code jpl LA frontpage sub
 title: WebSiteChangEconTrol @CityOfLosAngeles @Nasa-jpl
 image: photojournal2.PNG
 author: "RashardKelly @nasa-jpl"
-date:   2025-10-09 8:51:06 
+date:   2025-10-17 11:51:06 
 
 ---
 
@@ -565,6 +565,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
