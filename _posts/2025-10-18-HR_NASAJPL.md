@@ -8,6 +8,8 @@ image: womeninscience.jpg
 author: "RashardKelly @nasa-jpl"
 ---
 
+<img  alt="image @nasa @nasa-jpl @blackgirlscode" src="https://github.com/user-attachments/assets/80edb710-cf75-4062-9fee-676efd44293d" />
+
 
 While i was working @gatech [WatchNow](https://www.youtube.com/watch?v=rC6177nXWjI) see @blackgirlscode live! 
 <img  alt="image Gucci Mane is an American rapper" src="https://github.com/user-attachments/assets/8496989d-6c26-4960-b390-49edc09b295b" />
