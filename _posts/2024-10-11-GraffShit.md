@@ -16,6 +16,7 @@ Related doc [Graffiti_VeriteVOL1](https://archive.org/download/graffiti-verite-v
 
 <img  alt="image" src="https://github.com/user-attachments/assets/c93b63d2-714b-4f81-a866-e2f4eb9b23ec" />
 
+<img src="assets/img/545385041_753749844117173_4094454863368912744_n.jpg" />
 
 # While I was gone
 @cityoflosangeles @stateofcalifornia @nasa-jpl @nasa-pds @dhs-gov @npr @newshour
