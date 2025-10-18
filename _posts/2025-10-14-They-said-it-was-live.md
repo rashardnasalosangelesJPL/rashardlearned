@@ -13,6 +13,8 @@ author: RashardKelly @nasa-jpl
 ![ABC7 @blackgirlscode](https://cdn.abcotvs.net/abcotv/assets/news/global/images/feature-header/kabc-lg.svg) 
 <iframe width="640" height="360" src="https://abc7.com/video/embed/?pid=11064936" allowfullscreen frameborder="0"></iframe>
 
+<img   alt="image" src="https://github.com/user-attachments/assets/cea11d81-9505-4d13-ac05-0e71f28e7d59" />
+
 # Watch Live: Southern California participates [in](https://www.facebook.com/permalink.php?story_fbid=pfbid0naRfiLM6Hwde4jc5Byy1eSvdRTAbT4kLvQtdC8A9UaRbN1TmBZdt83hSBKpsKYZHl&id=100084464911565) 'No Kings' rally
 [https://www.youtube.com/watch?v=VhyOQq8lVMo](https://www.youtube.com/watch?v=VhyOQq8lVMo)
 @StateOfCalifornia @CityOfLosAngeles @nasa-pds @nasa-jpl @nasa @emit-sds
