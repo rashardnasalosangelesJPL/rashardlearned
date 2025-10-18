@@ -16,6 +16,48 @@ Dig Your Own Hole ([Full Album](https://youtu.be/2UafeQIkj5c?t=450))
 
 <img  alt="image" src="https://github.com/user-attachments/assets/f16cb846-9596-4cc7-8f71-653c99bd811e" />
 
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FKSAT.kongsberg%2Fposts%2Fpfbid02rmXUw1r9a9VXRcqJr7a6NYQLEdDAJDLRtuXyET1ot4jMawWAvHpY5U1ZJBHjgRV4l&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+hi im rashard, im a member of the #MissionSupport helpdesk team NASA Jet Propulsion Laboratory NASA/JPL Physical Oceanography Data Center . . we have a lot of messages across our infrastructure stating that websites will nolonger be updated on #TR2 : #SMAP was transmitting data and i know its associated web infrastructure has not been defunded! its only 10 years old https://science.nasa.gov/mission/smap/ Supervisor Janice Hahn i hope im not bugging you Congressmember Karen Bass Jennifer Siebel Newsom California Department of Fish and Wildlife 
+Orbiter
+Launch
+
+Jan. 31, 2015 https://science.nasa.gov/mission/smap/ Due to the lapse in federal government funding, NASA is not updating this website.
+
+```
+JPL Horizons, version 4.98d 
+Type '?' for brief help, '?!' for details, 
+'-' for previous prompt, 'x' to exit 
+System news updated September 29, 2025
+ 
+Horizons> smap
+************************************************************************
+*******
+ Revised: Oct 18, 2025           SMAP spacecraft  / (Earth)             
+-140376
+ 
+ SMAP (2015-003A)
+ 
+  SMAP is designed to measure global soil moisture over a three-year per
+iod,
+  every 2-3 days. This permits changes around the world to be observed o
+ver
+  time scales ranging from major storms to repeated measurements of chan
+ges
+  over the seasons.
+ 
+  The data will help improve understanding of how water and carbon in va
+rious
+  forms circulate.
+ 
+ Launched: 2015-Jan-31 14:22:00 UTC by Delta 2 7320 from Vandenberg AFB,
+ USA
+************************************************************************
+*******
+ Select ... [E]phemeris, [F]tp, [M]ail, [R]edisplay, ?, <cr>:
+```
+
 # RAMP
 RADARSAT-1 Antarctic Mapping Project [READMORE](https://www.earthdata.nasa.gov/data/projects/ramp)
 [https://www.earthdata.nasa.gov/data/projects/ramp](https://www.earthdata.nasa.gov/data/projects/ramp)
@@ -38,6 +80,7 @@ The cosmic object you were looking for has disappeared beyond the event horizon.
 [https://www.nasa.gov/live/](https://www.nasa.gov/live/)
 - There are no live events scheduled at this time.
 - `Due to the lapse in federal government funding, NASA is not updating this website.`
+  
 <img   alt="image" src="https://github.com/user-attachments/assets/68ea02c3-4411-47cd-909f-eb6ff70957e4" />
 
 # Far Out
@@ -619,6 +662,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
