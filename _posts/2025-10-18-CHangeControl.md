@@ -7,7 +7,7 @@ title: WebSiteChangEconTrol @CityOfLosAngeles @Nasa-jpl
 image: photojournal2.PNG
 author: "RashardKelly @nasa-jpl"
 date:   2025-10-18 11:51:06 
-
+permalink: /changelog
 ---
 [Current `MagMoB`](https://x.com/i/broadcasts/1djGXWXYBdeKZ)
 The Chemical Brothers -
@@ -718,6 +718,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
