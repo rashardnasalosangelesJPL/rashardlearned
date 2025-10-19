@@ -15,6 +15,8 @@ Dig Your Own Hole ([Full Album](https://youtu.be/2UafeQIkj5c?t=450))
 @BLACKGiRLSCODE its :: [Double Trouble · The Roots · Mos Def](https://youtu.be/AmSUb5H5G0s?t=56) re:[presentation](https://en.wikipedia.org/wiki/Presentation)
 
 
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02Crah2mYEXgSocV98KJdD2ttMmVJ5gd9Quz6SzRFcVG1hKAZAJTaKSVdRWYQuUszGl%26id%3D100084464911565&show_text=true&width=500" width="500" height="586" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
 
 @caltech [mailto:security.supervisor@caltech.edu](mailto:security.supervisor@caltech.edu) ttys @caltechlibrary i just got to the share place, i got a [cloud mobile](https://github.com/rashardsdata/rashardmro/blob/master/_includes/unixingandroid.md) in the [fashion district](https://fashiondistrict.org/) by [skidrow](https://www.loc.gov/pictures/item/2020702388/) hope security get this message @nasa-jpl i was trying to report on photojournal being down
 
@@ -739,6 +741,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
