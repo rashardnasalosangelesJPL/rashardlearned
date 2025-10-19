@@ -21,8 +21,8 @@ Dig Your Own Hole ([Full Album](https://youtu.be/2UafeQIkj5c?t=450))
 
 Due to the lapse in federal government funding, NASA is not updating this website. We sincerely regret this inconvenience.
 
-We are in the process of migrating all NASA Earth science data sites into Earthdata from now until end of 2026. Not all NASA Earth science data and resources will appear here until then. Thank you for your patience as we make this transition. Read about the Web Unification Project
-
+We are in the process of migrating all NASA Earth science data sites into Earthdata from now until end of 2026. Not all NASA Earth science data and resources will appear here until then. Thank you for your patience as we make this transition. Read about the [Web Unification Project](https://www.earthdata.nasa.gov/about/web-unification-project)
+ @nasa-pds @emit-sds @nasa-jpl 
 <img  alt="image" src="https://github.com/user-attachments/assets/f0404d2a-25a5-45d9-9755-be6f1c0999fc" />
 <img  alt="image" src="https://github.com/user-attachments/assets/5e54292f-3ea1-4615-a4ee-13a35b76d885" />
 
@@ -759,6 +759,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
