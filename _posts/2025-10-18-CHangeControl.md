@@ -14,6 +14,26 @@ The Chemical Brothers -
 Dig Your Own Hole ([Full Album](https://youtu.be/2UafeQIkj5c?t=450)) 
 @BLACKGiRLSCODE its :: [Double Trouble · The Roots · Mos Def](https://youtu.be/AmSUb5H5G0s?t=56) re:[presentation](https://en.wikipedia.org/wiki/Presentation)
 
+
+
+@caltech [mailto:security.supervisor@caltech.edu](mailto:security.supervisor@caltech.edu) ttys @caltechlibrary i just got to the share place, i got a [cloud mobile](https://github.com/rashardsdata/rashardmro/blob/master/_includes/unixingandroid.md) in the [fashion district](https://fashiondistrict.org/) by [skidrow](https://www.loc.gov/pictures/item/2020702388/) hope security get this message @nasa-jpl i was trying to report on photojournal being down
+
+[MALiBU on @nasa Firms Remote FireSensing](https://firms.modaps.eosdis.nasa.gov/usfs/map/#t:tsd;d:2025-10-19;@-118.06,34.07,9.88z) 
+
+<img   alt="image @blackgirlscode i mentioned you" src="https://github.com/user-attachments/assets/3873f817-8f38-409b-8ef6-44e89326546b" />
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02uxy1ErJmTmsVqmu6sKSLHGXKntw7vp8PDAasKi2yRLkeE69f7zvFSakWhpAb2DR5l%26id%3D100084464911565&show_text=true&width=500" width="500" height="623" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+@Columbia
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0342pdjqxAkzXKP2N35jzdtuXVQieTppgtoeXXEhAFUGhUyXcqnQ5RfqZnjeJDSfKvl%26id%3D100084464911565&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+@podaac @nasa
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02CZ7DnLnHzMLfU8ftbJyDhBpJ8X7wrv5ZKfRGvJCkH5vrxTmteUK88rjvkNj2yraAl%26id%3D100084464911565&show_text=true&width=500" width="500" height="455" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+
+
 [https://www.nasa.gov/headquarters/](https://www.nasa.gov/headquarters/)
 Due to the lapse in federal government funding, NASA is not updating this website.
 <img   alt="image" src="https://github.com/user-attachments/assets/05aa268f-5074-40d2-857d-57713b7c8472" />
@@ -298,6 +318,7 @@ Due to a lapse in appropriations, the majority of USGS websites may not be up to
 
 <img  alt="image" src="https://github.com/user-attachments/assets/db703aa6-35d2-4353-a212-d113b769cfb9" />
 
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0EdTZ6uQ6V2tv57ibjUcroQ1H5rMnWaw12twaF2QNb5noZuCnkNXUbCaPve4Avwkcl%26id%3D100084464911565&show_text=true&width=500" width="500" height="546" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 [dml.msfc.nasa.gov](dml.msfc.nasa.gov) https://dml.msfc.nasa.gov › web › guest › RespOffice
 <img  alt="image" src="https://github.com/user-attachments/assets/c0b3ce7c-4c06-40ab-b5f2-6d3f1a3e67bd" />
@@ -718,6 +739,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
