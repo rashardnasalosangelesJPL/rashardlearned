@@ -23,13 +23,14 @@ Due to the lapse in federal government funding, NASA is not updating this websit
 
 We are in the process of migrating all NASA Earth science data sites into Earthdata from now until end of 2026. Not all NASA Earth science data and resources will appear here until then. Thank you for your patience as we make this transition. Read about the [Web Unification Project](https://www.earthdata.nasa.gov/about/web-unification-project)
  @nasa-pds @emit-sds @nasa-jpl 
+ 
 <img  alt="image" src="https://github.com/user-attachments/assets/f0404d2a-25a5-45d9-9755-be6f1c0999fc" />
 <img  alt="image" src="https://github.com/user-attachments/assets/5e54292f-3ea1-4615-a4ee-13a35b76d885" />
 
 
 [https://earth.jpl.nasa.gov/system/downloadable_items/71_JPL_2025_Environment_Infrastructure_Risk_and_Resilience_Report.pdf](https://earth.jpl.nasa.gov/system/downloadable_items/71_JPL_2025_Environment_Infrastructure_Risk_and_Resilience_Report.pdf?fbclid=IwY2xjawNiSRBleHRuA2FlbQIxMABicmlkETBEQXJURWRGMXVvSkpJT3VHAR5uiuMNYjMLy9Xoj51FZYj5t9uFKSV4LU9a31q_F3k9m4GHB05BLAb8PASV0g_aem_DmVyjO4LA4jN_bhSiz10cQ)
 
-<img  alt="image @usgs @whitehouse @nasajpl @newshour src="https://github.com/user-attachments/assets/4c9fe142-c83f-4c7f-94a7-8c9685f54f4e" />
+<img  alt="image @usgs @whitehouse @nasajpl @newshour" src="https://github.com/user-attachments/assets/4c9fe142-c83f-4c7f-94a7-8c9685f54f4e" />
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0sCKTAiMMRURH5SVv7Yeo4DUdPyufgQrUeUFDBNZk9xHgmejPxwc4ArHXfcZRBZvvl%26id%3D100084464911565&show_text=true&width=500" width="500" height="321" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
@@ -759,6 +760,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
