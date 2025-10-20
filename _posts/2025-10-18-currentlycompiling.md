@@ -6,6 +6,17 @@ categories: LA frontpage sub blog
 image: tumblr_9996aa2d413f6668f7f48ccdb4f9fb8a_8780e031_2048.jpg
 ---
 
+
+# GeoCities Archive
+i have 2 sites
+seanbaker2002 & sb202us
+
+`GeoCities Special Collection 2009`
+[LiNK @StateOfCAliFornia @nasa-jpl @podaac](https://archive.org/web/geocities.php)
+[geocities](https://geocities.restorativland.org/)  @yahoo @nasas-pds @emit-sds @blackgirlscode
+[The Geocities Gallery](https://geocities.restorativland.org/CapeCanaveral/)
+[restorativland.org/CapeCanaveral/ @usnavy @nasa-jpl @dhs-gov](https://geocities.restorativland.org/CapeCanaveral/)
+
 While i was working @gatech [WatchNow](https://www.youtube.com/watch?v=rC6177nXWjI) see @blackgirlscode live! 
 <img  alt="image Gucci Mane is an American rapper" src="https://github.com/user-attachments/assets/8496989d-6c26-4960-b390-49edc09b295b" />
 
