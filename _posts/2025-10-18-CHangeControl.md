@@ -40,11 +40,6 @@ Due to the lapse in federal government funding, NASA is not updating this websit
 _As part of the Space Weather Prediction Center's rollout of our improved website, the content from POES Auroral Activity Maps is being provided in a new way._ [READMORE https://www.swpc.noaa.gov/pmap](https://www.swpc.noaa.gov/pmap)
 [wiki](https://en.wikipedia.org/wiki/Polar_Operational_Environmental_Satellites)
 
-<img width="1808" height="874" alt="image" src="https://github.com/user-attachments/assets/1a101cdd-28e4-41e9-8bac-386ab2cb7c5b" />
-
-![poes @noaagov](https://upload.wikimedia.org/wikipedia/commons/2/25/Operational_polar_satellites.jpg) 
-
-<img  alt="image" src="https://github.com/user-attachments/assets/c09351b7-8115-49b0-9e4a-22e001d7fe9e" />
 
 Please be advised that NOAA-15 and NOAA-19 have been decommissioned. NOAA-15 was decommissioned on August 19, 2025 at 20:37 UTC and NOAA-19 was decommissioned on August 13, 2025 at 16:55 UTC. For additional details, please [click here](https://www.ospo.noaa.gov/data/messages/2025/08/MSG_20250820_1410.html).
 Update #12:  NOAA-15 was successfully decommissioned on August 19, 2025 on rev 41828 at 1528 UTC.
@@ -53,6 +48,14 @@ Update #11: This is the final reminder that NOAA-15 is scheduled to be decommiss
 
 Planet Patrol is a monitoring system for the Planetary Data System
 [View](https://nasa-pds.github.io/PlanetPatrol/) @nasa-pds @nasa-jpl @NASA-DEVELOP @blackgirlscode  @STATEOFCALiFORNIa @newshour 
+
+
+
+<img width="1808" height="874" alt="image" src="https://github.com/user-attachments/assets/1a101cdd-28e4-41e9-8bac-386ab2cb7c5b" />
+
+![poes @noaagov](https://upload.wikimedia.org/wikipedia/commons/2/25/Operational_polar_satellites.jpg) 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/c09351b7-8115-49b0-9e4a-22e001d7fe9e" />
 
 
 
@@ -801,6 +804,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
