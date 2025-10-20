@@ -1,7 +1,9 @@
 ---
-layout: default
+layout: rt_leap
 mermaid: true
 ---
+
+
 
 
   {% for post in site.posts %}
@@ -16,45 +18,38 @@ mermaid: true
 
   {% endfor %}
 
-[RetroArchBiosPack](https://github.com/Abdess/retroarch_system) - [The BIOS file directory](https://fantasyanime.com/emuhelp/retroarch)
-
-
-[JPL and the Space Age: Destination Moon](https://plus.nasa.gov/video/jpl-and-the-space-age-destination-moon/) @nasa-jpl i was watching it at the duratn hollywood library and when i was looking at my github page for sharig it shut off #sessionjacked [ucla: birthplace of the internet](https://conferences.ucla.edu/ucla-birthplace-of-the-internet/) [How to roll back Git code to a previous commit](https://www.techtarget.com/searchitoperations/answer/How-to-roll-back-Git-code-to-a-previous-commit#:~:text=Git%20revert%20example,see%20the%20current%20commit%20IDs.) [Jekyll Array](https://carpentries-incubator.github.io/jekyll-pages-novice/arrays/index.html)
-
-
-
-
-
-[Solid Steel Radio Show: Mixed by DK, Strictly Kev, PC, The Butch Cassidy Sound System (Nov 22, 2004)](https://youtu.be/e_N4TYS1l60?t=4509) 
-
-# GitHub Branching 
-
-
-
-<div class="mermaid">
-gitGraph:
-    commit "normani"
-    branch newbranch
-    checkout newbranch
-    commit id:"1218"
-    commit tag:"test"
-    checkout main
-    commit type: HIGHLIGHT
-    commit
-    merge newbranch
-    commit
-    branch b2
-    commit
-</div> 
-
-[Tracking Elephants Across Namibia](https://visibleearth.nasa.gov/images/153333/tracking-elephants-across-namibia/153335w)
-![Tracking Elephants Across Namibia](https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153333/AfricanElephant_pho_20190723.jpg)
-[Solid Steel presents DJ Food & DK - "Now, Listen!" (full mixed CD)](https://www.youtube.com/watch?v=7z32WnNxDUY)
-[Atlas - Plaetary Data System](https://pds-imaging.jpl.nasa.gov/search/?fq=ATLAS_MISSION_NAME%3A%22viking%20orbiter%22&fq=-ATLAS_THUMBNAIL_URL%3Abrwsnotavail.jpg&q=*%3A*&start=72)
-
 
 
 # Rashard Kelly NasaJpl MRO JUNO iSS
+
+<img alt="image" src="https://github.com/user-attachments/assets/4ac8a87f-4e4c-4c26-a168-f6a021d961aa" />
+
+<img  alt="image @blackgirlscode " src="https://github.com/user-attachments/assets/7e8f5285-5edb-432a-8c0d-bd8da9f8f945" />
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/09d55b1e-5c7a-47ea-963e-c506fcb6eb36" />
+
+<img    alt="image" src="https://github.com/user-attachments/assets/54ba4768-1c60-4eda-94d3-3bb796dcd795" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/a5424fbf-b981-4a78-9819-8c5d78402dfc" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/40320ffc-521f-427c-ae06-fc5fab7ab4d3" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/73252199-ff61-4c3e-9a4e-efc21f4bad1b" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/a9325e1f-b298-4688-8227-69d6eff075d4" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/6eb1ab4d-b469-435e-8f9e-ed17ac2c44a3" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/ff607eb4-2f94-46a6-98cc-68166fa0c453" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/ea91e936-9b21-4e92-84f2-a825dccf9ff0" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/6efe872c-d8d4-451c-9051-7666fc087b9f" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/f2830884-c031-4780-bbb2-cbc59afd4e9f" />
+
+
 <style>
 svg  {width: 100%; height: auto;}
 </style>
@@ -613,6 +608,44 @@ END
 <svg class="gradient-text" id="headerMargins" width="50%" height="50%" viewBox="0 0 508.204 141.732" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
 <path d="M91.991 104.699c1.576 5.961 4.119 8.266 8.613 8.266 4.659 0 7.102-2.799 7.102-8.266V3.2h29.184v101.499c0 14.307-1.856 20.506-9.11 27.762-5.228 5.229-14.871 9.271-27.047 9.271-9.837 0-19.25-3.256-25.253-9.27-5.263-5.273-8.154-10.689-12.672-27.764L44.9 37.033c-1.577-5.961-4.119-8.265-8.613-8.265-4.66 0-7.103 2.798-7.103 8.265v101.5H0v-101.5C0 22.727 1.857 16.527 9.111 9.271 14.337 4.044 23.981 0 36.158 0c9.837 0 19.25 3.257 25.253 9.27 5.263 5.273 8.154 10.689 12.672 27.764zm386.047 33.834L444.334 33.096c-.372-1.164-.723-2.152-1.263-2.811-.926-1.127-2.207-1.719-3.931-1.719-1.723 0-3.004.592-3.931 1.719-.539.658-.891 1.646-1.262 2.811l-33.703 105.437h-30.167l36.815-115.177c1.918-6 4.66-11.094 8.139-14.488C421.002 3.047 428.038 0 439.141 0s18.14 3.047 24.109 8.867c3.479 3.395 6.221 8.488 8.14 14.488l36.814 115.177zm-149.16 0c19.12 0 28.446-4.062 35.814-11.389 8.153-8.105 12.053-16.973 12.053-30.213 0-11.699-4.283-22.535-10.804-29.019-8.526-8.479-19.116-11.151-36.384-11.151l-24.187-.001c-9.242 0-12.925-1.117-15.839-3.98-2.001-1.964-2.939-4.885-2.939-8.328 0-3.559.857-7.074 3.303-9.475 2.171-2.131 5.13-3.109 10.816-3.109h69.903V3.2H306.05c-19.12 0-28.445 4.063-35.814 11.389-8.152 8.105-12.053 16.972-12.053 30.212 0 11.701 4.283 22.536 10.804 29.019 8.527 8.479 19.116 11.152 36.384 11.152l24.188.002c9.242 0 12.925 1.115 15.839 3.979 2.001 1.965 2.939 4.885 2.939 8.328 0 3.559-.857 7.074-3.302 9.475-2.172 2.131-5.131 3.109-10.817 3.109h-72.094l-27.651-86.509c-1.918-6-4.66-11.094-8.139-14.488C220.363 3.047 213.327 0 202.224 0s-18.14 3.047-24.108 8.867c-3.48 3.395-6.221 8.488-8.139 14.488l-36.815 115.177h30.166l33.704-105.437c.372-1.164.723-2.152 1.263-2.811.926-1.127 2.208-1.719 3.931-1.719s3.004.592 3.931 1.719c.54.658.891 1.646 1.262 2.811l33.704 105.437z" fill="#262626"/></svg>
 
+[RetroArchBiosPack](https://github.com/Abdess/retroarch_system) - [The BIOS file directory](https://fantasyanime.com/emuhelp/retroarch)
+
+
+[JPL and the Space Age: Destination Moon](https://plus.nasa.gov/video/jpl-and-the-space-age-destination-moon/) @nasa-jpl i was watching it at the duratn hollywood library and when i was looking at my github page for sharig it shut off #sessionjacked [ucla: birthplace of the internet](https://conferences.ucla.edu/ucla-birthplace-of-the-internet/) [How to roll back Git code to a previous commit](https://www.techtarget.com/searchitoperations/answer/How-to-roll-back-Git-code-to-a-previous-commit#:~:text=Git%20revert%20example,see%20the%20current%20commit%20IDs.) [Jekyll Array](https://carpentries-incubator.github.io/jekyll-pages-novice/arrays/index.html)
+
+
+
+
+
+[Solid Steel Radio Show: Mixed by DK, Strictly Kev, PC, The Butch Cassidy Sound System (Nov 22, 2004)](https://youtu.be/e_N4TYS1l60?t=4509) 
+
+# GitHub Branching 
+
+
+
+<div class="mermaid">
+gitGraph:
+    commit "normani"
+    branch newbranch
+    checkout newbranch
+    commit id:"1218"
+    commit tag:"test"
+    checkout main
+    commit type: HIGHLIGHT
+    commit
+    merge newbranch
+    commit
+    branch b2
+    commit
+</div> 
+
+[Tracking Elephants Across Namibia](https://visibleearth.nasa.gov/images/153333/tracking-elephants-across-namibia/153335w)
+![Tracking Elephants Across Namibia](https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153333/AfricanElephant_pho_20190723.jpg)
+[Solid Steel presents DJ Food & DK - "Now, Listen!" (full mixed CD)](https://www.youtube.com/watch?v=7z32WnNxDUY)
+[Atlas - Plaetary Data System](https://pds-imaging.jpl.nasa.gov/search/?fq=ATLAS_MISSION_NAME%3A%22viking%20orbiter%22&fq=-ATLAS_THUMBNAIL_URL%3Abrwsnotavail.jpg&q=*%3A*&start=72)
+
+
+
 <img src="https://photojournal.jpl.nasa.gov/jpeg/PIA26202.jpg" >
 
 [The Noodle Incident](https://www.thenoodleincident.com/tutorials/box_lesson/boxes.html) ~-~ [TheReinventedWheel](ricothaka.github.io/marsblog)
@@ -658,3 +691,6 @@ html>body #content {
             alt="Valid CSS!" />
     </a>
 </p>
+
+
+<img   alt="image" src="https://github.com/user-attachments/assets/c577c2ec-2f56-455f-886e-5e8a92b81e43" />
