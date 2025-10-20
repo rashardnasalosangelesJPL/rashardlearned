@@ -14,7 +14,7 @@ artcrimes.com moved to https://www.graffiti.org/
 
 [Colors](https://www.youtube.com/watch?v=NzVfAj4bV40&t=50s) <~ Watch on @youtube
 #FiCtiONDRAMAREALiTY
-plot;[tourist hurting locals](https://www.youtube.com/watch?v=cb5XECdy2aQ)
+plot;[tourist hurting locals, im talking about freaknik not tourist!](https://www.youtube.com/watch?v=cb5XECdy2aQ)
 [imdb](https://www.imdb.com/title/tt0094894/) A police veteran and his rookie partner fight Los Angeles gangs.
 
 Related doc [Graffiti_VeriteVOL1](https://archive.org/download/graffiti-verite-vol.-1)
