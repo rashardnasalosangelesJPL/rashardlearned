@@ -7,6 +7,11 @@ published: true
 image: 502915645-c93b63d2-714b-4f81-a866-e2f4eb9b23ec.png
 ---
 
+artcrimes.com moved to https://www.graffiti.org/ 
+[https://www.graffiti.org/](https://www.graffiti.org/)
+![ARTCRiMES](https://www.graffiti.org/assets/images/kezaclogowhitetontrans.gif)
+<img  alt="image" src="https://github.com/user-attachments/assets/63bc6d97-d8d7-4d99-9dc4-28b73ebdaf2c" />
+
 [Colors](https://www.youtube.com/watch?v=NzVfAj4bV40&t=50s) <~ Watch on @youtube
 #FiCtiONDRAMAREALiTY
 plot;[tourist hurting locals](https://www.youtube.com/watch?v=cb5XECdy2aQ)
