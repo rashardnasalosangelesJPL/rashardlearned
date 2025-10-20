@@ -15,6 +15,12 @@ Dig Your Own Hole ([Full Album](https://youtu.be/2UafeQIkj5c?t=450))
 @BLACKGiRLSCODE its :: [Double Trouble · The Roots · Mos Def](https://youtu.be/AmSUb5H5G0s?t=56) re:[presentation](https://en.wikipedia.org/wiki/Presentation) bc its [Man's World](https://youtu.be/VEDBFzDnIRM?t=88)
 
 
+[https://wgc.jpl.nasa.gov:8443/webgeocalc/#NewCalculation](https://wgc.jpl.nasa.gov:8443/webgeocalc/#NewCalculation)
+https://wgc.jpl.nasa.gov:8443 @nasa-jpl @nasa-pds @blackgirlscode @CityOfLosAngeles @stateofCalifornia @TheSpaceDevs
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0apjj7ka564C7Nda2zzuTzhLpEGBb1w4R2iYDSCKG7iozx4uCbnYfXCiCqMztpK8Yl%26id%3D100084464911565&show_text=true&width=500" width="500" height="584" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+<img alt="image" src="https://github.com/user-attachments/assets/c1aaf698-b61f-4bc5-a019-a542cf971954" />
+
 ![https://www.star.nesdis.noaa.gov/GOES/images/banner/GOESAllBanner_600x60px.jpg](https://www.star.nesdis.noaa.gov/GOES/images/banner/GOESAllBanner_600x60px.jpg) @noaagov @nasa-jpl @stateofcalifornia @blackgirlscode [Index of /ma-cdn03/GOES/data](https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/GEOCOLOR/)
 @whitehouse @dhs-gov
 [https://www.star.nesdis.noaa.gov/GOES/fulldisk.php?sat=G19](https://www.star.nesdis.noaa.gov/GOES/fulldisk.php?sat=G19)
@@ -804,6 +810,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
