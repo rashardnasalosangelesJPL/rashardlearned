@@ -12,12 +12,12 @@ permalink: /changelog
 [Current `MagMoB`](https://x.com/i/broadcasts/1djGXWXYBdeKZ)
 The Chemical Brothers -
 Dig Your Own Hole ([Full Album](https://youtu.be/2UafeQIkj5c?t=450)) 
-@BLACKGiRLSCODE its :: [Double Trouble · The Roots · Mos Def](https://youtu.be/AmSUb5H5G0s?t=56) re:[presentation](https://en.wikipedia.org/wiki/Presentation)
+@BLACKGiRLSCODE its :: [Double Trouble · The Roots · Mos Def](https://youtu.be/AmSUb5H5G0s?t=56) re:[presentation](https://en.wikipedia.org/wiki/Presentation) bc its [Man's World](https://youtu.be/VEDBFzDnIRM?t=88)
 
 
 
 [LaunCHDeetails : PDF @nasa-jpl @emit-sds](https://drive.google.com/file/d/1Y9uYVO0jXve9b7SVHZqZRu-m_jgjFtBm/preview) [@nasa https://pace.gsfc.nasa.gov/ @nasa-jpl @podaac](https://pace.gsfc.nasa.gov/)
-
+@BlackgirlsCode check with the @StateOfCalifornia @CityofLosAngeles
 Due to the lapse in federal government funding, NASA is not updating this website. We sincerely regret this inconvenience.
 
 <img alt="image" src="https://github.com/user-attachments/assets/1048d11c-9716-4582-83f3-31d6650ae289" />
@@ -768,6 +768,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
