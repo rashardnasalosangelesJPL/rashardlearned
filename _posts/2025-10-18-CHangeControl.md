@@ -15,12 +15,45 @@ Dig Your Own Hole ([Full Album](https://youtu.be/2UafeQIkj5c?t=450))
 @BLACKGiRLSCODE its :: [Double Trouble · The Roots · Mos Def](https://youtu.be/AmSUb5H5G0s?t=56) re:[presentation](https://en.wikipedia.org/wiki/Presentation) bc its [Man's World](https://youtu.be/VEDBFzDnIRM?t=88)
 
 
+![https://www.star.nesdis.noaa.gov/GOES/images/banner/GOESAllBanner_600x60px.jpg](https://www.star.nesdis.noaa.gov/GOES/images/banner/GOESAllBanner_600x60px.jpg) @noaagov @nasa-jpl @stateofcalifornia @blackgirlscode [Index of /ma-cdn03/GOES/data](https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/GEOCOLOR/)
+@whitehouse @dhs-gov
+[https://www.star.nesdis.noaa.gov/GOES/fulldisk.php?sat=G19](https://www.star.nesdis.noaa.gov/GOES/fulldisk.php?sat=G19)
+The U.S. government is closed. However, because the information this website provides is necessary to protect life and property, this site will be updated and maintained during the federal government shutdown. For the latest forecasts and critical weather information, visit www.weather.gov.To learn more, visit commerce.gov.
+![https://weather.ndc.nasa.gov/sport/images/sportLogoHQ.png](https://weather.ndc.nasa.gov/sport/images/sportLogoHQ.png)
+
+Due to the lapse in federal government funding, NASA is not updating this website. We sincerely regret this inconvenience.
+
+<img  alt="image" src="https://github.com/user-attachments/assets/49000bdc-05d9-4450-957b-fcb0ffa53013" />
+
+![https://weather.ndc.nasa.gov/sport/images/sportLogoHQ.png](https://weather.ndc.nasa.gov/sport/images/sportLogoHQ.png)
 
 [LaunCHDeetails : PDF @nasa-jpl @emit-sds](https://drive.google.com/file/d/1Y9uYVO0jXve9b7SVHZqZRu-m_jgjFtBm/preview) [@nasa https://pace.gsfc.nasa.gov/ @nasa-jpl @podaac](https://pace.gsfc.nasa.gov/)
 @BlackgirlsCode check with the @StateOfCalifornia @CityofLosAngeles
 Due to the lapse in federal government funding, NASA is not updating this website. We sincerely regret this inconvenience.
 
 <img alt="image" src="https://github.com/user-attachments/assets/1048d11c-9716-4582-83f3-31d6650ae289" />
+
+
+# POES Satellites Decomissioned [@esa](https://earth.esa.int/eogateway/missions/noaa/objectives)
+@noaagov - pdf [Download](https://www.ospo.noaa.gov/assets/pdf/NOAA_NP_Booklet.pdf)
+
+_As part of the Space Weather Prediction Center's rollout of our improved website, the content from POES Auroral Activity Maps is being provided in a new way._ [READMORE https://www.swpc.noaa.gov/pmap](https://www.swpc.noaa.gov/pmap)
+[wiki](https://en.wikipedia.org/wiki/Polar_Operational_Environmental_Satellites)
+
+<img width="1808" height="874" alt="image" src="https://github.com/user-attachments/assets/1a101cdd-28e4-41e9-8bac-386ab2cb7c5b" />
+
+![poes @noaagov](https://upload.wikimedia.org/wikipedia/commons/2/25/Operational_polar_satellites.jpg) 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/c09351b7-8115-49b0-9e4a-22e001d7fe9e" />
+
+Please be advised that NOAA-15 and NOAA-19 have been decommissioned. NOAA-15 was decommissioned on August 19, 2025 at 20:37 UTC and NOAA-19 was decommissioned on August 13, 2025 at 16:55 UTC. For additional details, please [click here](https://www.ospo.noaa.gov/data/messages/2025/08/MSG_20250820_1410.html).
+Update #12:  NOAA-15 was successfully decommissioned on August 19, 2025 on rev 41828 at 1528 UTC.
+
+Update #11: This is the final reminder that NOAA-15 is scheduled to be decommissioned on August 19, 2025 from 1522 to 1537 UTC. NOAA-19 was passivated on August 13, 2025 Rev 85130 at 1655 UTC.
+
+Planet Patrol is a monitoring system for the Planetary Data System
+[View](https://nasa-pds.github.io/PlanetPatrol/) @nasa-pds @nasa-jpl @NASA-DEVELOP @blackgirlscode  @STATEOFCALiFORNIa @newshour 
+
 
 
 # NAsaEarthDAta [https://www.earthdata.nasa.gov/](https://www.earthdata.nasa.gov/)
@@ -768,6 +801,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
