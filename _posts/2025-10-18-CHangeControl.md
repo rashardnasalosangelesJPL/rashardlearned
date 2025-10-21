@@ -13,7 +13,7 @@ permalink: /changelog
 [Current `MagMoB`](https://x.com/i/broadcasts/1djGXWXYBdeKZ)
 The Chemical Brothers -
 Dig Your Own Hole ([Full Album](https://youtu.be/2UafeQIkj5c?t=450)) 
-@BLACKGiRLSCODE its :: [Double Trouble · The Roots · Mos Def](https://youtu.be/AmSUb5H5G0s?t=56) re:[presentation](https://en.wikipedia.org/wiki/Presentation) bc its [Man's World](https://youtu.be/VEDBFzDnIRM?t=88)
+@BLACKGiRLSCODE its :: [Double Trouble · The Roots · Mos Def](https://youtu.be/AmSUb5H5G0s?t=56) re:[presentation](https://en.wikipedia.org/wiki/Presentation) bc its [Man's World](https://youtu.be/VEDBFzDnIRM?t=88)! iThinkiNeed [@BlackGirlsCode 's Wisdom](https://youtu.be/btYlWphnfbE?si=4wSnR6QTZoRFDP02) on a [MundAy](https://youtu.be/w3hpOokLXPw?si=oQU6WNHBtlIMFuZZ)
 
 historic @cityoflosangeles for [KarenBass](https://mayor.lacity.gov/sites/g/files/wph2066/files/styles/xlarge_hero_image_992x665_/public/2025-07/137A3381ACROP%20%282%29-01.png.webp?itok=li4gImTm) @whitehouse 
 
@@ -920,6 +920,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
