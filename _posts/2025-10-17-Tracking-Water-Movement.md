@@ -16,6 +16,8 @@ categories: LA eco ecostress water climate weather
 
 {% endhighlight %}
 
+[SWOT Hydrology Data Tutorials](https://swot-community.github.io/SWOT-galleries/hydrology/hydrology.html)
+Hydrology-relevant tutorials and resources for the Surface Water and Ocean Topography ([SWOT](https://swot.jpl.nasa.gov/))
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0UpFLb3DEfHo2yvUraoF8erZgxHhMkKVJLzqW2qtBXfogsYp2FJNNc9DNNdPGADS6l%26id%3D100084464911565&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
