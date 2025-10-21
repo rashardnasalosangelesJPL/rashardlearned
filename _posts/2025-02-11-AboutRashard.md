@@ -94,9 +94,12 @@ Savannah, GA 31415-9615 [Business Summary](https://www.savannahnow.com/story/new
 
 ## seen in [Outkast - In Due Time (Official HD Video) ft. Cee-Lo @~0:31s](https://youtu.be/gvMCA9jHFZ0?t=28)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gvMCA9jHFZ0?si=XTVrLW0loWstjH1G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ![RASHARD DOING URBAN ART FOR @mercedesBenz](https://pbs.twimg.com/media/GUkWbGTbkAAgrya?format=jpg&name=medium)
+
 ![MRO](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/mars/resources/detail_files/2/5/25354_mro_team_2016-06-23-web.jpg?w=1600&h=900&fit=clip&crop=faces%2Cfocalpoint)
 [My Family](https://x.com/BubbleGumPop510/status/1902124861578944758) [My Fam Situation](https://x.com/BubbleGumPop510/status/1902124482850152701)
+
 ![i love purple](https://pbs.twimg.com/media/GYL1VJYakAI54FP?format=jpg&name=large)
 
 @nasa-jpl @stateofcalifornia @cityoflosangeles i will explain soon respectfully 
@@ -106,3 +109,18 @@ Savannah, GA 31415-9615 [Business Summary](https://www.savannahnow.com/story/new
 
 ![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
 
+
+ <img src="https://jadelinux.net/images/fedoracoreone/1.png" />
+  <img src="https://jadelinux.net/images/fedoracoreone/2.png" />
+  <img src="https://jadelinux.net/images/fedoracoreone/3.png" />
+  <img src="https://jadelinux.net/images/fedoracoreone/4.png" />
+  <img src="https://jadelinux.net/images/fedoracoreone/10.png" />
+  <img src="https://jadelinux.net/images/fedoracoreone/11.png" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fedora_logo.svg/2048px-Fedora_logo.svg.png" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Centos-logo-light.svg" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Gigabyte_Technology_logo_20080107.svg/2560px-Gigabyte_Technology_logo_20080107.svg.png" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Storage_Technology_Corporation_logo.svg" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Dell_EMC_logo.svg/2560px-Dell_EMC_logo.svg.png" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/3PAR_logo.svg" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Jet_Propulsion_Laboratory_logo.svg/2560px-Jet_Propulsion_Laboratory_logo.svg.png" />
+ <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Jet_Propulsion_Laboratory_logo.svg" />
