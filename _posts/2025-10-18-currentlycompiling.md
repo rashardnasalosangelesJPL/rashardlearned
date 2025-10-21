@@ -18,6 +18,56 @@ seanbaker2002 & sb202us
 [The Geocities Gallery](https://geocities.restorativland.org/CapeCanaveral/)
 [restorativland.org/CapeCanaveral/ @usnavy @nasa-jpl @dhs-gov](https://geocities.restorativland.org/CapeCanaveral/)
 
+
+
+# My Binder
+[Link](https://thakarashard.github.io/mybinder/) @nasa @blackgirlscode [1944](https://www.youtube.com/watch?v=hXtB7B0bwAg) 
+
+## CapTain America 1944
+[?Query](https://archive.org/search?query=subject%3A%22Captain+America%22+1944) 
+<iframe src="https://archive.org/embed/captain-america_202508" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+## Superman 1941
+[Files](https://archive.org/download/superman-1941-1943-480p-dvdrip)
+<iframe src="https://archive.org/embed/superman-1941-1943-480p-dvdrip" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+# Batman1943
+[Files](https://archive.org/download/Batman1943Chapter01TheElectricalBrain)
+
+<iframe src="https://archive.org/embed/Batman1943Chapter01TheElectricalBrain" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+[Habesha Church](https://www.vmeotc.org/) + [fb](https://www.facebook.com/permalink.php?story_fbid=pfbid0qn5rnaKG3KGizm4PNpct38zvCL4BFCTZuciRjBY9xTatq7oMSRfneWTvouP7Xwtnl&id=100084464911565)
+
+[Love Rap - SPoonie Gee](https://youtu.be/cv2ReNgW8I0?si=K9rmC3iTftUPlqyy) i wonder if he [Bobby Womack](https://video.search.yahoo.com/yhs/search?fr=yhs-firearc-keyguardchr&hsimp=yhs-keyguardchr&hspart=firearc&p=youtube+bobby+womak&q=youtube+bobby+womak&type=1704805639094716#id=1&vid=8787b39d67e013bad21fe4fee7922cec&action=click) peer or aggressor @blackgirlscode im just curious those guys spelled a lot out in thier @soundcloud accounts like, who ya wit @nasa-jpl ... @fema i called u [https://search.yahoo.com/yhs/search?hspart=firearc&hsimp=yhs-keyguardchr&type=1704805639094716&p=fema+phone+number&q=fema+phone+number](https://search.yahoo.com/yhs/search?hspart=firearc&hsimp=yhs-keyguardchr&type=1704805639094716&p=fema+phone+number&q=fema+phone+number) `Rumor: Call 1-800-621-3342 for FEMA assistance.`  @newshour @cityoflosangeles [AintNoHalfSteppin](https://youtu.be/RNVefp-SxvE?t=84)
+
+# Erase Racism
+[Kool G Rap](https://koolgrap.com/) & [DJ Polo](https://www.youtube.com/watch?v=-RVQeJPAW2U), Big Daddy Kane & Biz Markie
+[MAterial - [WebSuppys @google @blackgirlscode](https://m3.material.io/develop/web)  / [type @googlefonts](https://m3.material.io/styles/typography/fonts) 
+news: [WhiteHouseBegins EastWing demolition](https://www.facebook.com/permalink.php?story_fbid=pfbid02LJHn8PHY48yDT3dRbrkwdk4rNYJNbf6VdEEu7P6ioJwygx7oNjqxqJPXDLbwUVvnl&id=100084464911565) for [TrumpBallroom ](https://www.cbsnews.com/news/trump-white-house-ballroom-donor-names/)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wWuFj_HAjYs?si=xmcQHDVZyMfpFWaj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iIreOrdYvLM?si=4K-BSX5WEb-7xOip" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+# New Page
+/[changelog](https://github.com/rashardsdata/rashardsdata.github.io/blob/master/_posts/2025-10-18-CHangeControl.md) 
+where im recording a massive array of outage messagess and defunding doom that dont add up bc all the sites that use certain [data sets still update](https://scan-now.gsfc.nasa.gov/) like [@TheSpaceDevs e4ftl01.cr.usgs.gov](https://e4ftl01.cr.usgs.gov/WORKING/BRWS/Browse.001/) which i think is [ecostress](https://github.com/rashardsdata/rashardsdata.github.io/blob/master/_posts/2025-10-17-ECOSTRESSMonitoringplantsfromspace.md)... The repo vitals is where i got to catch up with [Earthdata @nasa-jpl](https://nasa.github.io/VITALS/) 
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/630d6507-6ffc-455e-80e7-b786172b7f6a" />
+
+[https://scontent-`atl3`-2.xx.fbcdn.net/v/t39.30808-6/559597565_781602384665252_1722386912704407977_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=8yJS0LjhmvQQ7kNvwGZ2nHI&_nc_oc=AdlFiLiwEM9qpWdqOHra_9d4YEx1hY-nO1nBTLGAyYh-tugbEC6j27R8VVqEAMU5cH0&_nc_zt=23&_nc_ht=scontent-atl3-2.xx&_nc_gid=8ugLS5JQG7bJmIHisA6mvQ&oh=00_AfefEXbDxRtVpNdcEswgVy1ge92iqmdJwUVI81aNjjhQMg&oe=68FB3829](https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-6/559597565_781602384665252_1722386912704407977_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=8yJS0LjhmvQQ7kNvwGZ2nHI&_nc_oc=AdlFiLiwEM9qpWdqOHra_9d4YEx1hY-nO1nBTLGAyYh-tugbEC6j27R8VVqEAMU5cH0&_nc_zt=23&_nc_ht=scontent-atl3-2.xx&_nc_gid=8ugLS5JQG7bJmIHisA6mvQ&oh=00_AfefEXbDxRtVpNdcEswgVy1ge92iqmdJwUVI81aNjjhQMg&oe=68FB3829)
+
+![https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
+[HunterAAF](https://www.youtube.com/c/FortStewartHunterArmyAirfield) ::: [DISCOVR:EPiC still down as of 7/15 @nasa @podaac @nasajpl](https://epic.gsfc.nasa.gov/)
+
+<img alt="image" src="https://github.com/user-attachments/assets/5f146b10-2f0b-4b58-bf5b-d85e6e5682f6" />
+
+
+![https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
+[HunterAAF](https://www.youtube.com/c/FortStewartHunterArmyAirfield) :::
+
+
+
 While i was working @gatech [WatchNow](https://www.youtube.com/watch?v=rC6177nXWjI) see @blackgirlscode live! 
 <img  alt="image Gucci Mane is an American rapper" src="https://github.com/user-attachments/assets/8496989d-6c26-4960-b390-49edc09b295b" />
 [KotLin @blackgirlscode](https://developer.android.com/kotlin/androidbasics)
