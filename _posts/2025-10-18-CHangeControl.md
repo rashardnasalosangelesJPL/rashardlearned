@@ -6,7 +6,7 @@ tags: work code jpl LA frontpage sub
 title: CHANGELOG @weather-gov @CityOfLosAngeles @Nasa-jpl
 image: photojournal2.PNG
 author: "RashardKelly @nasa-jpl"
-date:   2025-10-18 11:51:06 
+date:   2025-10-20 11:51:06 
 permalink: /changelog
 ---
 [Current `MagMoB`](https://x.com/i/broadcasts/1djGXWXYBdeKZ)
@@ -14,6 +14,30 @@ The Chemical Brothers -
 Dig Your Own Hole ([Full Album](https://youtu.be/2UafeQIkj5c?t=450)) 
 @BLACKGiRLSCODE its :: [Double Trouble · The Roots · Mos Def](https://youtu.be/AmSUb5H5G0s?t=56) re:[presentation](https://en.wikipedia.org/wiki/Presentation) bc its [Man's World](https://youtu.be/VEDBFzDnIRM?t=88)
 
+[LEADERSHiP @nasa](https://science.nasa.gov/about-us/bios/)
+
+# CSDA Vendor - Airbus U.S.
+@Airbus your page has the scary funding messages 
+```
+
+Due to the lapse in federal government funding, NASA is not updating this website. We sincerely regret this inconvenience.
+
+We are in the process of migrating all NASA Earth science data sites into Earthdata from now until end of 2026. Not all NASA Earth science data and resources will appear here until then. Thank you for your patience as we make this transition. Read about the Web Unification Project
+```
+<img  alt="image" src="https://github.com/user-attachments/assets/5e1a19d8-2118-4a2a-bd8b-edd23ec51209" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/b47782b9-095b-4a5f-84e5-26ff2ec61521" />
+
+
+
+ 
+ @nasa-pds @nasa-jpl i called [@usgs last night @NIHGOV](https://www.facebook.com/permalink.php?story_fbid=pfbid02CbHf63UnAGXN14JSB6RTbRmeCTZQ76UAW97eptAZzVA1bd7zJrd5XQCXKibUU9nel&id=100084464911565) and some of my gumline vanished!  @cityoflosangles @stateofcalifornia 
+ 
+<img  alt="image" src="https://github.com/user-attachments/assets/6391bdfc-68ff-4f08-aec5-758fc67eb158" />
+CSDA Program Authorization Request Form 
+A user with this Earthdata login username already exists in the CSDA system. If this is a request for access to an additional vendors' data products, please resubmit without this username field filled in. Please contact the CSDA team for additional assistance if needed. thats not an outage @blackgirlscode, i forgot i signed up!
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/da4cba2e-fa33-4db8-bf92-03473de35699" />
 
 
 [rashards data on @x](https://x.com/rashardsdata) now filtered by [Cloudflare](https://www.cloudflare.com/?utm_source=challenge&utm_campaign=l) :: [@cloudflare @nasa-jpl @stateofcalifornia](https://github.com/cloudflare)
@@ -820,6 +844,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
