@@ -15,6 +15,14 @@ Dig Your Own Hole ([Full Album](https://youtu.be/2UafeQIkj5c?t=450))
 @BLACKGiRLSCODE its :: [Double Trouble · The Roots · Mos Def](https://youtu.be/AmSUb5H5G0s?t=56) re:[presentation](https://en.wikipedia.org/wiki/Presentation) bc its [Man's World](https://youtu.be/VEDBFzDnIRM?t=88)
 
 
+# NasaEarthdata Login
+[https://urs.earthdata.nasa.gov/](https://urs.earthdata.nasa.gov/)
+The Earthdata Login provides a single mechanism for user registration and profile management for all EOSDIS system components (DAACs, Tools, Services). Your Earthdata login also helps the EOSDIS program better understand the usage of EOSDIS services to improve user experience through customization of tools and improvement of services. EOSDIS data are openly available to all and free of charge except where governed by international agreements. 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/3fc83701-aeae-49f8-8925-7a41f3460c6f" />
+<img   alt="image" src="https://github.com/user-attachments/assets/792de57d-ef08-4b5a-bfd7-d79af722f4fb" />
+
+https://github.com/rashardgds/rashardlearned/blob/master/_posts/2025-10-18-CHangeControl.md
 ![SWOT @swot-community @weather-gov @blackgirlscode](https://swot.jpl.nasa.gov/assets/logo_websitetitle.svg) 
 [https://swot.jpl.nasa.gov/](https://swot.jpl.nasa.gov/) [github.com/SWOT-community](https://github.com/SWOT-community) @stateofcalifornia @emit-sds @nasa-jpl @dhs-gov @weather-gov @blackgirlscode
 [LEADERSHiP @nasa](https://science.nasa.gov/about-us/bios/)
@@ -865,6 +873,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
