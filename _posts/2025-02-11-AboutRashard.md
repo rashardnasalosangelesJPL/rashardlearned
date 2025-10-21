@@ -6,6 +6,8 @@ title: About Rashard
 image: rashardMRO.jpeg
 ---
 
+# My Binder
+[Link](https://thakarashard.github.io/mybinder/) @nasa @blackgirlscode 
 
 [Habesha Church](https://www.vmeotc.org/) + [fb](https://www.facebook.com/permalink.php?story_fbid=pfbid0qn5rnaKG3KGizm4PNpct38zvCL4BFCTZuciRjBY9xTatq7oMSRfneWTvouP7Xwtnl&id=100084464911565)
 
