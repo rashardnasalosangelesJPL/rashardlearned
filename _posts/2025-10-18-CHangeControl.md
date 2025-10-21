@@ -14,7 +14,15 @@ The Chemical Brothers -
 Dig Your Own Hole ([Full Album](https://youtu.be/2UafeQIkj5c?t=450)) 
 @BLACKGiRLSCODE its :: [Double Trouble · The Roots · Mos Def](https://youtu.be/AmSUb5H5G0s?t=56) re:[presentation](https://en.wikipedia.org/wiki/Presentation) bc its [Man's World](https://youtu.be/VEDBFzDnIRM?t=88)
 
+
+![SWOT @swot-community @weather-gov @blackgirlscode](https://swot.jpl.nasa.gov/assets/logo_websitetitle.svg) 
+[https://swot.jpl.nasa.gov/](https://swot.jpl.nasa.gov/) [github.com/SWOT-community](https://github.com/SWOT-community) @stateofcalifornia @emit-sds @nasa-jpl @dhs-gov @weather-gov @blackgirlscode
 [LEADERSHiP @nasa](https://science.nasa.gov/about-us/bios/)
+Due to the lapse in federal government funding, NASA is not updating this website. We sincerely regret this inconvenience.
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6327703e-4ddd-4262-96b1-d1766e2ecdc7" />
+
+
 [Satun;ring orbit study](https://solarsystem.nasa.gov/downloads/download_6355_1761018085.zip)
 
 ![@nasa-pds @nasa-jpl @whitehouse](https://solarsystem.nasa.gov/images/casJPGFullS82/W00086580.jpg) 
@@ -857,6 +865,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
