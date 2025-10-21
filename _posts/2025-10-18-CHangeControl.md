@@ -14,6 +14,8 @@ The Chemical Brothers -
 Dig Your Own Hole ([Full Album](https://youtu.be/2UafeQIkj5c?t=450)) 
 @BLACKGiRLSCODE its :: [Double Trouble · The Roots · Mos Def](https://youtu.be/AmSUb5H5G0s?t=56) re:[presentation](https://en.wikipedia.org/wiki/Presentation) bc its [Man's World](https://youtu.be/VEDBFzDnIRM?t=88)
 
+[https://nasa-pds.github.io/PlanetPatrol/ @nasa-jpl @usgs @blackgirlscode @stateofcalifornia  ](https://nasa-pds.github.io/PlanetPatrol/)
+[https://pds-ppi.igpp.ucla.edu/](https://pds-ppi.igpp.ucla.edu/)
 
 [https://wgc.jpl.nasa.gov:8443/webgeocalc/#NewCalculation](https://wgc.jpl.nasa.gov:8443/webgeocalc/#NewCalculation)
 https://wgc.jpl.nasa.gov:8443 @nasa-jpl @nasa-pds @blackgirlscode @CityOfLosAngeles @stateofCalifornia @TheSpaceDevs
@@ -810,6 +812,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 

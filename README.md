@@ -2,6 +2,23 @@
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
+
+
+ <img src="https://jadelinux.net/images/fedoracoreone/1.png" />
+  <img src="https://jadelinux.net/images/fedoracoreone/2.png" />
+  <img src="https://jadelinux.net/images/fedoracoreone/3.png" />
+  <img src="https://jadelinux.net/images/fedoracoreone/4.png" />
+  <img src="https://jadelinux.net/images/fedoracoreone/10.png" />
+  <img src="https://jadelinux.net/images/fedoracoreone/11.png" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fedora_logo.svg/2048px-Fedora_logo.svg.png" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Centos-logo-light.svg" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Gigabyte_Technology_logo_20080107.svg/2560px-Gigabyte_Technology_logo_20080107.svg.png" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Storage_Technology_Corporation_logo.svg" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Dell_EMC_logo.svg/2560px-Dell_EMC_logo.svg.png" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/3PAR_logo.svg" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Jet_Propulsion_Laboratory_logo.svg/2560px-Jet_Propulsion_Laboratory_logo.svg.png" />
+ <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Jet_Propulsion_Laboratory_logo.svg" />
+ 
 @CityOfLosAngeles [FirEReport @emit-sds im causing disruption at this SHARE place i need playboy to pay me!!! @whitehouse](https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:24hrs;@-117.75,33.88,9.46z)
 
 @stateofcalifornia

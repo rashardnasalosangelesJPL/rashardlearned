@@ -13,6 +13,62 @@ date:   2025-10-09 8:51:06
 
 [comment]: <> (Emergency Files )
 
+
+[@Microsoft AndroidLAuncheriNACTiON @blackgirlscode @deptofdefense @whitehouse @cityoflosangeles @stateofcalifornia @LACMTA](https://ia800904.us.archive.org/14/items/screen-20250705-235856/screen-20250706-205654.mp4)
+
+<div class="tupperware">
+<video preload="auto" width="auto" height="400px" controls> 
+        <source src="https://ia600904.us.archive.org/14/items/screen-20250705-235856/screen-20250706-205654.mp4" type="video/mp4">         
+</video> 
+
+<video preload="auto" width="auto" height="400px" controls> 
+        <source src="https://ia800904.us.archive.org/14/items/screen-20250705-235856/VID_20250706_071024.ia.mp4" type="video/mp4">         
+</video> 
+
+<video preload="auto" width="auto" height="400px" controls> 
+        <source src="https://ia800904.us.archive.org/14/items/screen-20250705-235856/VID_20250706_223711.mp4" type="video/mp4">         
+</video> 
+</div>
+
+![july5](https://www.google.com/logos/doodles/2025/fourth-of-july-2025-6753651837110704-2x.png)
+
+[Horizons API](https://ssd-api.jpl.nasa.gov/doc/horizons.html)
+![image](https://github.com/user-attachments/assets/baaa1d68-9dc5-402d-859f-ce365604fd02)
+
+![marvoyagerneptuneSimpleScanStation20250703162827-03](https://github.com/user-attachments/assets/65977d36-712d-44a7-9f43-3fed31687f1c)
+
+![marvoyagerneptuneSimpleScanStation20250703162827-01](https://github.com/user-attachments/assets/0bacaf25-1c6b-4ebb-9f41-32ad2df3eae4)
+
+
+
+![KevinDeLeon](https://static.wixstatic.com/media/bcbc13_88c97c4532f84a319801864c7ff736d6~mv2.png/v1/fill/w_232,h_110,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/CD14WhiteLogo_edited.png) @cityoflosangeles @stateofcalifornia [![Twitter Follow](https://img.shields.io/badge/Social-@MayorOfLA__-blue?style=social&logo=X)](https://twitter.com/@MayorOfLAn) [![Twitter Follow](https://img.shields.io/badge/Social-@kdeleon__-blue?style=social&logo=X)](https://twitter.com/@kdeleon)
+# Federal Housing Administration Insured Single Family Properties in Force
+[MAyor Karen!](https://appliedsciences.nasa.gov/what-we-do/disasters/disasters-activations/southern-california-wildfires-jan-2025) I am still working on [My @nasa Login](https://auth.launchpad.nasa.gov/login?level=20&target=https%3A%2F%2Fauth.launchpad.nasa.gov%2Facr%2Fv1%2Fauthlevel%2F20%3Ffeddata%3DP3Jlc3BvbnNlX3R5cGU9Y29kZSZjbGllbnRfaWQ9NTNkZDk1YjQtM2Q2NC00MDA4LTg4NTQtZDAzMTAzOWIyMmM0JnNjb3BlPW9wZW5pZCUyMHByb2ZpbGUlMjBlbWFpbCUyMG5hc2FzdGFuZGFyZCZzdGF0ZT03WjRFd3hCbWJtd2taYURXclhORFhub0lqeGg2dHFINkZoWkZlVTZxeFBRJTNEJnJlZGlyZWN0X3VyaT1odHRwczovL2lkLm5hc2EuZ292L2xvZ2luL29hdXRoMi9jb2RlL2xhdW5jaHBhZCZub25jZT1Wc2dYRnZLV3lpalo3ZVJkbFpVMTlJVGZ4Y3dienA4M0pDenl0Uk5xTnZJJlNNUE9SVEFMVVJMPWh0dHBzJTNBJTJGJTJGYXV0aC5sYXVuY2hwYWQubmFzYS5nb3YlMkZhZmZ3ZWJzZXJ2aWNlcyUyRkNBU1NPJTJGb2lkYyUyRklDQU0tUGFzc3dvcmQlMkZhdXRob3JpemU%3D) I still need to make a support ticket for my secret question answers, that was 2015, my thinking has not [chnaged much](https://www.facebook.com/photo.php?fbid=1826652567496392&set=pb.100004549987965.-2207520000&type=3) butn routines have and i cant remember spelling or formatting from that era consistantly! I Know you need maps so there is a map  @ersi [ArchGis](https://www.arcgis.com/apps/mapviewer/index.html) has with census data, I shared [SEDAC](https://rashardmro.tumblr.com/post/783645610108764160/sedacsocioeconomic-data-and-applications) with you but.. well im just disappointed that its hard to carry sessions when you have to start from scratch everytimg. But im working on my workflow [methods](https://www.oreilly.com/library/view/learning-agile/9781449363819/)
+![image](https://github.com/user-attachments/assets/477b4989-d3c6-4de7-af0b-298d040444cd)
+
+![image](https://github.com/user-attachments/assets/15e4cd31-3891-4a90-b8cd-91fc615b026c)
+
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/272934917&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/dreezydreezy" title="Dreezy" target="_blank" style="color: #cccccc; text-decoration: none;">Dreezy</a> · <a href="https://soundcloud.com/dreezydreezy/see-what-you-on" title="See What You On" target="_blank" style="color: #cccccc; text-decoration: none;">See What You On</a></div>
+
+
+![marvoyagerneptuneSimpleScanStation20250703162827-06](https://github.com/user-attachments/assets/625fa017-b0a3-46d3-aa06-0b46e5c4eefd)
+
+![july5](https://www.google.com/logos/doodles/2025/fourth-of-july-2025-6753651837110704-2x.png)
+
+ <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/w1-4nQbFNq_M02iOR1eYKg/783645610108764160" data-did="f32e6c3ee19da9c765e998d7560dadacdf797d76"><a href="https://rashardmro.tumblr.com/post/783645610108764160/sedacsocioeconomic-data-and-applications">https://rashardmro.tumblr.com/post/783645610108764160/sedacsocioeconomic-data-and-applications</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
+
+
+# Monitoring L.A. : Digital Assets 
+
+
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">We kicked things off in style yesterday! Take a peek at the excitement from Day 1 of our <a href="https://twitter.com/hashtag/NWC2025?src=hash&amp;ref_src=twsrc%5Etfw">#NWC2025</a>! 🎉 <a href="https://twitter.com/hashtag/nagios?src=hash&amp;ref_src=twsrc%5Etfw">#nagios</a> <a href="https://t.co/0SOSWo0JrR">pic.twitter.com/0SOSWo0JrR</a></p>&mdash; Nagios (@nagiosinc) <a href="https://twitter.com/nagiosinc/status/1973461312660189250?ref_src=twsrc%5Etfw">October 1, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[comment]: <> (Emergency Change Alert @nasa ? its in my SLA @blackgirlscode)
+![SVS @emit-sds](https://web.archive.org/web/19971110233040im_/http://www-ssv.jpl.nasa.gov/SSV/SSV4.gif)
+# Dear @NASA-PDS /  <a href="jpl.nasa.gov#{{ site.url }}{{ site.baseurl }}" itemscope itemtype="https://schema.org/EducationalOrganization" itemprop="name"> @NASA-JPL </a>
+@whitehouse @dhs-gov @nasa 
+
 [Colors](https://www.youtube.com/watch?v=NzVfAj4bV40&t=50s) 
 #FiCtiONDRAMAREALiTY
 plot;[tourist hurting locals](https://www.youtube.com/watch?v=cb5XECdy2aQ)
@@ -445,6 +501,8 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
+
 
 
 
