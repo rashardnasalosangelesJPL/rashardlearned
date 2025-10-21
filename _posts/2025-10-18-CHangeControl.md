@@ -47,12 +47,7 @@ Due to the lapse in federal government funding, NASA is not updating this websit
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6327703e-4ddd-4262-96b1-d1766e2ecdc7" />
 
-
-[Satun;ring orbit study](https://solarsystem.nasa.gov/downloads/download_6355_1761018085.zip)
-
-![@nasa-pds @nasa-jpl @whitehouse](https://solarsystem.nasa.gov/images/casJPGFullS82/W00086580.jpg) 
-
-[W00086580.jpg](https://solarsystem.nasa.gov/raw_images/333720/?layout=hds) was taken on 2014-02-11 03:58 (PST) and received on Earth 2014-02-14 07:29 (PST). The camera was pointing toward Saturn, and the image was taken using the CL1 and CL2 filters. This image has not been validated or calibrated. A validated/calibrated image will be archived with the NASA Planetary Data System @nasa-pds you got the scary messages!!! 
+ @nasa-pds you got the scary messages!!! 
 
 
 Image Credit: NASA/JPL-Caltech/Space Science Institute
@@ -803,15 +798,11 @@ Dear MAyor (Karen Bass)
 
 
 
-## Proposition 64: The Adult Use of Marijuana Act
-Overview [The California Cannabis Hemp Initiative of 2014](https://lao.ca.gov/ballot/2014/140072.aspx)
-Effective November 9, 2016, Proposition 64 legalizes specified personal use and cultivation of marijuana for adults 21 years of age or older; reduces criminal penalties for specified marijuana-related offenses for adults and juveniles; and authorizes resentencing or dismissal and sealing of prior, eligible marijuana-related convictions. The proposition includes provisions on regulation, licensing, and taxation of legalized use. [California Courts](https://www.courts.ca.gov/prop64.htm) [Proposition 64 and Responsible Adult Use of Marijuana LA_COUNTY California](http://publichealth.lacounty.gov/sapc/public/proposition64.htm) [MEDICAL MARIJUANA IDENTIFICATION CARD PROGRAM](http://publichealth.lacounty.gov/docs/MMIP-FLYER.pdf) [Proposition 64 (Marijuana Offenses) FAQ [SanDieago]](https://www.sandiegocounty.gov/content/sdc/public_defender/prop_64_faq.html) [Proposition 64 - Personal Non-Medical Use of Cannabis Brea California](https://www.ci.brea.ca.us/1376/Prop-64-FAQ) [Prop 64 FAQs](https://www.santa-ana.org/prop-64-faqs/) [San Francisco Prop64 FAQ](https://sfpublicdefender.org/services/prop-64-faq/) When does Proposition 64 take effect? Proposition 64 took effect November 9, 2016. You can and should seek relief right away. [prop64](https://images.procon.org/wp-content/uploads/sites/16/ca-prop-64-marijuana.pdf) [Marijuana Initiative Enters Circulation](https://www.sos.ca.gov/administration/news-releases-and-advisories/2014-news-releases-and-advisories/db14-011) [Medicinal Cannabis: History, Pharmacology, And Implications for the Acute Care Setting](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5312634/) [Congress quietly ends federal government’s ban on medical marijuana](https://www.latimes.com/nation/la-na-medical-pot-20141216-story.html)
+[Satun;ring orbit study](https://solarsystem.nasa.gov/downloads/download_6355_1761018085.zip)
 
-[DOWNLOAD~MARIJUANA LEGALIZATION. INITIATIVE STATUTE Proposition64](https://slper.senate.ca.gov/sites/slper.senate.ca.gov/files/Background%20Supplemental%20-%20Prop%2064%20Text.pdf)
+![@nasa-pds @nasa-jpl @whitehouse](https://solarsystem.nasa.gov/images/casJPGFullS82/W00086580.jpg) 
 
-[Gangstarr - Moment_0f_Truth FULL ALBUM](https://youtu.be/b1EbbT7Xrgs?si=bM1BGbtQnU9YUgSc) [Shaakira_Gathers_iLoveu](https://ricothaka.github.io/)
-
-[Heath cliff and the Cadillac cats episodes + Heathcliff (animated flick)](https://archive.org/details/HeathcliffanimatedFlick)
+[W00086580.jpg](https://solarsystem.nasa.gov/raw_images/333720/?layout=hds) was taken on 2014-02-11 03:58 (PST) and received on Earth 2014-02-14 07:29 (PST). The camera was pointing toward Saturn, and the image was taken using the CL1 and CL2 filters. This image has not been validated or calibrated. A validated/calibrated image will be archived with the NASA Planetary Data System
 
 
 ## WildFireS
@@ -920,6 +911,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
