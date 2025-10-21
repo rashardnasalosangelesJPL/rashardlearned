@@ -15,6 +15,19 @@ Dig Your Own Hole ([Full Album](https://youtu.be/2UafeQIkj5c?t=450))
 @BLACKGiRLSCODE its :: [Double Trouble · The Roots · Mos Def](https://youtu.be/AmSUb5H5G0s?t=56) re:[presentation](https://en.wikipedia.org/wiki/Presentation) bc its [Man's World](https://youtu.be/VEDBFzDnIRM?t=88)
 
 [LEADERSHiP @nasa](https://science.nasa.gov/about-us/bios/)
+[Satun;ring orbit study](https://solarsystem.nasa.gov/downloads/download_6355_1761018085.zip)
+
+![@nasa-pds @nasa-jpl @whitehouse](https://solarsystem.nasa.gov/images/casJPGFullS82/W00086580.jpg) 
+
+[W00086580.jpg](https://solarsystem.nasa.gov/raw_images/333720/?layout=hds) was taken on 2014-02-11 03:58 (PST) and received on Earth 2014-02-14 07:29 (PST). The camera was pointing toward Saturn, and the image was taken using the CL1 and CL2 filters. This image has not been validated or calibrated. A validated/calibrated image will be archived with the NASA Planetary Data System @nasa-pds you got the scary messages!!! 
+
+
+Image Credit: NASA/JPL-Caltech/Space Science Institute
+
+https://pds.nasa.gov/
+
+<img  alt="image" src="https://github.com/user-attachments/assets/6b1b1d41-51fd-42a6-84f1-e11efdb01ffc" />
+
 
 # CSDA Vendor - Airbus U.S.
 @Airbus your page has the scary funding messages 
@@ -844,6 +857,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
