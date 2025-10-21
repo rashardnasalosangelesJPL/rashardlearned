@@ -6,7 +6,7 @@ tags: work code jpl LA frontpage sub
 title: CHANGELOG @weather-gov @CityOfLosAngeles @Nasa-jpl
 image: photojournal2.PNG
 author: "RashardKelly @nasa-jpl"
-date:   2025-10-20 11:51:06 
+date:   2025-10-21 16:51:06 
 permalink: /changelog
 ---
 [Current `MagMoB`](https://x.com/i/broadcasts/1djGXWXYBdeKZ)
@@ -14,8 +14,18 @@ The Chemical Brothers -
 Dig Your Own Hole ([Full Album](https://youtu.be/2UafeQIkj5c?t=450)) 
 @BLACKGiRLSCODE its :: [Double Trouble · The Roots · Mos Def](https://youtu.be/AmSUb5H5G0s?t=56) re:[presentation](https://en.wikipedia.org/wiki/Presentation) bc its [Man's World](https://youtu.be/VEDBFzDnIRM?t=88)
 
+historic @cityoflosangeles for [KarenBass](
+### La fire screen-20250110-192022
+[BlogEntry](https://archive.org/details/screen-20250110-192022/VID_20250111_015250+(1).mp4) 
+```
+Fire
+I'm sick; some sort of magnet
+-rashard
+```
+I also mention interruptions at [SDOLAB](https://sdo.gsfc.nasa.gov/) as documented below & reply facebook/twitter campains featuring the sun , like someone else controls the data now. and Now I have no access @nasa-jpl @noaagov @weather-gov @stateofcalifornia @iceGov @dhs-gov @atfweb 
+<iframe src="https://archive.org/embed/screen-20250110-192022/VID_20250111_015250+(1).mp4" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen=""></iframe>
 
-
+<img alt="image" src="https://github.com/user-attachments/assets/0c0a15fc-ba17-47ef-a4c0-d2627eb16df2" />
 
 # NOAA Decomm ? 
 ![https://www.nasa.gov/wp-content/uploads/2019/03/338885main_tiros-full.jpg?resize=827,1024 @GEOS-ESM](https://www.nasa.gov/wp-content/uploads/2019/03/338885main_tiros-full.jpg?resize=827,1024)
@@ -908,6 +918,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
