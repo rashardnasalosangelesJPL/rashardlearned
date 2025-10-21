@@ -13,6 +13,18 @@ date:   2025-10-09 8:51:06
 
 [comment]: <> (Emergency Files )
 
+
+
+# Monitoring L.A. : Digital Assets 
+
+
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">We kicked things off in style yesterday! Take a peek at the excitement from Day 1 of our <a href="https://twitter.com/hashtag/NWC2025?src=hash&amp;ref_src=twsrc%5Etfw">#NWC2025</a>! 🎉 <a href="https://twitter.com/hashtag/nagios?src=hash&amp;ref_src=twsrc%5Etfw">#nagios</a> <a href="https://t.co/0SOSWo0JrR">pic.twitter.com/0SOSWo0JrR</a></p>&mdash; Nagios (@nagiosinc) <a href="https://twitter.com/nagiosinc/status/1973461312660189250?ref_src=twsrc%5Etfw">October 1, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[comment]: <> (Emergency Change Alert @nasa ? its in my SLA @blackgirlscode)
+![SVS @emit-sds](https://web.archive.org/web/19971110233040im_/http://www-ssv.jpl.nasa.gov/SSV/SSV4.gif)
+# Dear @NASA-PDS /  <a href="jpl.nasa.gov#{{ site.url }}{{ site.baseurl }}" itemscope itemtype="https://schema.org/EducationalOrganization" itemprop="name"> @NASA-JPL </a>
+@whitehouse @dhs-gov @nasa 
+
 [Colors](https://www.youtube.com/watch?v=NzVfAj4bV40&t=50s) 
 #FiCtiONDRAMAREALiTY
 plot;[tourist hurting locals](https://www.youtube.com/watch?v=cb5XECdy2aQ)
@@ -445,6 +457,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
