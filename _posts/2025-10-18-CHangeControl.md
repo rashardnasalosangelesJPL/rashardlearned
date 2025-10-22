@@ -63,7 +63,7 @@ Due to the lapse in federal government funding, [@NASA-JPL](https://www.jpl.nasa
 
 <img alt="image" src="https://github.com/user-attachments/assets/af7fba41-5244-4290-9417-30380f09a60e" />
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/01365909-f48a-40a5-8725-0611bec58292" />
+<img  alt="image" src="https://github.com/user-attachments/assets/01365909-f48a-40a5-8725-0611bec58292" />
 
 
 # Nasa Firms
@@ -1038,6 +1038,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
