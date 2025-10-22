@@ -16,6 +16,30 @@ Dig Your Own Hole ([Full Album](https://youtu.be/2UafeQIkj5c?t=450))
 @BLACKGiRLSCODE its :: [Double Trouble · The Roots · Mos Def](https://youtu.be/AmSUb5H5G0s?t=56) re:[presentation](https://en.wikipedia.org/wiki/Presentation) bc its [Man's World](https://youtu.be/VEDBFzDnIRM?t=88)! iThinkiNeed [@BlackGirlsCode 's Wisdom](https://youtu.be/btYlWphnfbE?si=4wSnR6QTZoRFDP02) on a [MundAy](https://youtu.be/w3hpOokLXPw?si=oQU6WNHBtlIMFuZZ) [Messij](https://www.youtube.com/watch?v=4uQnXvRndcE)
 
 
+# Nasa Firms
+@NAsa-jpl @atfweb from [SHARE_DTLA](https://downtownla.com/go/share) [425 Broadway](https://locator.lacounty.gov/lac/Location/3174383/share-downtown) [LosAngeles](https://www.yelp.com/biz/sos-share-downtown-los-angeles) , I have been calling places on this list for days, all of a sudden i get another unprofessional call center, I think the calls are being forwarded or someone has taken over the facility @emit-sds I really got kidnapped and this is unfair playboy is activly trying to assasinate me, they chipped a part of my tooth off for a tag downtown! 
+
+
+
+[Alaska Awaits Response from FEMA in the Aftermath of Major Floods](https://eos.org/research-and-developments/alaska-awaits-response-from-fema-in-the-aftermath-of-major-floods) 
+
+# For Review
+## Rogue [NASA](https://www.congress.gov/crs-product/R43419)
+[https://bsky.app/profile/roguenasa.altgov.info](https://bsky.app/profile/roguenasa.altgov.info)
+[@roguenasa.altgov.info](@roguenasa.altgov.info)
+75.3K followers
+432 following
+561 posts
+Not an official NASA account. Come for the facts, stay for the snark.🥄
+
+Same team from Twitter but with more gray hairs. 🚀🛰️🧪🔭
+
+
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/e1f90f35-9e23-4757-a52c-efdc737ba501" />
+
+
 # @NASA-JPL @UCLA @NASA_PDS @NASA-DEVELOP
 I had some links i put in my [MarsBlog](https://rashardgds.github.io/2025/04/22/Marsblogv2.html) long ago when i was doing as [Robin Obrien](https://www.msss.com/) asked that would identify me and make my reasearch palusable. I did not know about exoplanets at that point... however with all the [confusion](https://en.wikipedia.org/wiki/January_6_United_States_Capitol_attack), I was assigned ActiveMission for [MRO](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/), [JUNO](https://www.missionjuno.swri.edu/), and [Cassini](https://www.planetary.org/space-missions/cassini) . . . Jamie told me i would have to work for money. That ment communicating with [HR](https://www.jpl.jobs/accessibility), then he bounced... and Im on my own.. While everything with Erika falls apart. I was reading backlog and saw that [President Trump]() 
 [AWS outage disrupts major websites overnight, Amazon says most are coming back online - @kare11 ](https://www.youtube.com/watch?v=JZWI8sqW2Y0)
@@ -942,6 +966,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
