@@ -25,9 +25,30 @@ Due to the lapse in federal government funding, [@NASA-JPL](https://www.jpl.nasa
 
 
 # Nasa Firms
-@NAsa-jpl @atfweb from [SHARE_DTLA](https://downtownla.com/go/share) [425 Broadway](https://locator.lacounty.gov/lac/Location/3174383/share-downtown) [LosAngeles](https://www.yelp.com/biz/sos-share-downtown-los-angeles) , I have been calling places on this list for days, all of a sudden i get another unprofessional call center, I think the calls are being forwarded or someone has taken over the facility @emit-sds I really got kidnapped and this is unfair playboy is activly trying to assasinate me, they chipped a part of my tooth off for a tag downtown! 
+@NAsa-jpl @atfweb from [SHARE_DTLA](https://downtownla.com/go/share) [425 Broadway](https://locator.lacounty.gov/lac/Location/3174383/share-downtown) [LosAngeles](https://www.yelp.com/biz/sos-share-downtown-los-angeles) , I have been calling places on this list for days, all of a sudden i get another unprofessional call center, I think the calls are being forwarded or someone has taken over the facility @emit-sds I really got kidnapped and this is unfair playboy is activly trying to assasinate me, they chipped a part of my tooth off for a tag downtown! [https://www.univoip.com/](https://www.univoip.com/) is the provider and i dont know if they are stable, the whole operation could run off a cellphone @CityofLosAngeles [Karen Bass](https://igs.berkeley.edu/people/karen-bass) 
 
+```shell
+Microsoft Windows [Version 10.0.19045.6456]
+(c) Microsoft Corporation. All rights reserved.
 
+C:\Users\Volunteer>tracert univoip.com
+
+Tracing route to univoip.com [199.60.103.38]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1
+  2     1 ms    34 ms    43 ms  vcg10.lsaj01-ca.us.windstream.net [40.137.251.13]
+  3    22 ms    62 ms    23 ms  h12.48.134.40.static.ip.windstream.net [40.134.48.12]
+  4    22 ms    27 ms    34 ms  ae11-15.pe02.lsaj01-ca.us.windstream.net [74.124.244.106]
+  5    32 ms    21 ms    22 ms  ae6.cr04.lsaj01-ca.us.windstream.net [169.130.164.250]
+  6     *        *        *     Request timed out.
+  7    22 ms    39 ms    22 ms  141.101.72.46
+  8    26 ms    23 ms    22 ms  199.60.103.38
+
+Trace complete.
+
+C:\Users\Volunteer>
+```
 
 [Alaska Awaits Response from FEMA in the Aftermath of Major Floods](https://eos.org/research-and-developments/alaska-awaits-response-from-fema-in-the-aftermath-of-major-floods) 
 
@@ -974,6 +995,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
