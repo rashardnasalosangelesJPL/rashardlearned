@@ -6,6 +6,14 @@ title: About Rashard
 image: rashardMRO.jpeg
 ---
 
+@github my first repo  [https://github.com/holetoanotheruniverse40/test](https://github.com/holetoanotheruniverse40/test) forked from [https://github.com/rashard/test](https://github.com/rashard/test) @podaac @usnow (https://github.com/holetoanotheruniverse40/test)rashard/test
+
+<img  alt="@blackgirlscode" src="https://github.com/user-attachments/assets/0a468c96-6596-496b-a409-82bf20583068" />
+
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02tX6Sz9EFqEExUrJCpwzUMEFwVr8wmu4poGSnjTHnZhwPhyGVXGWo7NEjck29KdZvl%26id%3D100084464911565&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+
 # My Binder
 [Link](https://thakarashard.github.io/mybinder/) @nasa @blackgirlscode 
 
