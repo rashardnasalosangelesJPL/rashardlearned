@@ -6,46 +6,28 @@ tags: work code jpl LA frontpage sub
 title: CHANGELOG @weather-gov @CityOfLosAngeles @Nasa-jpl
 image: photojournal2.PNG
 author: "RashardKelly @nasa-jpl"
-date:   2025-10-20 11:51:06 
+date:   2025-10-21 16:51:06 
 permalink: /changelog
 ---
+
 [Current `MagMoB`](https://x.com/i/broadcasts/1djGXWXYBdeKZ)
 The Chemical Brothers -
 Dig Your Own Hole ([Full Album](https://youtu.be/2UafeQIkj5c?t=450)) 
-@BLACKGiRLSCODE its :: [Double Trouble · The Roots · Mos Def](https://youtu.be/AmSUb5H5G0s?t=56) re:[presentation](https://en.wikipedia.org/wiki/Presentation) bc its [Man's World](https://youtu.be/VEDBFzDnIRM?t=88)
+@BLACKGiRLSCODE its :: [Double Trouble · The Roots · Mos Def](https://youtu.be/AmSUb5H5G0s?t=56) re:[presentation](https://en.wikipedia.org/wiki/Presentation) bc its [Man's World](https://youtu.be/VEDBFzDnIRM?t=88)! iThinkiNeed [@BlackGirlsCode 's Wisdom](https://youtu.be/btYlWphnfbE?si=4wSnR6QTZoRFDP02) on a [MundAy](https://youtu.be/w3hpOokLXPw?si=oQU6WNHBtlIMFuZZ)
 
+historic @cityoflosangeles for [KarenBass](https://mayor.lacity.gov/sites/g/files/wph2066/files/styles/xlarge_hero_image_992x665_/public/2025-07/137A3381ACROP%20%282%29-01.png.webp?itok=li4gImTm) @whitehouse 
 
+### La fire screen-20250110-192022
+[BlogEntry](https://archive.org/details/screen-20250110-192022/VID_20250111_015250+(1).mp4) 
+```
+Fire
+I'm sick; some sort of magnet
+-rashard
+```
+I also mention interruptions at [SDOLAB](https://sdo.gsfc.nasa.gov/) as documented below & reply facebook/twitter campains featuring the sun , like someone else controls the data now. and Now I have no access @nasa-jpl @noaagov @weather-gov @stateofcalifornia @iceGov @dhs-gov @atfweb 
+<iframe src="https://archive.org/embed/screen-20250110-192022/VID_20250111_015250+(1).mp4" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen=""></iframe>
 
-
-# NOAA Decomm ? 
-![https://www.nasa.gov/wp-content/uploads/2019/03/338885main_tiros-full.jpg?resize=827,1024 @GEOS-ESM](https://www.nasa.gov/wp-content/uploads/2019/03/338885main_tiros-full.jpg?resize=827,1024)
-
-#### ["_A Legacy in Orbit: NOAA Decommissions the POES Satellite Constellation_" dated **_August 20, 2025_**](https://www.nesdis.noaa.gov/news/legacy-orbit-noaa-decommissions-the-poes-satellite-constellation?fbclid=IwY2xjawMUdYBleHRuA2FlbQIxMABicmlkETBDcU9WTlJCREZRN2ZrWW5yAR6IQzec4krNbu-xceYkDD_kKohdttMvR4pr_iApGwp7oUI1LFj_-b4pWo7GdA_aem_OPRqBaBTukvStkYRclaOvg)
-@noaa i saw an article titled "_A Legacy in Orbit: NOAA Decommissions the POES Satellite Constellation_" dated **_August 20, 2025_** [FULLARTiCLE`LinK`](https://www.nesdis.noaa.gov/news/legacy-orbit-noaa-decommissions-the-poes-satellite-constellation?fbclid=IwY2xjawMUcOhleHRuA2FlbQIxMABicmlkETBDcU9WTlJCREZRN2ZrWW5yAR7h3dRIKjzt-ArdVKEVmQmkO64bvYIa4YGnKSWH6xnAIhWxDsASnGUP_SWJPg_aem__Mxh1K4hdRJgzpstAjSCAA), @nasa-jpl that was yesterday and [DeepSpaceNetwork](https://eyes.nasa.gov/apps/dsn-now/)_[HelpDesk](https://x.com/thakasartu/status/1931030520860954828) is still [NSN](https://www.nasa.gov/near-space-network/) we even share the tool [SCaN Now](https://scan-now.gsfc.nasa.gov/scan) so if theres hardware that makes random pop ups and it stops i need to know im still working my inventory task from Charles Bolden and Jamie mantel @deptofdefense @nasa-pds @nasa-jpl @nasa and want to make sure everyone is on the same page with the Decomms . I left responses on [@meta Facebook](https://www.facebook.com/profile.php?id=100084464911565) but idk who see them, usually a woman with a lot of power and i still dont trust it... 
-what i left [Workday album](https://www.facebook.com/permalink.php?story_fbid=pfbid0CKXur6CYpKv2rQZT2HU6mtgJFJM9uLLTobkktveGMBuW8xn56PWzETxiGp6emRr8l&id=100084464911565) [AirBus Boat](https://www.facebook.com/permalink.php?story_fbid=pfbid02WzgLUAQEo1825eSHrgdu7KR71RTufrqKujYxBTuCyEXqRZR44Z78r1AvrJ8Nv2REl&id=100084464911565) [JPSS](https://www.facebook.com/permalink.php?story_fbid=pfbid024FMDjGPfJfDszJkkgBmSRk8pMNZNgCESfenjotUk1HFF6b1rCN8bQaM8U3rKePHRl&id=100084464911565)
-
-[FacebookPostReads](https://www.facebook.com/permalink.php?story_fbid=pfbid02F2FS8vz5SAhPNsdNGdZoE5DFdMtNaKq1cYX7smuapBFZJwkDcXyV4ggPLHwBiBXil&id=100084464911565)  i dont want to get dinged for neglecting equipment. If this equipment is #Decommed2025 what does it mean for maintenace and tracking ? Who will bring the units back to earth ?
-
-# POES
-Polar Operational Environmental Satellite (POES)
-The Polar Operational Environmental Satellite (POES) Project is a reimbursable project for the National Oceanic and Atmospheric Administration (NOAA). The Goddard Space Flight Center (GSFC) was responsible for the construction, integration and launch of NOAA series satellites. @NASA-GISS @nasa-pds @blackgirlscode 
-
-
-
-
-## Television Infrared Observation Satellite Program
-Launch
-# TIROS-1: April 1, 1960
-The TIROS Program (Television Infrared Observation Satellite) was NASA's first experimental step to determine if satellites could be useful in the study of the Earth. [LiNK](https://science.nasa.gov/mission/tiros/)
-
-<img width="168" height="189" alt="image" src="https://github.com/user-attachments/assets/b346b0bd-159d-47be-b788-9b780eb534ca" />
-
-
-<a href="https://www.nesdis.noaa.gov/s3/styles/webp/s3/migrated/POES-Sats.JPG.webp"><img src="https://www.nesdis.noaa.gov/s3/styles/webp/s3/migrated/POES-Sats.JPG.webp" style="width:228px;height:228px;" /></a>
-<img alt="image" src="https://github.com/user-attachments/assets/831ece38-b5e7-4913-8659-39ef11a79e95" />
-
- SCaN Now! Space Communications and Navigation (SCaN) [LiNK](https://scan-now.gsfc.nasa.gov/)
-<img  alt="SCaN Now! Space Communications and Navigation (SCaN)" src="https://github.com/user-attachments/assets/cbe78e1c-a9ec-4705-84db-7848e0a5b9b1" />
+<img alt="image" src="https://github.com/user-attachments/assets/0c0a15fc-ba17-47ef-a4c0-d2627eb16df2" />
 
 
 
@@ -65,12 +47,7 @@ Due to the lapse in federal government funding, NASA is not updating this websit
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6327703e-4ddd-4262-96b1-d1766e2ecdc7" />
 
-
-[Satun;ring orbit study](https://solarsystem.nasa.gov/downloads/download_6355_1761018085.zip)
-
-![@nasa-pds @nasa-jpl @whitehouse](https://solarsystem.nasa.gov/images/casJPGFullS82/W00086580.jpg) 
-
-[W00086580.jpg](https://solarsystem.nasa.gov/raw_images/333720/?layout=hds) was taken on 2014-02-11 03:58 (PST) and received on Earth 2014-02-14 07:29 (PST). The camera was pointing toward Saturn, and the image was taken using the CL1 and CL2 filters. This image has not been validated or calibrated. A validated/calibrated image will be archived with the NASA Planetary Data System @nasa-pds you got the scary messages!!! 
+ @nasa-pds you got the scary messages!!! 
 
 
 Image Credit: NASA/JPL-Caltech/Space Science Institute
@@ -151,7 +128,37 @@ Update #12:  NOAA-15 was successfully decommissioned on August 19, 2025 on rev 4
 Update #11: This is the final reminder that NOAA-15 is scheduled to be decommissioned on August 19, 2025 from 1522 to 1537 UTC. NOAA-19 was passivated on August 13, 2025 Rev 85130 at 1655 UTC.
 
 Planet Patrol is a monitoring system for the Planetary Data System
-[View](https://nasa-pds.github.io/PlanetPatrol/) @nasa-pds @nasa-jpl @NASA-DEVELOP @blackgirlscode  @STATEOFCALiFORNIa @newshour 
+[View](https://nasa-pds.github.io/PlanetPatrol/) @nasa-pds @nasa-jpl @NASA-DEVELOP @blackgirlscode  @STATEOFCALiFORNIa 
+
+# NOAA Decomm ? @newshour  @nasa-jpl @emit-sds
+![https://www.nasa.gov/wp-content/uploads/2019/03/338885main_tiros-full.jpg?resize=827,1024 @GEOS-ESM](https://www.nasa.gov/wp-content/uploads/2019/03/338885main_tiros-full.jpg?resize=827,1024)
+
+#### ["_A Legacy in Orbit: NOAA Decommissions the POES Satellite Constellation_" dated **_August 20, 2025_**](https://www.nesdis.noaa.gov/news/legacy-orbit-noaa-decommissions-the-poes-satellite-constellation?fbclid=IwY2xjawMUdYBleHRuA2FlbQIxMABicmlkETBDcU9WTlJCREZRN2ZrWW5yAR6IQzec4krNbu-xceYkDD_kKohdttMvR4pr_iApGwp7oUI1LFj_-b4pWo7GdA_aem_OPRqBaBTukvStkYRclaOvg)
+@noaa i saw an article titled "_A Legacy in Orbit: NOAA Decommissions the POES Satellite Constellation_" dated **_August 20, 2025_** [FULLARTiCLE`LinK`](https://www.nesdis.noaa.gov/news/legacy-orbit-noaa-decommissions-the-poes-satellite-constellation?fbclid=IwY2xjawMUcOhleHRuA2FlbQIxMABicmlkETBDcU9WTlJCREZRN2ZrWW5yAR7h3dRIKjzt-ArdVKEVmQmkO64bvYIa4YGnKSWH6xnAIhWxDsASnGUP_SWJPg_aem__Mxh1K4hdRJgzpstAjSCAA), @nasa-jpl that was yesterday and [DeepSpaceNetwork](https://eyes.nasa.gov/apps/dsn-now/)_[HelpDesk](https://x.com/thakasartu/status/1931030520860954828) is still [NSN](https://www.nasa.gov/near-space-network/) we even share the tool [SCaN Now](https://scan-now.gsfc.nasa.gov/scan) so if theres hardware that makes random pop ups and it stops i need to know im still working my inventory task from Charles Bolden and Jamie mantel @deptofdefense @nasa-pds @nasa-jpl @nasa and want to make sure everyone is on the same page with the Decomms . I left responses on [@meta Facebook](https://www.facebook.com/profile.php?id=100084464911565) but idk who see them, usually a woman with a lot of power and i still dont trust it... 
+what i left [Workday album](https://www.facebook.com/permalink.php?story_fbid=pfbid0CKXur6CYpKv2rQZT2HU6mtgJFJM9uLLTobkktveGMBuW8xn56PWzETxiGp6emRr8l&id=100084464911565) [AirBus Boat](https://www.facebook.com/permalink.php?story_fbid=pfbid02WzgLUAQEo1825eSHrgdu7KR71RTufrqKujYxBTuCyEXqRZR44Z78r1AvrJ8Nv2REl&id=100084464911565) [JPSS](https://www.facebook.com/permalink.php?story_fbid=pfbid024FMDjGPfJfDszJkkgBmSRk8pMNZNgCESfenjotUk1HFF6b1rCN8bQaM8U3rKePHRl&id=100084464911565)
+
+[FacebookPostReads](https://www.facebook.com/permalink.php?story_fbid=pfbid02F2FS8vz5SAhPNsdNGdZoE5DFdMtNaKq1cYX7smuapBFZJwkDcXyV4ggPLHwBiBXil&id=100084464911565)  i dont want to get dinged for neglecting equipment. If this equipment is #Decommed2025 what does it mean for maintenace and tracking ? Who will bring the units back to earth ?
+
+# POES
+Polar Operational Environmental Satellite (POES)
+The Polar Operational Environmental Satellite (POES) Project is a reimbursable project for the National Oceanic and Atmospheric Administration (NOAA). The Goddard Space Flight Center (GSFC) was responsible for the construction, integration and launch of NOAA series satellites. @NASA-GISS @nasa-pds @blackgirlscode 
+
+
+
+
+## Television Infrared Observation Satellite Program
+Launch
+# TIROS-1: April 1, 1960
+The TIROS Program (Television Infrared Observation Satellite) was NASA's first experimental step to determine if satellites could be useful in the study of the Earth. [LiNK](https://science.nasa.gov/mission/tiros/)
+
+<img width="168" height="189" alt="image" src="https://github.com/user-attachments/assets/b346b0bd-159d-47be-b788-9b780eb534ca" />
+
+
+<a href="https://www.nesdis.noaa.gov/s3/styles/webp/s3/migrated/POES-Sats.JPG.webp"><img src="https://www.nesdis.noaa.gov/s3/styles/webp/s3/migrated/POES-Sats.JPG.webp" style="width:228px;height:228px;" /></a>
+<img alt="image" src="https://github.com/user-attachments/assets/831ece38-b5e7-4913-8659-39ef11a79e95" />
+
+ SCaN Now! Space Communications and Navigation (SCaN) [LiNK](https://scan-now.gsfc.nasa.gov/)
+<img  alt="SCaN Now! Space Communications and Navigation (SCaN)" src="https://github.com/user-attachments/assets/cbe78e1c-a9ec-4705-84db-7848e0a5b9b1" />
 
 
 
@@ -791,15 +798,11 @@ Dear MAyor (Karen Bass)
 
 
 
-## Proposition 64: The Adult Use of Marijuana Act
-Overview [The California Cannabis Hemp Initiative of 2014](https://lao.ca.gov/ballot/2014/140072.aspx)
-Effective November 9, 2016, Proposition 64 legalizes specified personal use and cultivation of marijuana for adults 21 years of age or older; reduces criminal penalties for specified marijuana-related offenses for adults and juveniles; and authorizes resentencing or dismissal and sealing of prior, eligible marijuana-related convictions. The proposition includes provisions on regulation, licensing, and taxation of legalized use. [California Courts](https://www.courts.ca.gov/prop64.htm) [Proposition 64 and Responsible Adult Use of Marijuana LA_COUNTY California](http://publichealth.lacounty.gov/sapc/public/proposition64.htm) [MEDICAL MARIJUANA IDENTIFICATION CARD PROGRAM](http://publichealth.lacounty.gov/docs/MMIP-FLYER.pdf) [Proposition 64 (Marijuana Offenses) FAQ [SanDieago]](https://www.sandiegocounty.gov/content/sdc/public_defender/prop_64_faq.html) [Proposition 64 - Personal Non-Medical Use of Cannabis Brea California](https://www.ci.brea.ca.us/1376/Prop-64-FAQ) [Prop 64 FAQs](https://www.santa-ana.org/prop-64-faqs/) [San Francisco Prop64 FAQ](https://sfpublicdefender.org/services/prop-64-faq/) When does Proposition 64 take effect? Proposition 64 took effect November 9, 2016. You can and should seek relief right away. [prop64](https://images.procon.org/wp-content/uploads/sites/16/ca-prop-64-marijuana.pdf) [Marijuana Initiative Enters Circulation](https://www.sos.ca.gov/administration/news-releases-and-advisories/2014-news-releases-and-advisories/db14-011) [Medicinal Cannabis: History, Pharmacology, And Implications for the Acute Care Setting](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5312634/) [Congress quietly ends federal government’s ban on medical marijuana](https://www.latimes.com/nation/la-na-medical-pot-20141216-story.html)
+[Satun;ring orbit study](https://solarsystem.nasa.gov/downloads/download_6355_1761018085.zip)
 
-[DOWNLOAD~MARIJUANA LEGALIZATION. INITIATIVE STATUTE Proposition64](https://slper.senate.ca.gov/sites/slper.senate.ca.gov/files/Background%20Supplemental%20-%20Prop%2064%20Text.pdf)
+![@nasa-pds @nasa-jpl @whitehouse](https://solarsystem.nasa.gov/images/casJPGFullS82/W00086580.jpg) 
 
-[Gangstarr - Moment_0f_Truth FULL ALBUM](https://youtu.be/b1EbbT7Xrgs?si=bM1BGbtQnU9YUgSc) [Shaakira_Gathers_iLoveu](https://ricothaka.github.io/)
-
-[Heath cliff and the Cadillac cats episodes + Heathcliff (animated flick)](https://archive.org/details/HeathcliffanimatedFlick)
+[W00086580.jpg](https://solarsystem.nasa.gov/raw_images/333720/?layout=hds) was taken on 2014-02-11 03:58 (PST) and received on Earth 2014-02-14 07:29 (PST). The camera was pointing toward Saturn, and the image was taken using the CL1 and CL2 filters. This image has not been validated or calibrated. A validated/calibrated image will be archived with the NASA Planetary Data System
 
 
 ## WildFireS
@@ -908,6 +911,11 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
+
+
+
+
 
 
 
