@@ -22,6 +22,24 @@ Congressional deliberations about the National Aeronautics and Space Administrat
 <img alt="image" src="https://gavrt.lewiscenter.org/images/footer-logo.png" />
 <img alt="image" src="https://github.com/user-attachments/assets/a83d7a95-8b2b-463a-ba74-2ad1d96fe9d1" />
 
+[Alaska Awaits Response from FEMA in the Aftermath of Major Floods](https://eos.org/research-and-developments/alaska-awaits-response-from-fema-in-the-aftermath-of-major-floods) 
+
+# For Review
+## Rogue [NASA](https://www.congress.gov/crs-product/R43419)
+[https://bsky.app/profile/roguenasa.altgov.info](https://bsky.app/profile/roguenasa.altgov.info)
+[@roguenasa.altgov.info](@roguenasa.altgov.info)
+75.3K followers
+432 following
+561 posts
+Not an official NASA account. Come for the facts, stay for the snark.🥄
+
+Same team from Twitter but with more gray hairs. 🚀🛰️🧪🔭
+
+
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/e1f90f35-9e23-4757-a52c-efdc737ba501" />
+
 `https://wiki.earthdata.nasa.gov/login.action?sso=false`
 [https://wiki.earthdata.nasa.gov/login.action?sso=false](https://wiki.earthdata.nasa.gov/login.action?sso=false)
 
@@ -50,6 +68,7 @@ Due to the lapse in federal government funding, [@NASA-JPL](https://www.jpl.nasa
 Due to the lapse in federal government funding, NASA is not updating this website, and some data/information may be temporarily unavailable. We sincerely regret this inconvenience.
 Regards,
 The FIRMS [Team](https://www.earthdata.nasa.gov/data/projects/lance/people)
+[https://www.earthdata.nasa.gov/data/projects/lance/people](https://www.earthdata.nasa.gov/data/projects/lance/people) @nasa-pds
 [Firms](https://firms.modaps.eosdis.nasa.gov/map/#t:tsd;d:2025-10-16..2025-10-22,2025-10-21;l:fires_all,countries,landsat_human,earth;@-118.21,33.86,9.08z) is current 
 [https://eyes.nasa.gov/apps/dsn-now/dsn.html](https://eyes.nasa.gov/apps/dsn-now/dsn.html) 
 [https://www.jpl.nasa.gov/missions/dsn/](https://www.jpl.nasa.gov/missions/dsn/)
@@ -88,23 +107,7 @@ Trace complete.
 C:\Users\Volunteer>
 ```
 
-[Alaska Awaits Response from FEMA in the Aftermath of Major Floods](https://eos.org/research-and-developments/alaska-awaits-response-from-fema-in-the-aftermath-of-major-floods) 
 
-# For Review
-## Rogue [NASA](https://www.congress.gov/crs-product/R43419)
-[https://bsky.app/profile/roguenasa.altgov.info](https://bsky.app/profile/roguenasa.altgov.info)
-[@roguenasa.altgov.info](@roguenasa.altgov.info)
-75.3K followers
-432 following
-561 posts
-Not an official NASA account. Come for the facts, stay for the snark.🥄
-
-Same team from Twitter but with more gray hairs. 🚀🛰️🧪🔭
-
-
-
-
-<img  alt="image" src="https://github.com/user-attachments/assets/e1f90f35-9e23-4757-a52c-efdc737ba501" />
 
 
 # @NASA-JPL @UCLA @NASA_PDS @NASA-DEVELOP
@@ -1033,6 +1036,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
