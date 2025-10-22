@@ -13,7 +13,23 @@ permalink: /changelog
 [Current `MagMoB`](https://x.com/i/broadcasts/1djGXWXYBdeKZ)
 The Chemical Brothers -
 Dig Your Own Hole ([Full Album](https://youtu.be/2UafeQIkj5c?t=450)) 
-@BLACKGiRLSCODE its :: [Double Trouble · The Roots · Mos Def](https://youtu.be/AmSUb5H5G0s?t=56) re:[presentation](https://en.wikipedia.org/wiki/Presentation) bc its [Man's World](https://youtu.be/VEDBFzDnIRM?t=88)! iThinkiNeed [@BlackGirlsCode 's Wisdom](https://youtu.be/btYlWphnfbE?si=4wSnR6QTZoRFDP02) on a [MundAy](https://youtu.be/w3hpOokLXPw?si=oQU6WNHBtlIMFuZZ)
+@BLACKGiRLSCODE its :: [Double Trouble · The Roots · Mos Def](https://youtu.be/AmSUb5H5G0s?t=56) re:[presentation](https://en.wikipedia.org/wiki/Presentation) bc its [Man's World](https://youtu.be/VEDBFzDnIRM?t=88)! iThinkiNeed [@BlackGirlsCode 's Wisdom](https://youtu.be/btYlWphnfbE?si=4wSnR6QTZoRFDP02) on a [MundAy](https://youtu.be/w3hpOokLXPw?si=oQU6WNHBtlIMFuZZ) [Messij](https://www.youtube.com/watch?v=4uQnXvRndcE)
+
+
+# @NASA-JPL @UCLA @NASA_PDS @NASA-DEVELOP
+I had some links i put in my [MarsBlog](https://rashardgds.github.io/2025/04/22/Marsblogv2.html) long ago when i was doing as [Robin Obrien](https://www.msss.com/) asked that would identify me and make my reasearch palusable. I did not know about exoplanets at that point... however with all the [confusion](https://en.wikipedia.org/wiki/January_6_United_States_Capitol_attack), I was assigned ActiveMission for [MRO](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/), [JUNO](https://www.missionjuno.swri.edu/), and [Cassini](https://www.planetary.org/space-missions/cassini) . . . Jamie told me i would have to work for money. That ment communicating with [HR](https://www.jpl.jobs/accessibility), then he bounced... and Im on my own.. While everything with Erika falls apart. I was reading backlog and saw that [President Trump]() 
+[AWS outage disrupts major websites overnight, Amazon says most are coming back online - @kare11 ](https://www.youtube.com/watch?v=JZWI8sqW2Y0)
+[Amazon internet outage: What has happened and who is affected? -  Jennifer O'Keeffe](https://www.insidermedia.com/news/national/amazon-internet-outage-what-has-happened-and-who-is-affected)
+
+CloudFront is Amazon's Content Delivery Network (CDN) that caches and delivers data like static web content, videos, and APIs to end-users from edge locations closer to them, reducing latency and improving performance.
+[StatusGator](https://statusgator.com/services/amazon-web-services/amazon-cloudfront) 
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid037RWaUZ9aGidDPHgXSrTGcKoi5PWk1Hnn6a7FxMPsxXLqWRmhvEYaqM6Cygwe7UKkl%26id%3D100084464911565&show_text=false&width=500" width="500" height="578" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+https://health.aws.amazon.com/health/status President Donald J. Trump Office of the Governor of Pennsylvania Governor Newsom https://d34w7g4gy10iej.cloudfront.net/.../DOD_110409447... Los Angeles Press Club Los Angeles Times alot of vids are hosted with Amazon Web Services Immigration And Customs Enforcement (ICE) i dont know what you guys are doing however NASA/JPL Physical Oceanography Data Center is in County of Los Angeles Congressmember Karen Bass and we may be able to contribute to businesses and organizations in need... Karen Bass do you want #NAsA or #Spectrum for #DTLAWiFi ? NASA Technology -#rashard NASA Mars https://d34w7g4gy10iej.cloudfront.net/.../DOD_107547647... <~ Vandenberg Space Force Base
+
+[https://www.jpl.nasa.gov/news/nasa-led-study-pinpoints-areas-sinking-rising-along-california-coast/ @nasa-jpl @cityofloangeles](https://www.jpl.nasa.gov/news/nasa-led-study-pinpoints-areas-sinking-rising-along-california-coast/)
+<img  alt="image" src="https://github.com/user-attachments/assets/0a76add7-6622-418e-b49b-8e82687c04c8" />
 
 historic @cityoflosangeles for [KarenBass](https://mayor.lacity.gov/sites/g/files/wph2066/files/styles/xlarge_hero_image_992x665_/public/2025-07/137A3381ACROP%20%282%29-01.png.webp?itok=li4gImTm) @whitehouse 
 
@@ -663,6 +679,21 @@ BASEMAP : VIIRS/NPP Gap-Filled Lunar BRDF-Adjusted Nighttime Lights Daily L3 Glo
 [Portishead - dummy](https://youtu.be/cXf2bvfSKOs)
 
 
+<h1>D OD I NSTRUCTION 8510.01
+RISK MANAGEMENT F RAMEWORK FOR D OD S YSTEMS</h1>
+<object data="https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/851001p.pdf" type="application/pdf" width="550" height="400">
+<p>You don't have a PDF plugin, but you can <a href="https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/851001p.pdf">download the PDF file.</a></p></object>
+
+<h1>Los Angeles Emergency Operations Plan </h1>
+<object data="https://emergency..gov/sites/g/files/wph1791/files/2023-10/Emergency%20Operations%20Base%20Plan_2023.pdf" width="550" height="400">
+<p>You don't have a PDF plugin, but you can <a href="https://emergency..gov/sites/g/files/wph1791/files/2023-10/Emergency%20Operations%20Base%20Plan_2023.pdf">download the PDF file.</a></p></object>
+```
+<img alt="image" src="https://github.com/user-attachments/assets/cd83fdf1-064c-42b7-a0ae-d20e92625685" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e14a323b-827d-4109-9f46-c4f7227147e3" />
+
+[`The U.S. Space Force was established on Dec. 20, 2019`](https://www.defense.gov/News/News-Stories/article/article/2046035/trump-signs-law-establishing-us-space-force/), creating the first new branch of the armed services since 1947
+
+
 The U.S. government is closed. However, because the information this website provides is necessary to protect life and property, this site will be updated and maintained during the federal government shutdown. For the latest forecasts and critical weather information, visit www.weather.gov.To learn more, visit commerce.gov. Automated data processing will continue to populate this site provided services do not require manual intervention. @nasa-jpl @nasa-develop
 <img  alt="image" src="https://github.com/user-attachments/assets/470a016d-1765-41d1-896d-a7fc9e7e316a" />
 
@@ -911,6 +942,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
