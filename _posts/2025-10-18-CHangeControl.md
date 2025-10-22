@@ -17,7 +17,9 @@ Dig Your Own Hole ([Full Album](https://youtu.be/2UafeQIkj5c?t=450))
 
 ## NASA Appropriations and Authorizations: At a Glance
 [https://www.congress.gov/crs-product/R43419](https://www.congress.gov/crs-product/R43419)
-Congressional deliberations about the National Aeronautics and Space Administration (NASA) often focus on the availability of funding. This product provides data on past and current NASA appropriations, as well as the President's FY2026 budget request and congressional action on FY2026 appropriations and authorizations of appropriations.
+Congressional deliberations about the National Aeronautics and Space Administration (NASA) often focus on the availability of funding. This product provides data on past and current NASA appropriations, as well as the President's FY2026 budget request and congressional action on FY2026 appropriations and authorizations of appropriations. 
+
+<img alt="image" src="https://gavrt.lewiscenter.org/images/footer-logo.png" />
 <img alt="image" src="https://github.com/user-attachments/assets/a83d7a95-8b2b-463a-ba74-2ad1d96fe9d1" />
 
 Due to the lapse in federal government funding, [@NASA-JPL](https://www.jpl.nasa.gov/missions/dsn/) is not updating this website.
@@ -999,6 +1001,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
