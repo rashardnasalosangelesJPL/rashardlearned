@@ -35,6 +35,13 @@ Due to the lapse in federal government funding, [@NASA-JPL](https://www.jpl.nasa
 [https://eyes.nasa.gov/apps/dsn-now/dsn.html](https://eyes.nasa.gov/apps/dsn-now/dsn.html) 
 [https://www.jpl.nasa.gov/missions/dsn/](https://www.jpl.nasa.gov/missions/dsn/)
 
+like this fire near [Victorville](https://firms.modaps.eosdis.nasa.gov/map/#t:tsd;d:24hrs;l:fires_all,countries,earth;@-117.40,34.40,9.67z)
+
+`34.51248	-117.38805	340.24	0.43	0.38	2025-10-22 13:38:00	N21	VIIRS	n	2.0NRT	304.46	2.88	D`
+current time accordint to the share place - [4:01pm](https://www.time.gov/)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/1b3140b6-2c21-4e24-bed5-fe9ef3355277" />
+
 <img  alt="image" src="https://github.com/user-attachments/assets/e84747b4-aca4-405e-af51-f6406902606a" />
 
 @NAsa-jpl @atfweb from [SHARE_DTLA](https://downtownla.com/go/share) [425 Broadway](https://locator.lacounty.gov/lac/Location/3174383/share-downtown) [LosAngeles](https://www.yelp.com/biz/sos-share-downtown-los-angeles) , I have been calling places on this list for days, all of a sudden i get another unprofessional call center, I think the calls are being forwarded or someone has taken over the facility @emit-sds I really got kidnapped and this is unfair playboy is activly trying to assasinate me, they chipped a part of my tooth off for a tag downtown! [https://www.univoip.com/](https://www.univoip.com/) is the provider and i dont know if they are stable, the whole operation could run off a cellphone @CityofLosAngeles [Karen Bass](https://igs.berkeley.edu/people/karen-bass) 
@@ -1007,6 +1014,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
