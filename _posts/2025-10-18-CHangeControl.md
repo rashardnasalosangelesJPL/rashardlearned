@@ -6,7 +6,7 @@ tags: work code jpl LA frontpage sub
 title: CHANGELOG @weather-gov @CityOfLosAngeles @Nasa-jpl
 image: photojournal2.PNG
 author: "RashardKelly @nasa-jpl"
-date:   2025-10-21 16:51:06 
+date:   2025-10-22 16:51:06 
 permalink: /changelog
 ---
 
@@ -22,6 +22,20 @@ Congressional deliberations about the National Aeronautics and Space Administrat
 <img alt="image" src="https://gavrt.lewiscenter.org/images/footer-logo.png" />
 <img alt="image" src="https://github.com/user-attachments/assets/a83d7a95-8b2b-463a-ba74-2ad1d96fe9d1" />
 
+`https://wiki.earthdata.nasa.gov/login.action?sso=false`
+[https://wiki.earthdata.nasa.gov/login.action?sso=false](https://wiki.earthdata.nasa.gov/login.action?sso=false)
+
+This site can’t be reachedThe connection was reset.
+Try:
+
+Checking the connection
+Checking the proxy and the firewall
+Running Windows Network Diagnostics
+ERR_CONNECTION_RESET
+
+<img  alt="image" src="https://github.com/user-attachments/assets/1078e4d5-5615-4373-9e32-0f91626368ef" />
+
+
 Due to the lapse in federal government funding, [@NASA-JPL](https://www.jpl.nasa.gov/missions/dsn/) is not updating this website.
 @STATEOF[CALiFORNiA]() [Goldstone](https://www.gdscc.nasa.gov/index.php/tours/) seemed unstable but and that makes the site look current... [Firms](https://firms.modaps.eosdis.nasa.gov/map/#t:tsd;d:2025-10-16..2025-10-22,2025-10-21;l:fires_all,countries,landsat_human,earth;@-118.21,33.86,9.08z) is current as well
 [https://eyes.nasa.gov/apps/dsn-now/dsn.html](https://eyes.nasa.gov/apps/dsn-now/dsn.html) 
@@ -29,9 +43,14 @@ Due to the lapse in federal government funding, [@NASA-JPL](https://www.jpl.nasa
 
 <img alt="image" src="https://github.com/user-attachments/assets/af7fba41-5244-4290-9417-30380f09a60e" />
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/01365909-f48a-40a5-8725-0611bec58292" />
+
 
 # Nasa Firms
-[Firms](https://firms.modaps.eosdis.nasa.gov/map/#t:tsd;d:2025-10-16..2025-10-22,2025-10-21;l:fires_all,countries,landsat_human,earth;@-118.21,33.86,9.08z) is current as well
+Due to the lapse in federal government funding, NASA is not updating this website, and some data/information may be temporarily unavailable. We sincerely regret this inconvenience.
+Regards,
+The FIRMS [Team](https://www.earthdata.nasa.gov/data/projects/lance/people)
+[Firms](https://firms.modaps.eosdis.nasa.gov/map/#t:tsd;d:2025-10-16..2025-10-22,2025-10-21;l:fires_all,countries,landsat_human,earth;@-118.21,33.86,9.08z) is current 
 [https://eyes.nasa.gov/apps/dsn-now/dsn.html](https://eyes.nasa.gov/apps/dsn-now/dsn.html) 
 [https://www.jpl.nasa.gov/missions/dsn/](https://www.jpl.nasa.gov/missions/dsn/)
 
@@ -1014,6 +1033,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
