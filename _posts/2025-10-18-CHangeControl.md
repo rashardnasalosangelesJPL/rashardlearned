@@ -23,7 +23,7 @@ Congressional deliberations about the National Aeronautics and Space Administrat
 <img alt="image" src="https://github.com/user-attachments/assets/a83d7a95-8b2b-463a-ba74-2ad1d96fe9d1" />
 
 Due to the lapse in federal government funding, [@NASA-JPL](https://www.jpl.nasa.gov/missions/dsn/) is not updating this website.
-@STATEOF[CALiFORNiA]() [Goldstone](https://www.gdscc.nasa.gov/index.php/tours/) seemed 
+@STATEOF[CALiFORNiA]() [Goldstone](https://www.gdscc.nasa.gov/index.php/tours/) seemed unstable but and that makes the site look current... [Firms](https://firms.modaps.eosdis.nasa.gov/map/#t:tsd;d:2025-10-16..2025-10-22,2025-10-21;l:fires_all,countries,landsat_human,earth;@-118.21,33.86,9.08z) is current as well
 [https://eyes.nasa.gov/apps/dsn-now/dsn.html](https://eyes.nasa.gov/apps/dsn-now/dsn.html) 
 [https://www.jpl.nasa.gov/missions/dsn/](https://www.jpl.nasa.gov/missions/dsn/)
 
@@ -31,6 +31,12 @@ Due to the lapse in federal government funding, [@NASA-JPL](https://www.jpl.nasa
 
 
 # Nasa Firms
+[Firms](https://firms.modaps.eosdis.nasa.gov/map/#t:tsd;d:2025-10-16..2025-10-22,2025-10-21;l:fires_all,countries,landsat_human,earth;@-118.21,33.86,9.08z) is current as well
+[https://eyes.nasa.gov/apps/dsn-now/dsn.html](https://eyes.nasa.gov/apps/dsn-now/dsn.html) 
+[https://www.jpl.nasa.gov/missions/dsn/](https://www.jpl.nasa.gov/missions/dsn/)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/e84747b4-aca4-405e-af51-f6406902606a" />
+
 @NAsa-jpl @atfweb from [SHARE_DTLA](https://downtownla.com/go/share) [425 Broadway](https://locator.lacounty.gov/lac/Location/3174383/share-downtown) [LosAngeles](https://www.yelp.com/biz/sos-share-downtown-los-angeles) , I have been calling places on this list for days, all of a sudden i get another unprofessional call center, I think the calls are being forwarded or someone has taken over the facility @emit-sds I really got kidnapped and this is unfair playboy is activly trying to assasinate me, they chipped a part of my tooth off for a tag downtown! [https://www.univoip.com/](https://www.univoip.com/) is the provider and i dont know if they are stable, the whole operation could run off a cellphone @CityofLosAngeles [Karen Bass](https://igs.berkeley.edu/people/karen-bass) 
 
 ```shell
@@ -1001,6 +1007,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
