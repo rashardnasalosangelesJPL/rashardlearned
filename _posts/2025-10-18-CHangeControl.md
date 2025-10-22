@@ -6,14 +6,126 @@ tags: work code jpl LA frontpage sub
 title: CHANGELOG @weather-gov @CityOfLosAngeles @Nasa-jpl
 image: photojournal2.PNG
 author: "RashardKelly @nasa-jpl"
-date:   2025-10-21 16:51:06 
+date:   2025-10-22 16:51:06 
 permalink: /changelog
 ---
 
 [Current `MagMoB`](https://x.com/i/broadcasts/1djGXWXYBdeKZ)
 The Chemical Brothers -
 Dig Your Own Hole ([Full Album](https://youtu.be/2UafeQIkj5c?t=450)) 
-@BLACKGiRLSCODE its :: [Double Trouble · The Roots · Mos Def](https://youtu.be/AmSUb5H5G0s?t=56) re:[presentation](https://en.wikipedia.org/wiki/Presentation) bc its [Man's World](https://youtu.be/VEDBFzDnIRM?t=88)! iThinkiNeed [@BlackGirlsCode 's Wisdom](https://youtu.be/btYlWphnfbE?si=4wSnR6QTZoRFDP02) on a [MundAy](https://youtu.be/w3hpOokLXPw?si=oQU6WNHBtlIMFuZZ)
+@BLACKGiRLSCODE its :: [Double Trouble · The Roots · Mos Def](https://youtu.be/AmSUb5H5G0s?t=56) re:[presentation](https://en.wikipedia.org/wiki/Presentation) bc its [Man's World](https://youtu.be/VEDBFzDnIRM?t=88)! iThinkiNeed [@BlackGirlsCode 's Wisdom](https://youtu.be/btYlWphnfbE?si=4wSnR6QTZoRFDP02) on a [MundAy](https://youtu.be/w3hpOokLXPw?si=oQU6WNHBtlIMFuZZ) [Messij](https://www.youtube.com/watch?v=4uQnXvRndcE)
+
+## NASA Appropriations and Authorizations: At a Glance
+[https://www.congress.gov/crs-product/R43419](https://www.congress.gov/crs-product/R43419)
+Congressional deliberations about the National Aeronautics and Space Administration (NASA) often focus on the availability of funding. This product provides data on past and current NASA appropriations, as well as the President's FY2026 budget request and congressional action on FY2026 appropriations and authorizations of appropriations. 
+
+<img alt="image" src="https://gavrt.lewiscenter.org/images/footer-logo.png" />
+<img alt="image" src="https://github.com/user-attachments/assets/a83d7a95-8b2b-463a-ba74-2ad1d96fe9d1" />
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid021UdKvDsfbGEc3hmGPmTYPMYZTsyfKQdaUD1CCcjdtpZckNi9VGc3ASM81wb7koEgl%26id%3D100084464911565&show_text=true&width=500" width="500" height="430" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+[Alaska Awaits Response from FEMA in the Aftermath of Major Floods](https://eos.org/research-and-developments/alaska-awaits-response-from-fema-in-the-aftermath-of-major-floods) 
+
+# For Review
+## Rogue [NASA](https://www.congress.gov/crs-product/R43419)
+[https://bsky.app/profile/roguenasa.altgov.info](https://bsky.app/profile/roguenasa.altgov.info)
+[@roguenasa.altgov.info](@roguenasa.altgov.info)
+75.3K followers
+432 following
+561 posts
+Not an official NASA account. Come for the facts, stay for the snark.🥄
+
+Same team from Twitter but with more gray hairs. 🚀🛰️🧪🔭
+
+
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/e1f90f35-9e23-4757-a52c-efdc737ba501" />
+
+`https://wiki.earthdata.nasa.gov/login.action?sso=false`
+[https://wiki.earthdata.nasa.gov/login.action?sso=false](https://wiki.earthdata.nasa.gov/login.action?sso=false)
+
+This site can’t be reachedThe connection was reset.
+Try:
+
+Checking the connection
+Checking the proxy and the firewall
+Running Windows Network Diagnostics
+ERR_CONNECTION_RESET
+
+<img  alt="image" src="https://github.com/user-attachments/assets/1078e4d5-5615-4373-9e32-0f91626368ef" />
+
+
+Due to the lapse in federal government funding, [@NASA-JPL](https://www.jpl.nasa.gov/missions/dsn/) is not updating this website.
+@STATEOF[CALiFORNiA]() [Goldstone](https://www.gdscc.nasa.gov/index.php/tours/) seemed unstable but and that makes the site look current... [Firms](https://firms.modaps.eosdis.nasa.gov/map/#t:tsd;d:2025-10-16..2025-10-22,2025-10-21;l:fires_all,countries,landsat_human,earth;@-118.21,33.86,9.08z) is current as well
+[https://eyes.nasa.gov/apps/dsn-now/dsn.html](https://eyes.nasa.gov/apps/dsn-now/dsn.html) 
+[https://www.jpl.nasa.gov/missions/dsn/](https://www.jpl.nasa.gov/missions/dsn/)
+
+<img alt="image" src="https://github.com/user-attachments/assets/af7fba41-5244-4290-9417-30380f09a60e" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/01365909-f48a-40a5-8725-0611bec58292" />
+
+
+# Nasa Firms
+Due to the lapse in federal government funding, NASA is not updating this website, and some data/information may be temporarily unavailable. We sincerely regret this inconvenience.
+Regards,
+The FIRMS [Team](https://www.earthdata.nasa.gov/data/projects/lance/people)
+[https://www.earthdata.nasa.gov/data/projects/lance/people](https://www.earthdata.nasa.gov/data/projects/lance/people) @nasa-pds
+[Firms](https://firms.modaps.eosdis.nasa.gov/map/#t:tsd;d:2025-10-16..2025-10-22,2025-10-21;l:fires_all,countries,landsat_human,earth;@-118.21,33.86,9.08z) is current 
+[https://eyes.nasa.gov/apps/dsn-now/dsn.html](https://eyes.nasa.gov/apps/dsn-now/dsn.html) 
+[https://www.jpl.nasa.gov/missions/dsn/](https://www.jpl.nasa.gov/missions/dsn/)
+
+like this fire near [Victorville](https://firms.modaps.eosdis.nasa.gov/map/#t:tsd;d:24hrs;l:fires_all,countries,earth;@-117.40,34.40,9.67z)
+
+`34.51248	-117.38805	340.24	0.43	0.38	2025-10-22 13:38:00	N21	VIIRS	n	2.0NRT	304.46	2.88	D`
+current time accordint to the share place - [4:01pm](https://www.time.gov/)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/1b3140b6-2c21-4e24-bed5-fe9ef3355277" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/e84747b4-aca4-405e-af51-f6406902606a" />
+
+@NAsa-jpl @atfweb from [SHARE_DTLA](https://downtownla.com/go/share) [425 Broadway](https://locator.lacounty.gov/lac/Location/3174383/share-downtown) [LosAngeles](https://www.yelp.com/biz/sos-share-downtown-los-angeles) , I have been calling places on this list for days, all of a sudden i get another unprofessional call center, I think the calls are being forwarded or someone has taken over the facility @emit-sds I really got kidnapped and this is unfair playboy is activly trying to assasinate me, they chipped a part of my tooth off for a tag downtown! [https://www.univoip.com/](https://www.univoip.com/) is the provider and i dont know if they are stable, the whole operation could run off a cellphone @CityofLosAngeles [Karen Bass](https://igs.berkeley.edu/people/karen-bass) 
+
+```shell
+Microsoft Windows [Version 10.0.19045.6456]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\Volunteer>tracert univoip.com
+
+Tracing route to univoip.com [199.60.103.38]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1
+  2     1 ms    34 ms    43 ms  vcg10.lsaj01-ca.us.windstream.net [40.137.251.13]
+  3    22 ms    62 ms    23 ms  h12.48.134.40.static.ip.windstream.net [40.134.48.12]
+  4    22 ms    27 ms    34 ms  ae11-15.pe02.lsaj01-ca.us.windstream.net [74.124.244.106]
+  5    32 ms    21 ms    22 ms  ae6.cr04.lsaj01-ca.us.windstream.net [169.130.164.250]
+  6     *        *        *     Request timed out.
+  7    22 ms    39 ms    22 ms  141.101.72.46
+  8    26 ms    23 ms    22 ms  199.60.103.38
+
+Trace complete.
+
+C:\Users\Volunteer>
+```
+
+
+
+
+# @NASA-JPL @UCLA @NASA_PDS @NASA-DEVELOP
+I had some links i put in my [MarsBlog](https://rashardgds.github.io/2025/04/22/Marsblogv2.html) long ago when i was doing as [Robin Obrien](https://www.msss.com/) asked that would identify me and make my reasearch palusable. I did not know about exoplanets at that point... however with all the [confusion](https://en.wikipedia.org/wiki/January_6_United_States_Capitol_attack), I was assigned ActiveMission for [MRO](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/), [JUNO](https://www.missionjuno.swri.edu/), and [Cassini](https://www.planetary.org/space-missions/cassini) . . . Jamie told me i would have to work for money. That ment communicating with [HR](https://www.jpl.jobs/accessibility), then he bounced... and Im on my own.. While everything with Erika falls apart. I was reading backlog and saw that [President Trump]() 
+[AWS outage disrupts major websites overnight, Amazon says most are coming back online - @kare11 ](https://www.youtube.com/watch?v=JZWI8sqW2Y0)
+[Amazon internet outage: What has happened and who is affected? -  Jennifer O'Keeffe](https://www.insidermedia.com/news/national/amazon-internet-outage-what-has-happened-and-who-is-affected)
+
+CloudFront is Amazon's Content Delivery Network (CDN) that caches and delivers data like static web content, videos, and APIs to end-users from edge locations closer to them, reducing latency and improving performance.
+[StatusGator](https://statusgator.com/services/amazon-web-services/amazon-cloudfront) 
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid037RWaUZ9aGidDPHgXSrTGcKoi5PWk1Hnn6a7FxMPsxXLqWRmhvEYaqM6Cygwe7UKkl%26id%3D100084464911565&show_text=false&width=500" width="500" height="578" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+https://health.aws.amazon.com/health/status President Donald J. Trump Office of the Governor of Pennsylvania Governor Newsom https://d34w7g4gy10iej.cloudfront.net/.../DOD_110409447... Los Angeles Press Club Los Angeles Times alot of vids are hosted with Amazon Web Services Immigration And Customs Enforcement (ICE) i dont know what you guys are doing however NASA/JPL Physical Oceanography Data Center is in County of Los Angeles Congressmember Karen Bass and we may be able to contribute to businesses and organizations in need... Karen Bass do you want #NAsA or #Spectrum for #DTLAWiFi ? NASA Technology -#rashard NASA Mars https://d34w7g4gy10iej.cloudfront.net/.../DOD_107547647... <~ Vandenberg Space Force Base
+
+[https://www.jpl.nasa.gov/news/nasa-led-study-pinpoints-areas-sinking-rising-along-california-coast/ @nasa-jpl @cityofloangeles](https://www.jpl.nasa.gov/news/nasa-led-study-pinpoints-areas-sinking-rising-along-california-coast/)
+<img  alt="image" src="https://github.com/user-attachments/assets/0a76add7-6622-418e-b49b-8e82687c04c8" />
 
 historic @cityoflosangeles for [KarenBass](https://mayor.lacity.gov/sites/g/files/wph2066/files/styles/xlarge_hero_image_992x665_/public/2025-07/137A3381ACROP%20%282%29-01.png.webp?itok=li4gImTm) @whitehouse 
 
@@ -663,6 +775,21 @@ BASEMAP : VIIRS/NPP Gap-Filled Lunar BRDF-Adjusted Nighttime Lights Daily L3 Glo
 [Portishead - dummy](https://youtu.be/cXf2bvfSKOs)
 
 
+<h1>D OD I NSTRUCTION 8510.01
+RISK MANAGEMENT F RAMEWORK FOR D OD S YSTEMS</h1>
+<object data="https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/851001p.pdf" type="application/pdf" width="550" height="400">
+<p>You don't have a PDF plugin, but you can <a href="https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/851001p.pdf">download the PDF file.</a></p></object>
+
+<h1>Los Angeles Emergency Operations Plan </h1>
+<object data="https://emergency..gov/sites/g/files/wph1791/files/2023-10/Emergency%20Operations%20Base%20Plan_2023.pdf" width="550" height="400">
+<p>You don't have a PDF plugin, but you can <a href="https://emergency..gov/sites/g/files/wph1791/files/2023-10/Emergency%20Operations%20Base%20Plan_2023.pdf">download the PDF file.</a></p></object>
+```
+<img alt="image" src="https://github.com/user-attachments/assets/cd83fdf1-064c-42b7-a0ae-d20e92625685" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e14a323b-827d-4109-9f46-c4f7227147e3" />
+
+[`The U.S. Space Force was established on Dec. 20, 2019`](https://www.defense.gov/News/News-Stories/article/article/2046035/trump-signs-law-establishing-us-space-force/), creating the first new branch of the armed services since 1947
+
+
 The U.S. government is closed. However, because the information this website provides is necessary to protect life and property, this site will be updated and maintained during the federal government shutdown. For the latest forecasts and critical weather information, visit www.weather.gov.To learn more, visit commerce.gov. Automated data processing will continue to populate this site provided services do not require manual intervention. @nasa-jpl @nasa-develop
 <img  alt="image" src="https://github.com/user-attachments/assets/470a016d-1765-41d1-896d-a7fc9e7e316a" />
 
@@ -911,6 +1038,20 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
