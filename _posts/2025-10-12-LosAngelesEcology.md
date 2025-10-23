@@ -10,9 +10,23 @@ date:   2025-10-09 8:51:06
 
 ---
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png"  alt="GO" />
 
 [comment]: <> (Emergency Files )
 
+## [#EatonCanyonFire @CityOfLosAngeles](https://recovery.lacounty.gov/eaton-fire/)
+
+
+Supervisor [Holly J. Mitchell](https://women.ca.gov/los-angeles-county-supervisor-holly-j-mitchell/) [archive.org/.../AV320250110t224555_002_L1B_RDN](https://archive.org/details/n-02-e-016.-srtmgl-1.2/AV320250110t224555_002_L1B_RDN_3f4aef90_RDN_BROWSE.jpg) ... Taken from [#AViRiS](https://aviris.jpl.nasa.gov/) [DataPortAl](https://popo.jpl.nasa.gov/mmgis-aviris/?mission=AVIRIS&site=ert&mapLon=-93.95507812500001&mapLat=40.245991504199026&mapZoom=4&globeLon=undefined&globeLat=undefined&globeZoom=undefined&panePercents=0,100,0&on=e4d92155-7af4-4ec3-ba97-1d6e4639c5d6$1.00,d068949c-3a21-45c0-8aa9-7dd29bfc8adc$1.00&startTime=2006-04-01T00:00:01.000Z&endTime=2024-02-15T21:27:02.653Z) / [EarthDataSearch](https://search.earthdata.nasa.gov/search?q=aviris)  @PodaaC @NASA-GiSS @Nasa-JPL [@Whitehouse](https://www.facebook.com/permalink.php?story_fbid=pfbid0JZbnxTEo3oTvzkB743GdjGFFcjXH9KTF15QGggy9iDTG8RAJMm2LSRkqMc5d6G9il&id=100084464911565) ::: @Amazon [YO!](https://www.facebook.com/permalink.php?story_fbid=pfbid0Yxwz2fCv9VmhMM2cQsjTUxqckJKw5NoMC2s3HJi9tiT6DqXZoDttRF7i56ZU9wqJl&id=100084464911565)
+
+<img width="349" height="84" alt="image" src="https://github.com/user-attachments/assets/827e3450-8586-4ead-9c7c-a2927b95356b" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/e9b1bf68-8be0-455b-8398-5a385c3064e5" />
+
+
+[ThX @mattgraham aka #KEViNROTHWELL! ʕ •ᴥ•ʔ](https://madebygraham.com/articles) 
+
+<img  alt="image" src="https://madebygraham.com/assets/images/android-demo.png" />
 
 [@Microsoft AndroidLAuncheriNACTiON @blackgirlscode @deptofdefense @whitehouse @cityoflosangeles @stateofcalifornia @LACMTA](https://ia800904.us.archive.org/14/items/screen-20250705-235856/screen-20250706-205654.mp4)
 
@@ -501,6 +515,10 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
+
+
+
 
 
 
