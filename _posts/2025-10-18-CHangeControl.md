@@ -24,6 +24,23 @@ Congressional deliberations about the National Aeronautics and Space Administrat
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid021UdKvDsfbGEc3hmGPmTYPMYZTsyfKQdaUD1CCcjdtpZckNi9VGc3ASM81wb7koEgl%26id%3D100084464911565&show_text=true&width=500" width="500" height="430" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
+
+
+EARTHDATA LOGIN
+
+Due to the lapse in federal government funding, NASA is not updating this website. We sincerely regret this inconve... Learn More 
+404 Resource Not Found
+The page you were looking for doesn't exist.
+You may have mistyped the address or the page may have moved.
+
+There has been an error processing your request. Please refer to the ID "6a9ec903-8742-4f95-bbdb-3a5028e9b7fa" when contacting [Earthdata Operations](https://www.earthdata.nasa.gov/).
+
+<img  alt="image" src="https://github.com/user-attachments/assets/e1f90f35-9e23-4757-a52c-efdc737ba501" />
+
+`https://wiki.earthdata.nasa.gov/login.action?sso=false`
+[https://wiki.earthdata.nasa.gov/login.action?sso=false](https://wiki.earthdata.nasa.gov/login.action?sso=false)
+
+
 [Alaska Awaits Response from FEMA in the Aftermath of Major Floods](https://eos.org/research-and-developments/alaska-awaits-response-from-fema-in-the-aftermath-of-major-floods) 
 
 # For Review
@@ -37,13 +54,6 @@ Not an official NASA account. Come for the facts, stay for the snark.🥄
 
 Same team from Twitter but with more gray hairs. 🚀🛰️🧪🔭
 
-
-
-
-<img  alt="image" src="https://github.com/user-attachments/assets/e1f90f35-9e23-4757-a52c-efdc737ba501" />
-
-`https://wiki.earthdata.nasa.gov/login.action?sso=false`
-[https://wiki.earthdata.nasa.gov/login.action?sso=false](https://wiki.earthdata.nasa.gov/login.action?sso=false)
 
 This site can’t be reachedThe connection was reset.
 Try:
@@ -1038,6 +1048,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
